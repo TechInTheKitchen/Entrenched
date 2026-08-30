@@ -9,8 +9,13 @@ echo   UPDATE ENTRENCHED ON GITHUB
 echo ========================================
 echo.
 
-where git >nul 2>nul
-if errorlevel 1 (
+set "GIT_EXE="
+where git >nul 2>nul && set "GIT_EXE=git"
+if not defined GIT_EXE if exist "%ProgramFiles%\Git\cmd\git.exe" set "GIT_EXE=%ProgramFiles%\Git\cmd\git.exe"
+if not defined GIT_EXE if exist "%LocalAppData%\Programs\Git\cmd\git.exe" set "GIT_EXE=%LocalAppData%\Programs\Git\cmd\git.exe"
+if not defined GIT_EXE if exist "%USERPROFILE%\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd\git.exe" set "GIT_EXE=%USERPROFILE%\.cache\codex-runtimes\codex-primary-runtime\dependencies\native\git\cmd\git.exe"
+
+if not defined GIT_EXE (
   echo Git could not be found. Install Git for Windows, then try again.
   goto :failed
 )
@@ -21,28 +26,28 @@ if not exist ".git" (
 )
 
 echo [1/4] Checking GitHub for changes...
-git pull --rebase --autostash origin main
+"%GIT_EXE%" pull --rebase --autostash origin main
 if errorlevel 1 goto :failed
 
 echo.
 echo [2/4] Refreshing the reader's document index...
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0refresh-content-index.ps1"
+"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -ExecutionPolicy Bypass -File "%~dp0refresh-content-index.ps1"
 if errorlevel 1 goto :failed
 
 echo.
 echo [3/4] Preparing local changes...
-git add -A
+"%GIT_EXE%" add -A
 if errorlevel 1 goto :failed
 
-git diff --cached --quiet
+"%GIT_EXE%" diff --cached --quiet
 if not errorlevel 1 goto :no_changes
 
-powershell.exe -NoProfile -Command "$message = 'Update Entrenched ' + (Get-Date -Format 'yyyy-MM-dd HH:mm'); git commit -m $message; exit $LASTEXITCODE"
+"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -Command "$message = 'Update Entrenched ' + (Get-Date -Format 'yyyy-MM-dd HH:mm'); ^& $env:GIT_EXE commit -m $message; exit $LASTEXITCODE"
 if errorlevel 1 goto :failed
 
 echo.
 echo [4/4] Publishing to GitHub...
-git push origin main
+"%GIT_EXE%" push origin main
 if errorlevel 1 goto :failed
 
 echo.
