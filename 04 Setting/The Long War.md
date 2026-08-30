@@ -32,7 +32,7 @@ Few sappers have seen a true civilian district recently. Behind the lines, ratio
 
 The state promises that sacrifice preserves everyone behind the trench. It rarely explains how little remains behind it.
 
-Letters from home are valuable because they prove a home existed. They are also dangerous. Many contain phrases copied by censors, news about people the recipient no longer remembers, or handwriting recognized by a replacement hand rather than its owner.
+Letters from home are valuable because they prove a home existed. They are also dangerous. Many contain phrases copied by censors, news about people the recipient no longer remembers, or handwriting recognized as a replacement hand rather than its owner.
 
 ## What the Sappers Are Told
 

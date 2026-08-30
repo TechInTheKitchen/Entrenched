@@ -90,7 +90,7 @@ Never conclusively answer all of the following:
 
 - Whether revival restores, copies, or replaces a person
 - Whether the other side is an afterlife or a physical place
-- What Black Matter ultimately wants
+- What Black Matter ultimately is
 - Which coalition began reconstruction
 - Whether peace outside the military system is still possible
 

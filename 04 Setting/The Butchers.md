@@ -58,7 +58,6 @@ Use a recurring Butcher to make revival personal. Give them one boundary they wi
 
 Possible boundaries:
 
-- Will not use child remains
 - Will not mix enemy brain tissue with an Allied face
 - Will not revive anyone who asked for permanent death
 - Will not open the sealed donor chamber below the workshop

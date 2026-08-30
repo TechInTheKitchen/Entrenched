@@ -26,11 +26,11 @@ Buildings survive as cellars, walls, pipes, and domestic objects stripped of con
 
 ### Flesh Wastes
 
-Repeated reconstruction, mass death, and Black Matter have taught the ground to assemble whatever it contains. Hair grows across puddles. Teeth form in wooden beams. Telephone wire develops a pulse. Monsters arise here as battlefield processes rather than species.
+Repeated reconstruction, mass death, and Black Matter have made the earth assemble whatever it contains. Hair grows across puddles. Teeth form in wooden beams. Telephone wire develops a pulse. Monsters arise here as battlefield processes rather than species.
 
 ### Quiet Ground
 
-Some areas receive no artillery and contain no patrols. Animals avoid them. Compasses turn toward their centers. The silence is more dangerous than shelling because both armies have independently decided not to disturb something.
+Some areas receive no artillery and contain no patrols. Animals avoid them. Compasses turn toward their centers. The silence is more dangerous than shelling because both armies have independently decided tread lightly.
 
 ## Weather
 
@@ -40,7 +40,7 @@ Weather should change what the map means.
 - **Fog** prevents distant attacks and allows voices to approach unseen.
 - **Heat** swells corpses and wakes living equipment.
 - **Cold** preserves routes and bodies but makes donor parts stiff or wakeful.
-- **Black snow** is ash from mass incineration. Some flakes contain legible fragments of identification paper.
+- **Black snow** is ash from mass incineration. Some flakes contain legible fragments of identification documents and photos of unknown people.
 
 ## Sensory Language
 
@@ -51,7 +51,7 @@ Use two or three senses, then stop.
 - Sweet disinfectant drifting from an unseen workshop
 - Warm rain collecting inside a helmet
 - A telephone ringing beneath several feet of earth
-- The taste of coins before artillery lands
+- The taste of metal before artillery lands
 - Horsehair growing from the cut surface of a sandbag
 - A familiar hand visible where no body should be
 

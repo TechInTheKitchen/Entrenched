@@ -1,6 +1,6 @@
 # Project Eisenseele
 
-**Eisenseele** is usually translated as **Iron Soul**. The name refers at once to the captured enemy research, the Allied reconstruction program built from it, and the material process that allows dead tissue to remember motion.
+**Eisenseele** is usually translated as **Iron Soul**. The name refers at once to the captured enemy research, the Allied reconstruction program built from it, and the material process that allows dead tissue to return.
 
 No single living person understands the entire project. Surgeons know procedures. Engineers know apparatus. Chaplains know rites. Handlers know how to calm living equipment. Each group believes the others have mistaken superstition for science.
 
@@ -10,7 +10,7 @@ Reconstruction requires four things:
 
 1. **Recoverable structure:** Enough body remains to establish a pattern, although the required amount decreases with experience and Black Matter exposure.
 2. **Donor material:** Human, animal, cultivated, or recovered tissue replaces what was destroyed.
-3. **Resonance:** The dead body must be exposed to a patterned combination of current, pressure, sound, and spoken memory.
+3. **Resonance:** The dead body must be exposed to a patterned combination of current, pressure, sound, and memory.
 4. **Black Matter:** Even when none is visibly implanted, trace amounts appear in every successful reconstruction.
 
 The result returns with the subject's military skills, much of their memory, and an increasing collection of donor impulses. Repeated revival improves useful performance while degrading personal identity.
@@ -29,10 +29,10 @@ Revived sappers report an interval between death and return. Most remember only 
 
 Common details include:
 
-- Everyone who has ever died is present, but few still have faces.
+- the dead are present, but not aware.
 - Shells rise from the ground into the sky.
 - Voices travel through walls and telephone wire.
-- Something moves parallel to the dead, one trench beyond sight.
+- Something stalks the dead, one trench beyond sight.
 - A light appears only when a living person begins revival.
 - Some dead resist that light because returning means forgetting more.
 
@@ -48,11 +48,11 @@ Identity is a physical pattern retained by nervous tissue and surrounding matter
 
 ### Final-Trench Doctrine
 
-The dead continue beneath the world. Revival opens a path and calls one of them back, but the wrong dead may follow parts of the body through.
+The dead continue beneath the world. Revival opens a path and calls one of them back, but the wrong soul may follow parts of the body through.
 
 ### Cultivation Theory
 
-Black Matter does not return anyone. It grows a useful continuation from remains and memories, improving the imitation each time while consuming the original pattern.
+Black Matter does not return anyone. It grows a useful continuation from remains and memories, improving the imitation each time while consuming the original.
 
 All three predict the observed results. None can prove the person who wakes is the person who died.
 
@@ -67,5 +67,5 @@ Eisenseele facilities may appear as:
 - Archives of removed memories stored on wax cylinders
 - Incineration halls built beside revival rooms
 
-The project is not a secret. Its details are compartmentalized because no institution wants its soldiers asking the correct questions.
+The project is not a secret. Its details are compartmentalized because no institution wants its soldiers asking questions.
 

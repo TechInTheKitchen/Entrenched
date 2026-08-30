@@ -14,7 +14,7 @@ Line soldiers say a sapper is not truly part of the 187th until the corpse hound
 
 The regiment's signal flag is a plain red field, chosen because it remains recognizable beneath mud, smoke, and blood. Raising it means a route has been opened and supporting troops may advance.
 
-The red flag is not a national banner. It bears no crest because the regiment has served governments that no longer exist. Sappers sometimes write the names of permanently dead unit members along its hem. Officers forbid this and rarely cut the names away.
+The red flag is not a national banner. It bears no crest because the regiment has served governments that no longer exist. Sappers sometimes write the names of permanently dead unit members along its hem. Officers forbid this, but rarely cut the names away.
 
 ## Organization
 
@@ -31,13 +31,13 @@ Promotion follows degradation openly. Ceremonies are brief. The officer reads th
 
 - **The First Mark:** After a sapper's first revival, the rest of the section marks the place of death on the shared map, even if it has no tactical value.
 - **Counting Back:** Before deployment, each sapper says the last thing they remember before their previous death. Anyone who cannot answer is watched closely.
-- **The Empty Place:** A permanently dead sapper's bunk remains unused until the operation ends.
+- **The Empty Bunk:** A permanently dead sapper's bunk remains unused until the operation ends.
 - **Borrowed Salute:** A sapper whose right arm has been replaced may salute with the left so nobody mistakes the gesture for a donor reflex.
 - **Red Thread:** Before a final Battleborn run, the unit ties red thread around every reconstructed limb. Corpse hounds are trained to follow it through ash.
 
 ## Command
 
-The current regimental commander is identified in orders only as **Colonel Vale**. Soldiers disagree about Vale's sex, age, voice, and whether the Colonel has ever appeared above the Deep Works. Every witness remembers the gold mask.
+The current regimental commander is identified in orders only as **Colonel Vale**. Soldiers disagree about Vale's sex, age, voice, and whether the Colonel has ever appeared above the Deep Works. Every witness remembers a gold mask with sharp bone teeth.
 
 Section officers are replaceable. Orders are not. If an officer dies, a successor reads the same briefing from the same folder, sometimes before the body is cold.
 

@@ -164,11 +164,11 @@ Start with a recognizable battlefield function: recovery, concealment, breaching
 
 Use these profiles as rough benchmarks:
 
-| Threat | Defense | Attack Dice | Speed |
-| --- | ---: | ---: | ---: |
-| Lesser horror | 2 | 4–5 | 4–8 |
-| Serious horror | 3 | 6–7 | 2–10 |
-| Major horror | 4 | 8–10 | 2–12 |
-| Operation threat | 5+ | 10+ | Any |
+| Threat           | Defense | Attack Dice | Speed |
+| ---------------- | ------: | ----------: | ----: |
+| Lesser horror    |       2 |         4–5 |   4–8 |
+| Serious horror   |       3 |         6–7 |  2–10 |
+| Major horror     |       4 |        8–10 |  2–12 |
+| Operation threat |      5+ |         10+ |   Any |
 
 Numbers alone do not make a memorable monster. Its behavior should threaten bodies, map knowledge, equipment, or the unit's ability to recover its dead.

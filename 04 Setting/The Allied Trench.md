@@ -1,6 +1,6 @@
 # The Allied Trench
 
-The Allied trench is shelter, barracks, hospital, factory, church, prison, and slaughterhouse. It is the closest thing the sappers have to home, which does not make it safe.
+The Allied trench is shelter, barracks, hospital, factory, church, prison, and slaughterhouse. It is the closest thing the sappers have to home, but that does not make it safe.
 
 ## Physical Layers
 
@@ -12,11 +12,11 @@ The surface contains firing steps, observation slits, machine-gun nests, duckboa
 
 ### Living Level
 
-Below the firing line are bunks, kitchens, chapels, stores, signal offices, and command rooms. Privacy is created with blankets and rank. Lamps burn animal fat mixed with industrial oil. The trench smells of wet wool, disinfectant, cooked grain, cordite, and the sweeter odor coming from below.
+Below the firing line are bunks, kitchens, chapels, stores, signal offices, and command rooms. Privacy is created with blankets and rank. Lamps burn animal fat mixed with industrial oil. The trench smells of wet wool, disinfectant, cooked grain, cordite, and a sweeter odor coming from below.
 
 ### Recovery Level
 
-Corpse hounds enter through gated ramps. Bodies are tagged, stripped, washed, and sorted. Equipment goes one direction. Recoverable human material goes another. The dead wait on hooks or tiled shelves until the [[The Butchers]] have space.
+Corpse hounds enter through gated ramps. Bodies are tagged, stripped, washed, and sorted. Equipment goes one direction. Recoverable human material goes another. The dead wait on hooks or shelves until the [[The Butchers]] have space.
 
 ### Deep Works
 
@@ -29,7 +29,7 @@ The trench has no natural morning. Shifts change according to whistles, bells, a
 - Reveille counts who can stand, not who is alive.
 - Inspection checks weapons, respirators, identifying tags, and signs that borrowed parts have begun acting independently.
 - Meals are served when supply arrives. Meat is uncommon and never identified.
-- Services are held before major assaults and after permanent incinerations.
+- Services are held before major assaults and after incinerations.
 - The names of the dead are read only after command confirms they cannot return.
 
 Soldiers sleep through artillery but wake when it stops. Silence usually means an assault, gas, or that the listener has gone deaf.
@@ -62,7 +62,7 @@ Choose one between runs:
 
 1. A soldier practices a signature because their new hand writes another name.
 2. A corpse hound scratches at a living sapper's bunk.
-3. The soup contains a tooth bearing an Allied filling.
+3. The soup contains a tooth bearing an gold filling.
 4. Fresh uniforms are issued with old blood still inside the seams.
 5. A child-sized respirator hangs above the chaplain's altar.
 6. Two soldiers argue over which one owns the memory of the same wedding.
