@@ -1,182 +1,182 @@
 [
-  {
-    "title": "Entrenched",
-    "path": "Entrenched.md",
-    "folder": "Start",
-    "type": "markdown"
-  },
-  {
-    "title": "Example Sappers",
-    "path": "06 Play Aids/Example Sappers.md",
-    "folder": "06 Play Aids",
-    "type": "markdown"
-  },
-  {
-    "title": "Entrenched Character Sheet",
-    "path": "06 Play Aids/Entrenched Character Sheet.pdf",
-    "folder": "06 Play Aids",
-    "type": "pdf"
-  },
-  {
-    "title": "Combat Checklist",
-    "path": "06 Play Aids/Combat Checklist.md",
-    "folder": "06 Play Aids",
-    "type": "markdown"
-  },
-  {
-    "title": "Enemies and Monsters",
-    "path": "05 Bestiary/Enemies and Monsters.md",
-    "folder": "05 Bestiary",
-    "type": "markdown"
-  },
-  {
-    "title": "The Long War",
-    "path": "04 Setting/The Long War.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "The First Sappers",
-    "path": "04 Setting/The First Sappers.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "The Enemy",
-    "path": "04 Setting/The Enemy.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "The Butchers",
-    "path": "04 Setting/The Butchers.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "The Allied Trench",
-    "path": "04 Setting/The Allied Trench.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "Project Eisenseele",
-    "path": "04 Setting/Project Eisenseele.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "No-Man's-Land",
-    "path": "04 Setting/No-Man's-Land.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "Faith of the Final Trench",
-    "path": "04 Setting/Faith of the Final Trench.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "187th Sappers Regiment",
-    "path": "04 Setting/187th Sappers Regiment.md",
-    "folder": "04 Setting",
-    "type": "markdown"
-  },
-  {
-    "title": "Introductory Operation: Raise the Red Flag",
-    "path": "03 Operations/Raise the Red Flag.md",
-    "folder": "03 Operations",
-    "type": "markdown"
-  },
-  {
-    "title": "Retaliation Tables",
-    "path": "02 Referee/Retaliation Tables.md",
-    "folder": "02 Referee",
-    "type": "markdown"
-  },
-  {
-    "title": "Referee Lore Guide",
-    "path": "02 Referee/Referee Lore Guide.md",
-    "folder": "02 Referee",
-    "type": "markdown"
-  },
-  {
-    "title": "Referee Guide",
-    "path": "02 Referee/Referee Guide.md",
-    "folder": "02 Referee",
-    "type": "markdown"
-  },
-  {
-    "title": "Mission Construction",
-    "path": "02 Referee/Mission Construction.md",
-    "folder": "02 Referee",
-    "type": "markdown"
-  },
-  {
-    "title": "Skill Checks and Combat",
-    "path": "01 Core Rules/Skill Checks and Combat.md",
-    "folder": "01 Core Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "Scar Table",
-    "path": "01 Core Rules/Scar Table.md",
-    "folder": "01 Core Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "Repair Table",
-    "path": "01 Core Rules/Repair Table.md",
-    "folder": "01 Core Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "Equipment",
-    "path": "01 Core Rules/Equipment.md",
-    "folder": "01 Core Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "Death and Rebirth",
-    "path": "01 Core Rules/Death and Rebirth.md",
-    "folder": "01 Core Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "Core Game Loop",
-    "path": "01 Core Rules/Core Game Loop.md",
-    "folder": "01 Core Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "Character Creation",
-    "path": "01 Core Rules/Character Creation.md",
-    "folder": "01 Core Rules",
-    "type": "markdown"
-  },
-  {
-    "title": "Safety and Tone",
-    "path": "00 Start Here/Safety and Tone.md",
-    "folder": "00 Start Here",
-    "type": "markdown"
-  },
-  {
-    "title": "Quick Reference",
-    "path": "00 Start Here/Quick Reference.md",
-    "folder": "00 Start Here",
-    "type": "markdown"
-  },
-  {
-    "title": "Movement and Exploration Checklist",
-    "path": "06 Play Aids/Movement and Exploration Checklist.md",
-    "folder": "06 Play Aids",
-    "type": "markdown"
-  },
-  {
-    "title": "Run Cycle Checklist",
-    "path": "06 Play Aids/Run Cycle Checklist.md",
-    "folder": "06 Play Aids",
-    "type": "markdown"
-  }
+    {
+        "title":  "The Allied Trench",
+        "path":  "04 Setting/The Allied Trench.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The Butchers",
+        "path":  "04 Setting/The Butchers.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The Enemy",
+        "path":  "04 Setting/The Enemy.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Project Eisenseele",
+        "path":  "04 Setting/Project Eisenseele.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "187th Sappers Regiment",
+        "path":  "04 Setting/187th Sappers Regiment.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Faith of the Final Trench",
+        "path":  "04 Setting/Faith of the Final Trench.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "No-Man\u0027s-Land",
+        "path":  "04 Setting/No-Man\u0027s-Land.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The First Sappers",
+        "path":  "04 Setting/The First Sappers.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Example Sappers",
+        "path":  "06 Play Aids/Example Sappers.md",
+        "folder":  "06 Play Aids",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Movement and Exploration Checklist",
+        "path":  "06 Play Aids/Movement and Exploration Checklist.md",
+        "folder":  "06 Play Aids",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Run Cycle Checklist",
+        "path":  "06 Play Aids/Run Cycle Checklist.md",
+        "folder":  "06 Play Aids",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Entrenched Character Sheet",
+        "path":  "06 Play Aids/Entrenched Character Sheet.pdf",
+        "folder":  "06 Play Aids",
+        "type":  "pdf"
+    },
+    {
+        "title":  "The Long War",
+        "path":  "04 Setting/The Long War.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Enemies and Monsters",
+        "path":  "05 Bestiary/Enemies and Monsters.md",
+        "folder":  "05 Bestiary",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Combat Checklist",
+        "path":  "06 Play Aids/Combat Checklist.md",
+        "folder":  "06 Play Aids",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Core Game Loop",
+        "path":  "01 Core Rules/Core Game Loop.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Death and Rebirth",
+        "path":  "01 Core Rules/Death and Rebirth.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Equipment",
+        "path":  "01 Core Rules/Equipment.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Character Creation",
+        "path":  "01 Core Rules/Character Creation.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Entrenched",
+        "path":  "Entrenched.md",
+        "folder":  "Start",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Quick Reference",
+        "path":  "00 Start Here/Quick Reference.md",
+        "folder":  "00 Start Here",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Safety and Tone",
+        "path":  "00 Start Here/Safety and Tone.md",
+        "folder":  "00 Start Here",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Repair Table",
+        "path":  "01 Core Rules/Repair Table.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Referee Lore Guide",
+        "path":  "02 Referee/Referee Lore Guide.md",
+        "folder":  "02 Referee",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Retaliation Tables",
+        "path":  "02 Referee/Retaliation Tables.md",
+        "folder":  "02 Referee",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Introductory Operation: Raise the Red Flag",
+        "path":  "03 Operations/Raise the Red Flag.md",
+        "folder":  "03 Operations",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Referee Guide",
+        "path":  "02 Referee/Referee Guide.md",
+        "folder":  "02 Referee",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Scar Table",
+        "path":  "01 Core Rules/Scar Table.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Skill Checks and Combat",
+        "path":  "01 Core Rules/Skill Checks and Combat.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Mission Construction",
+        "path":  "02 Referee/Mission Construction.md",
+        "folder":  "02 Referee",
+        "type":  "markdown"
+    }
 ]
