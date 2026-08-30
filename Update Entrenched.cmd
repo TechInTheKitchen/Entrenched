@@ -42,7 +42,7 @@ if errorlevel 1 goto :failed
 "%GIT_EXE%" diff --cached --quiet
 if not errorlevel 1 goto :no_changes
 
-"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -Command "$message = 'Update Entrenched ' + (Get-Date -Format 'yyyy-MM-dd HH:mm'); ^& $env:GIT_EXE commit -m $message; exit $LASTEXITCODE"
+"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -Command "$message = 'Update Entrenched ' + (Get-Date -Format 'yyyy-MM-dd HH:mm'); & $env:GIT_EXE commit -m $message; exit $LASTEXITCODE"
 if errorlevel 1 goto :failed
 
 echo.

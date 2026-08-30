@@ -2,7 +2,11 @@ $ErrorActionPreference = 'Stop'
 $root = Split-Path -Parent $MyInvocation.MyCommand.Path
 $rootUri = [Uri]($root.TrimEnd('\') + '\')
 $items = Get-ChildItem -LiteralPath $root -Recurse -File |
-    Where-Object { $_.Extension -in @('.md', '.pdf') -and $_.FullName -notmatch '[\\/]\.obsidian[\\/]' } |
+    Where-Object {
+        $_.Extension -in @('.md', '.pdf') -and
+        $_.Name -notin @('README.md', 'LICENSE.md') -and
+        $_.FullName -notmatch '[\\/]\.obsidian[\\/]'
+    } |
     ForEach-Object {
         $relative = [Uri]::UnescapeDataString($rootUri.MakeRelativeUri([Uri]$_.FullName).ToString())
         $type = if ($_.Extension -eq '.pdf') { 'pdf' } else { 'markdown' }
