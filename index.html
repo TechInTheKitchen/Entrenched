@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Entrenched - a brutal body-horror tabletop roleplaying game.">
+  <meta name="theme-color" content="#171816">
+  <title>Entrenched</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="vendor/marked.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <button class="icon-button nav-toggle" id="nav-toggle" type="button" aria-label="Open table of contents" aria-controls="site-nav" aria-expanded="false">☰</button>
+    <a class="brand" href="./" data-page="Entrenched.md">
+      <span class="brand-mark">E</span>
+      <span><strong>Entrenched</strong><small>187th Sappers Regiment</small></span>
+    </a>
+    <div class="header-actions">
+      <button class="text-button" id="expand-all" type="button">Collapse all</button>
+      <button class="icon-button" id="theme-toggle" type="button" aria-label="Change color theme">◐</button>
+    </div>
+  </header>
+
+  <div class="shell">
+    <main class="reader" id="reader" tabindex="-1">
+      <div class="loading" id="loading" role="status">Opening field manual…</div>
+      <article class="markdown-body" id="content" hidden></article>
+      <section class="error-panel" id="error" hidden>
+        <p class="eyebrow">DOCUMENT UNRECOVERABLE</p>
+        <h1>The requested record could not be opened.</h1>
+        <p id="error-detail">Return to the main field manual and try again.</p>
+        <a class="return-link" href="./" data-page="Entrenched.md">Return to Entrenched</a>
+      </section>
+    </main>
+
+    <aside class="sidebar" id="site-nav" aria-label="Table of contents">
+      <div class="sidebar-head">
+        <p class="eyebrow">TABLE OF CONTENTS</p>
+        <button class="icon-button close-nav" id="close-nav" type="button" aria-label="Close table of contents">×</button>
+      </div>
+      <label class="search-label" for="nav-search">Find a document</label>
+      <input class="nav-search" id="nav-search" type="search" placeholder="Search titles…" autocomplete="off">
+      <nav class="tree" id="tree"></nav>
+      <p class="sidebar-note">The battlefield changes. The record remembers.</p>
+    </aside>
+  </div>
+  <div class="scrim" id="scrim" hidden></div>
+</body>
+</html>

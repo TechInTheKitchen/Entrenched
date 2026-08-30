@@ -1,0 +1,16 @@
+# Local Obsidian configuration and plugins
+.obsidian/
+
+# Editable source artwork; export web-ready images into assets instead
+*.xcf
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary office-document lock files
+.~lock.*#
+
+# Editable character-sheet source; publish the PDF export instead
+*.docx
