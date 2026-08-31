@@ -26,7 +26,7 @@ button,input{font:inherit}
 .icon-button{width:2.35rem;height:2.35rem;font:1.15rem/1 Arial,sans-serif}.text-button{padding:.45rem .7rem;font:700 .68rem/1 Arial,sans-serif;text-transform:uppercase;letter-spacing:.08em}
 .icon-button:hover,.text-button:hover{color:var(--ink);background:var(--surface-2);border-color:var(--line)}
 .nav-toggle,.close-nav{display:none}
-.shell{position:relative;z-index:1;min-height:100vh;padding-top:4rem;padding-right:var(--sidebar)}
+.shell{min-height:100vh;padding-top:4rem;padding-right:var(--sidebar)}
 .reader{min-height:calc(100vh - 4rem);padding:4.5rem clamp(1.4rem,5vw,5rem) 8rem}
 .markdown-body{width:min(100%,var(--reading));margin:0 auto;padding:clamp(1.35rem,3.5vw,2.7rem);background:var(--reader-panel);border:1px solid var(--reader-edge);box-shadow:0 24px 70px rgba(0,0,0,.2);backdrop-filter:blur(2px)}
 .markdown-body h1,.markdown-body h2,.markdown-body h3,.markdown-body h4{font-family:Arial,sans-serif;line-height:1.18;scroll-margin-top:5.5rem;color:var(--ink)}
