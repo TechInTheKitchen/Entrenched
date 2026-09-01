@@ -89,8 +89,7 @@ Please submit feedback through the repository's [Issues](https://github.com/Tech
 
 ## Development
 
-The source rules are ordinary Markdown files and can be edited in Obsidian or any text editor. The included `Update Entrenched.cmd` helper refreshes the reader index, commits non-ignored changes, and pushes them to the `main` branch.
-
+The source rules are ordinary Markdown files and can be edited in Obsidian or any text editor. 
 The public reader is hosted with GitHub Pages from the repository root.
 
 ## License
