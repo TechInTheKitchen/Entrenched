@@ -15,10 +15,5 @@ desktop.ini
 # Editable character-sheet source; publish the PDF export instead
 *.docx
 
-# Local reader launcher and development
-Open Entrenched Site.cmd
-Update Entrenched.cmd
-UpdateEntrenched.cmd
-local-server.cjs
-refresh-content-index.ps1
-*.cmd
+# Local maintenance and preview tools
+tools/

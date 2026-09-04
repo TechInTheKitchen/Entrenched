@@ -56,6 +56,8 @@ The operation ends when the objective is completed or the entire unit is permane
 | `04 Setting` | The war, the Allied trench, reconstruction, faith, and the enemy |
 | `05 Bestiary` | Soldiers, formations, battlefield creatures, and reconstructed horrors |
 | `06 Play Aids` | Checklists, example sappers, and the printable character sheet |
+| ssets | Public styles, scripts, libraries, and web-ready images |
+| 	ools | The tracked script that rebuilds the reader navigation |
 
 `Entrenched.md` is the main table of contents. `content-manifest.json` supplies the web reader's navigation.
 
