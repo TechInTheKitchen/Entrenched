@@ -34,7 +34,7 @@ The referee can keep every mechanical consequence while veiling imagery. A recon
 
 ## Character Control
 
-Borrowed memories, donor impulses, and restless scars create pressure but do not give the referee unlimited control of a player character. State the impulse and ask the player how it appears. When a rule forces movement or another brief action, resolve only what the rule says and return control immediately.
+Borrowed memories, donor impulses, and scar-memory intrusions create pressure but do not give the referee unlimited control of a player character. State the trigger and ask the player how the brief reaction appears. The player decides how their sapper yields or resists; an intrusion never dictates a lethal action, consumes an entire turn, or decides the character's loyalties.
 
 Identity fields are physically obscured because Humanity is being lost. A player may choose how to mark the sheet and may use removable overlays, sticky notes, or a photocopy if permanent alteration of the original sheet would be uncomfortable.
 
@@ -53,4 +53,3 @@ Take a few minutes to leave the trench behind. Ask:
 - Does anyone want a boundary changed?
 
 Boundaries may change between or during sessions. Agreement at the beginning is not permanent consent.
-

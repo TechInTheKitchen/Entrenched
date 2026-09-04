@@ -19,7 +19,7 @@ Death makes a sapper more capable. It also consumes Humanity. The operation beco
 
 1. Read [[Safety and Tone]], [[Core Game Loop]], and [[Referee Guide]].
 2. Use [[Mission Construction]] to prepare an operation, or begin with [[Raise the Red Flag]].
-3. Keep [[Retaliation Tables]] and [[Enemies and Monsters]] available during play.
+3. Keep [[Retaliation Tables]], [[Enemies and Monsters]], and [[Stationary Defenses]] available during play.
 4. Keep [[Combat Checklist]], [[Movement and Exploration Checklist]], and [[Run Cycle Checklist]] beside the map.
 5. Use [[Referee Lore Guide]] and the setting notes for flavor and gradual revelations.
 
@@ -44,6 +44,7 @@ Death makes a sapper more capable. It also consumes Humanity. The operation beco
 - [[Scar Table]]
 - [[Equipment]]
 - [[Enemies and Monsters]]
+- [[Stationary Defenses]]
 
 ## Running the Game
 
@@ -75,4 +76,3 @@ Death makes a sapper more capable. It also consumes Humanity. The operation beco
 Every death should make a sapper more useful, more visibly inhuman, and meaningfully closer to permanent destruction.
 
 The setting should answer practical questions while leaving its cosmology unstable. The sappers can learn how revival works without ever proving what returns.
-

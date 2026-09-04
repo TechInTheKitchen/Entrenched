@@ -23,6 +23,10 @@ The leader of a cooperative check may use one relevant item. Helpers contribute 
 
 Level 1 gear is replaced freely. Level 2 gear is scarce. Level 3 gear is classified as a strategic organism or weapon and command values its recovery above the life or body of its bearer. If a sapper and a level 3 item cannot both be recovered, official orders require the item. Leaving it behind should change enemy behavior and usually makes its recovery an immediate objective.
 
+Per-run abilities refresh automatically when a new run begins. Consumable circles do not all refresh automatically: level 1 consumables are refilled freely during outfitting; level 2 consumables are refilled only when command can replace or service the item; level 3 consumables follow the mission's prepared supply and the demands of their handler. The referee states the available supply before equipment is chosen.
+
+Level 3 equipment does not cost Humanity merely because it is grotesque. Humanity is lost only when an item's rule explicitly states a cost or when using it causes another listed Humanity-loss event. Description creates horror; explicit rules create loss.
+
 ## Issued Equipment
 
 These items are given to every sapper and do not consume equipment slots.
@@ -57,7 +61,7 @@ Level 1 equipment is dependable, replaceable, and recognizable to soldiers from 
 | Camouflage sheet | Stealth | Adds 1 die when hiding a stationary sapper, body, or small cache. |
 | Rope and climbing hooks | Strength | Adds 1 die when climbing, hauling, or lowering bodies and equipment. |
 | Trapmaker's roll | Engineering | Adds 1 die when constructing or concealing a trap. |
-| Butcher's field roll | Revival | When rolling on the [[Repair Table]] after a field revival, reroll the body-part source and choose either result. The sapper still gains a scar. |
+| Butcher's field roll | Special | When its bearer performs a field revival, reroll the Source Die on the [[Repair Table]] and choose either source result. The sapper still gains a scar. |
 
 ## Level 1 Explosives and Supplies
 
@@ -93,7 +97,7 @@ Level 2 equipment is expensive machinery produced by a civilization that has for
 | Sound-ranging headset | Awareness | Adds 2 dice when locating artillery, engines, tunneling, or movement through obscured ground. |
 | Reactive camouflage mantle | Stealth | Adds 2 dice while moving slowly or remaining still. |
 | Powered breaching frame | Strength | Adds 2 dice when lifting, breaking, or forcing. The wearer cannot be moved by ordinary environmental retaliation while braced. |
-| Mechanical revival frame | Revival | The reviver may begin field revival from an adjacent square and cannot be forced away by anything short of being moved or killed. Roll two replacement locations on the [[Repair Table]] and choose one; roll the source normally. The revived sapper still gains a scar. |
+| Mechanical revival frame | Special | Its bearer may begin field revival from an adjacent square and cannot be forced away by anything short of being moved or killed. Roll two Body Dice on the [[Repair Table]] and choose one result; roll one Source Die normally. The revived sapper still gains a scar. |
 
 ## Level 2 Explosives and Armor
 
@@ -115,7 +119,7 @@ Level 3 equipment is never truly issued. It is introduced to its new bearer by a
 | Marrow rifle | Ranged | Far | Adds 3 dice to attacks. The stock tightens around the shooter's replacement parts; after it kills, the sapper may immediately move 2 squares toward the body. |
 | Sinew repeater | Ranged | Close | Adds 3 dice to attacks. Once per sapper turn, if the attack kills, the weapon may lash at a second target in Close range using only its 3 equipment dice. |
 | Ossuary cleaver | Close Quarters | Melee | Adds 3 dice to attacks. After killing at Melee range, the cleaver roots into the body; the wielder immediately learns whether it carries usable human, animal, enemy, or Black Matter material. |
-| Choir gun | Ranged | Far | Adds 3 dice to attacks. Its preserved throats scream the instant they sense a target; the wielder cannot be surprised by a visible enemy at Far range, but the weapon always reveals the unit's position when fired. |
+| Choir gun | Ranged | Far | Adds 3 dice to attacks. Its preserved throats scream the instant they sense a visible target at Far range; its bearer does not suffer the −1 Defense from Surprise against that enemy during the first round. The weapon always reveals the unit's position when fired. |
 
 ## Level 3 Tools
 
@@ -126,7 +130,7 @@ Level 3 equipment is never truly issued. It is introduced to its new bearer by a
 | Tendon winch | Strength | Adds 3 dice. The grafted cable may pull a sapper or body up to the user's full movement instead of the user moving. |
 | Listening root | Awareness | Adds 3 dice when pressed into earth, wood, or flesh. On a success, it also reveals whether something living has crossed or touched the surface recently. |
 | Black-vein infiltrator | Engineering | Adds 3 dice. The organism crawls inside a machine and learns its shape; after a successful sabotage, it can restore the machine to working order once for Allied use. |
-| Lazarus satchel | Revival | During field revival, roll two locations and two sources on the [[Repair Table]], choosing one of each. The revived sapper rolls twice on the scar table and chooses which scar to keep. The satchel whispers with the voices of every sapper previously repaired by it. |
+| Lazarus satchel | Special | When its bearer performs a field revival, roll two Body Dice and two Source Dice on the [[Repair Table]], choosing one result from each pair. The revived sapper rolls twice on the scar table and chooses which scar to keep. The satchel whispers with the voices of every sapper previously repaired by it. |
 
 ## Level 3 Explosives and Armor
 
@@ -143,3 +147,4 @@ Retaliation may damage, destroy, bury, or separate a sapper from equipment when 
 
 The Allied trench replaces level 1 equipment freely between runs. Level 2 items are scarce and may not be immediately replaced. A lost level 3 item outranks personnel recovery: command demands its return, and the enemy treats its capture as a major victory. Mark every lost item on the shared map.
 
+Recovered equipment returns to its assigned bearer if that sapper is present. Another sapper may carry it, but gains no mechanical benefit until it is formally reissued during outfitting. Recovery does not refill spent consumable uses unless the appropriate supply is available.

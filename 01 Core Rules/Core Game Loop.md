@@ -72,9 +72,9 @@ Retaliation is intentionally lethal. Combat attacks that meet Defense inflict le
 
 ## Death in the Field
 
-If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper to play during the same run, but leaves permanent scars. Each scar provides a useful adaptation and a horrifying complication.
+If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper to play during the same run at full health, but leaves permanent scars. Each scar provides a passive physical adaptation and a donor memory that can overwrite what remains of the sapper's former life.
 
-The unit succeeds and fails together. A body is not dragged during play. Survivors must field-revive a fallen sapper before retreating with them. Any body left behind is abandoned to corpse hounds, enemy recovery, or the battlefield and is resolved after the run. No sapper is left in no-man's-land lightly.
+The unit succeeds and fails together. A body is not dragged during play. Survivors must field-revive a fallen sapper before retreating with them. Any body left behind is abandoned to corpse hounds, enemy recovery, or the battlefield and is resolved after the run. When a fallen or captured sapper can still be recovered, their location or route remains on the map and the unit receives a dangerous opportunity to bring them back. No sapper is left in no-man's-land lightly.
 
 If the entire unit dies, corpse hounds or recovery details eventually return the bodies to the Allied trench. The Butchers rebuild them there, and the next run begins after their revival.
 
@@ -84,13 +84,13 @@ Every sapper tracks Humanity separately, beginning at 100. Revival costs Humanit
 
 As Humanity falls, the sapper becomes more capable and less recognizably human. Their replacements, scars, instincts, and altered behavior record the price of every run. This transformation is useful to the mission: the sappers most suited to the worst dangers are those closest to losing themselves.
 
-At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every later death marks one of three Burn boxes. The third reduces them beyond revival, and capture fills every remaining box at once.
+At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every death suffered after awakening at 0 Humanity marks one of three Burn boxes. The death whose revival first reduces them to 0 marks none. The third later death reduces them beyond revival, and capture fills every remaining box at once.
 
 The adventure therefore becomes a race. The unit must use the knowledge gathered on earlier runs to complete its mission before every sapper becomes Battleborn and the enemy destroys them for good.
 
 ## The Cycle
 
-Each day repeats the following cycle:
+Each run repeats the following cycle:
 
 1. **Briefing:** Command assigns the operation and gives the unit its incomplete map.
 2. **Outfitting:** The sappers select the limited equipment they will carry.
@@ -108,8 +108,8 @@ Each day repeats the following cycle:
 3. Resolve abandoned bodies and every Butcher reconstruction.
 4. Record Humanity loss, repairs, scars, skill gains, promotions, Flesh, and Burn.
 5. Decide what the enemy observed and choose one or two logical responses.
-6. Replace level 1 gear, account for scarce gear, and outfit every sapper.
-7. Choose each sapper's restless scar and refresh per-run uses.
+6. Replace and refill level 1 gear, account for scarce level 2 and priority level 3 supplies, and outfit every sapper.
+7. Refresh per-run abilities and note each scar-memory trigger that may matter on the next route.
 8. Begin again from the Allied trench, crossing unchanged safe ground quickly.
 
 The cycle ends only in mission success or the permanent destruction of the unit.

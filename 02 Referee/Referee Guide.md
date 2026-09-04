@@ -36,11 +36,17 @@ Play enemy knowledge honestly. A surviving sentry may report the unit's route. A
 
 Between runs, choose one or two reactions based on what the enemy learned. Preserve patterns the players can exploit. Reinforcing a known patrol route creates a harder problem; moving every danger without cause makes the map meaningless.
 
+Run pillboxes, gun rooms, projectors, and living fortifications using [[Stationary Defenses]]. They respond to explicit triggers instead of taking automatic enemy turns. Keep their firing lanes and behavior consistent so distraction, concealment, and sabotage can become learned solutions.
+
 ## Death, Recovery, and Cohesion
 
-Objectives should demand a cohesive unit. A sapper left behind may be captured, studied, stripped for parts, or burned after becoming Battleborn. The unit should want to recover its own without needing an abstract rule that forbids separation.
+Objectives should demand a cohesive unit. A sapper left behind may be stripped for parts, burned after becoming Battleborn, or captured for study when their Humanity is 25 or less, their reconstruction is visibly extensive, or they carry level 3 equipment. Human-looking prisoners are usually not worth the enemy's effort unless the operation establishes another reason.
+
+Leaving a sapper behind is a last resort, not a routine between-run cleanup. If recovery remains possible, mark the body, captive, or enemy route and give the unit a dangerous opportunity to reclaim them during the current or next run. Make recovery compete with time, equipment, or the primary objective. Do not declare permanent death while a concrete rescue remains in reach.
 
 When a sapper dies, keep that player involved in decisions about recovery, the map, and the remaining unit. If anyone survives, field revival can return the dead after the required full round. If everyone dies, move quickly to body recovery and reconstruction in the trench.
+
+If a sapper is permanently lost while the operation continues, their player may create a new Private at the next trench return. The recruit receives the normal starting profile and the unit's map knowledge, but inherits none of the lost sapper's personal advancement. Until then, invite the player to portray a temporary recruit, an Allied corpse hound, or another willing player's intrusive donor memory.
 
 ## Trench Interludes
 
@@ -58,6 +64,17 @@ Choose one or two details each time:
 - A familiar song awakens a replacement part's unfamiliar memory.
 
 Let players pursue a trench scene when it matters to them, but return to outfitting and deployment before safety becomes comfortable.
+
+> [!NOTE] Optional Background Ambience
+> Quiet environmental sound can help sustain the pressure of the Front, but it is not required. Keep it beneath the players' voices and favor rain, timber creaks, distant artillery, and sparse battlefield noise over heroic or cinematic music.
+>
+> Suggested starting points:
+>
+> - [8 Hours of WWI Trench Rain Ambience](https://www.youtube.com/watch?v=oHe9tw94bQ0) for general play.
+> - [Night in a Foggy Trench](https://www.youtube.com/watch?v=8yFviiVmp-I) for trench interludes and cautious exploration.
+> - [No-Man's Land — Battlefield 1 Soundscape](https://www.youtube.com/watch?v=e8H87TRlx-I) for exposed crossings and active battlefields.
+>
+> Let the sound change with the fiction rather than switching to combat music. Raise the battlefield slightly as danger closes, then cut it completely during revival. The referee's voice, the dice, and the table's own noises make the procedure more intimate and unsettling. Restore the rain afterward, perhaps more quietly than before. Test videos before play because availability, advertisements, and volume can change.
 
 ## Orders and Desertion
 
@@ -84,7 +101,7 @@ Afterward:
 
 - Telegraph dangers that explicitly kill before resolving them.
 - Let a successful check accomplish its declared purpose; do not cancel it with an equivalent consequence.
-- One failed check normally creates one primary retaliation. Add only consequences explicitly armed by scars, items, creatures, or hazards.
+- One failed check outside combat normally creates one primary retaliation. During combat, the enemy turn is the retaliation. Add another consequence only when an item, creature, hazard, or operation explicitly requires it.
 - When several targets make equal sense, threaten the most exposed rather than automatically selecting the weakest sapper.
 - Let learned routes, destroyed positions, and good preparation make later runs meaningfully safer.
 - Make death reveal information, alter the map, consume a resource, or sharpen the horror. A death that changes nothing is wasted violence.
@@ -100,4 +117,3 @@ Use [[Combat Checklist]], [[Movement and Exploration Checklist]], and [[Run Cycl
 - **Let knowledge matter.** A discovered route is progress even when everyone dies.
 - **Keep safety brief.** The trench offers recovery, not relief.
 - **Show the cost.** Every new ability should leave something human behind.
-

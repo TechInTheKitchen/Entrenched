@@ -1,11 +1,5 @@
 [
     {
-        "title":  "The Allied Trench",
-        "path":  "04 Setting/The Allied Trench.md",
-        "folder":  "04 Setting",
-        "type":  "markdown"
-    },
-    {
         "title":  "The Butchers",
         "path":  "04 Setting/The Butchers.md",
         "folder":  "04 Setting",
@@ -18,14 +12,14 @@
         "type":  "markdown"
     },
     {
-        "title":  "Project Eisenseele",
-        "path":  "04 Setting/Project Eisenseele.md",
+        "title":  "The First Sappers",
+        "path":  "04 Setting/The First Sappers.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
     {
-        "title":  "187th Sappers Regiment",
-        "path":  "04 Setting/187th Sappers Regiment.md",
+        "title":  "The Allied Trench",
+        "path":  "04 Setting/The Allied Trench.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -42,8 +36,14 @@
         "type":  "markdown"
     },
     {
-        "title":  "The First Sappers",
-        "path":  "04 Setting/The First Sappers.md",
+        "title":  "Project Eisenseele",
+        "path":  "04 Setting/Project Eisenseele.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The Long War",
+        "path":  "04 Setting/The Long War.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -72,14 +72,14 @@
         "type":  "pdf"
     },
     {
-        "title":  "The Long War",
-        "path":  "04 Setting/The Long War.md",
-        "folder":  "04 Setting",
+        "title":  "Enemies and Monsters",
+        "path":  "05 Bestiary/Enemies and Monsters.md",
+        "folder":  "05 Bestiary",
         "type":  "markdown"
     },
     {
-        "title":  "Enemies and Monsters",
-        "path":  "05 Bestiary/Enemies and Monsters.md",
+        "title":  "Stationary Defenses",
+        "path":  "05 Bestiary/Stationary Defenses.md",
         "folder":  "05 Bestiary",
         "type":  "markdown"
     },
@@ -87,6 +87,12 @@
         "title":  "Combat Checklist",
         "path":  "06 Play Aids/Combat Checklist.md",
         "folder":  "06 Play Aids",
+        "type":  "markdown"
+    },
+    {
+        "title":  "187th Sappers Regiment",
+        "path":  "04 Setting/187th Sappers Regiment.md",
+        "folder":  "04 Setting",
         "type":  "markdown"
     },
     {

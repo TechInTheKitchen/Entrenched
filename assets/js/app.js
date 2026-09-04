@@ -160,7 +160,7 @@
       return;
     }
     try {
-      const response=await fetch("content-manifest.json",{cache:"no-store"}); if(!response.ok)throw new Error("Content index unavailable");
+      const response=await fetch("assets/content-manifest.json",{cache:"no-store"}); if(!response.ok)throw new Error("Content index unavailable");
       state.manifest=await response.json(); state.manifest.forEach(item => {
         const path = normalize(item.path).toLowerCase();
         const basename = path.split("/").pop().replace(/\.(?:md|pdf)$/i, "");

@@ -25,8 +25,8 @@ The web reader background is adapted from *Battle of the Somme trench map*, cata
 
 https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/battle-of-the-somme-trench-map/
 
-Contains public sector information licensed under the Open Government Licence v3.0:
+Contains public sector information licensed under the Open Government License v3.0:
 
 https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
 
-The background source material is not covered by the Entrenched CC BY-NC 4.0 licence.
+The background source material is not covered by the Entrenched CC BY-NC 4.0 license.

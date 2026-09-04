@@ -46,7 +46,7 @@ The specialty name may be changed to fit the sapper. Its only fixed mechanical e
 
 ## 3. Assign Recruit Training
 
-Spend 5 additional skill points among any skills. No skill may begin above rank 3 after specialty ranks and recruit training are combined. Skills have a maximum rank of 10.
+Assign 5 additional skill ranks among any skills. Each rank increases one chosen skill by 1. No skill may begin above rank 3 after specialty ranks and recruit training are combined. Skills have a maximum rank of 10.
 
 Sappers gain skill ranks through revival. Broad skills leave room for specialization through equipment, scars, body parts, and the particular actions a sapper becomes known for.
 
@@ -123,4 +123,4 @@ Before play, confirm that the sheet shows:
 - Issued helmet and basic armor, which use no equipment slots
 - No Flesh, Battlefield Intuition, or Burn boxes marked yet
 
-Leave the body diagram and replacement record untouched. They belong to the sapper's deaths, not their creation.
+Leave all ten zones of the body diagram and the replacement record untouched. They belong to the sapper's deaths, not their creation.

@@ -1,61 +1,60 @@
 # Scar Table
 
-Field revival is faster than reconstruction by the Butchers, but it leaves the sapper badly integrated. Every field-revived sapper rolls `d100` and gains a scar.
+Field revival is faster than reconstruction by the Butchers, but it leaves the sapper badly integrated. Every field-revived sapper rolls two six-sided dice, adds them together, and gains the scar matching the total.
 
-Read the dice separately:
+Unlike the separately read dice on the [[Repair Table]], these dice are **added**. The resulting curve makes rough but recognizable repair scars common and places the strangest integrations at the rare extremes.
 
-- The tens digit determines the **physical scar** and its adaptation.
-- The ones digit determines the **borrowed echo** trapped in the repair.
+| Total | Combinations | Frequency |
+| ---: | ---: | ---: |
+| 2 or 12 | 1 each | 2.8% each |
+| 3 or 11 | 2 each | 5.6% each |
+| 4 or 10 | 3 each | 8.3% each |
+| 5 or 9 | 4 each | 11.1% each |
+| 6 or 8 | 5 each | 13.9% each |
+| 7 | 6 | 16.7% |
 
-Combine the two results and describe how they appear on or around the body part rolled on the [[Repair Table]]. A result of 47, for example, creates a Twitching Graft carrying the memory of A Quiet Kitchen.
+Describe the scar on and around the body zone just replaced. The donor family from the Repair Table colors its texture, instincts, and memories. Exposed Stitchwork made from a corpse hound may pant beneath the sutures; the same scar made from an Allied donor may tighten when it hears the donor's regiment called.
 
-If the same combination is rolled again, keep it and describe how the existing scar spreads or intensifies.
+If the same scar is rolled again, keep it and describe how the existing alteration spreads or deepens. Identical adaptations never stack.
 
-## Physical Scar
+## Passive Scars and Borrowed Memories
 
-Every physical scar provides an adaptation and a possible complication. Adaptation dice are temporary bonuses, not skill ranks.
+Every scar has two connected parts:
 
-| Tens | Physical Scar | Adaptation | Complication After Failure |
+- A **passive adaptation** that is permanently available and requires no activation marks.
+- A **memory trigger** that lets the donor's experience press against the sapper's written identity.
+
+When several scars could add dice or change Defense against the same roll or attack, use only the single most favorable scar. Non-dice effects may coexist when the fiction allows them. An adaptation must follow the altered body: a muscle graft in the leg does not help force a door with one hand.
+
+The first time during a run that a scar's trigger becomes immediate and consequential, the referee may call for a **memory intrusion**. The player chooses one:
+
+- **Yield:** Show a brief involuntary reaction suggested by the scar, then obscure the listed word, name, or concrete detail in the sapper's written memories and replace it with the donor memory.
+- **Resist:** Preserve the written memory and keep control, but lose 1 Humanity unless the scar states a greater cost.
+
+An intrusion may interrupt a gesture, sentence, or moment of attention, but never consumes an entire turn, dictates a lethal action, or decides the sapper's loyalties. The player decides the precise reaction. Only one memory intrusion can exact a written-memory or Humanity cost from a sapper during each run. Later triggers may color narration without imposing another cost. Humanity lost by resisting counts as the sapper's one incidental Humanity-loss event for that run.
+
+## Weighted Scar Table
+
+| 2d6 | Scar | Passive Adaptation | Memory Trigger and Intrusion |
 | ---: | --- | --- | --- |
-| 10 | Exposed Stitchwork | Once per run, add 2 dice when the repaired part directly contributes to a check. | The seams pull open. Mark a Flesh box after the failed check's normal retaliation; the sapper becomes Dying if none is empty. |
-| 20 | Layered Muscle | Add 1 die to Strength when the repaired part can provide leverage. | The graft clenches uncontrollably, crushing, gripping, or throwing something important. |
-| 30 | Bone Bloom | Once per run, increase Defense by 1 against a single attack as bone erupts beneath the skin. | New growth locks a nearby joint; the sapper moves 2 fewer squares until the run ends. |
-| 40 | Twitching Graft | Once per run, reroll up to 2 dice on a check using the repaired part. | The donor reflex acts first, moving the sapper or part toward immediate danger. |
-| 50 | Predatory Joint | Once per run after acting, move 2 squares without spending an action. | The part pursues blood, movement, or weakness before the sapper regains control. |
-| 60 | Numb Reconstruction | Once per run, ignore the penalty from being Wounded for one check. | The sapper fails to notice fresh damage, heat, cold, or something attached to the graft. |
-| 70 | Sensory Growth | Once per run, add 2 dice to Awareness or Mobility. | The growth becomes overwhelmed; the referee introduces false movement, phantom pain, or a remembered threat. |
-| 80 | Parasitic Circulation | After a successful field revival, the sapper may immediately move 2 squares. | The repair becomes hungry and draws strength from healthy tissue; lose 1 additional Humanity. |
-| 90 | Mismatched Proportion | Once per run, treat a failed Strength, Mobility, or Ranged check as a success, then mark a Flesh box. If none is empty, the sapper becomes Dying after completing the action. | The altered reach, stride, or weight damages equipment or puts another sapper in danger. |
-| 00 | Black Seep | Once per run, add 3 dice to any check involving the repaired part. | The Black Matter acts with its own purpose. The referee may move the sapper up to their normal movement or make them release what they hold. |
+| 2 | **Grave Aperture** | The repaired zone can sense identifiable fallen bodies through smoke, darkness, and solid barriers within Close range. It cannot identify living creatures this way. | **Trigger:** A body disappears, calls from beyond a barrier, or begins revival. **Intrusion:** The aperture remembers the lightless trench beyond death. Yield by replacing two written details with descriptions of the other side, or resist and lose 2 Humanity. |
+| 3 | **Black Seep** | Add 1 die to a check involving Black Matter or the other side when the repaired zone touches or directly perceives it. | **Trigger:** Black Matter, impossible stillness, or a voice beneath the earth. **Intrusion:** The donor remembers burial as safety. Replace a remembered place of safety with somewhere dark and underground, or lose 1 Humanity. |
+| 4 | **Sensory Bloom** | Add 1 die to Awareness when the growth can hear, smell, feel, or see the danger. | **Trigger:** A familiar voice, smell, song, meal, or domestic object. **Intrusion:** The sensation belongs to the donor's home. Replace one sensory detail from the sapper's former life with the donor's version, or lose 1 Humanity. |
+| 5 | **Bone Bloom** | Gain +1 Defense against Melee attacks when the repaired zone can turn, catch, or harden against the blow. | **Trigger:** Confinement, crushing weight, burial, or someone striking the altered zone. **Intrusion:** The bone remembers the shape of an earlier death. Replace one remembered injury or fear with the donor's death, or lose 1 Humanity. |
+| 6 | **Layered Muscle** | Add 1 die to Strength when the repaired zone provides leverage. | **Trigger:** Restraint, heavy labor, forced movement, or an ally struggling under a burden. **Intrusion:** The muscle remembers work, punishment, or harness. Replace one memory of chosen labor with an imposed task remembered by the donor, or lose 1 Humanity. |
+| 7 | **Exposed Stitchwork** | Anyone treating this sapper adds 1 die when the open anatomy gives access to the wounded zone. | **Trigger:** Care, touch, surgery, an embrace, or visible kinship between others. **Intrusion:** The graft mistakes another person for someone its donor trusted. Replace one name or relationship with that borrowed kinship, or lose 1 Humanity. |
+| 8 | **Numb Reconstruction** | Ignore 1 die of Wounded penalties on checks that directly use the repaired zone. | **Trigger:** Heat, cold, fresh injury, or discovering damage that produced no pain. **Intrusion:** The zone remembers a sensation the sapper cannot feel. Replace one bodily or emotional sensation in a written memory with the donor's pain, or lose 1 Humanity. |
+| 9 | **Twitching Graft** | Add 1 die to Mobility when reacting to a sudden visible danger. | **Trigger:** A whistle, shouted order, sudden movement, incoming shell, or soldiers leaving cover. **Intrusion:** The graft remembers the instant before a charge or rout. Replace one moment of personal choice with the donor's old command, or lose 1 Humanity. |
+| 10 | **Predatory Joint** | Add 1 die to Close Quarters attacks made with the repaired zone. | **Trigger:** Blood, fleeing movement, exposed weakness, or the scent of something being hunted. **Intrusion:** The donor remembers pursuit as hunger. Replace a remembered fear with the donor's desire to chase or feed, or lose 1 Humanity. |
+| 11 | **Parasitic Circulation** | Field dressings used on this sapper do not consume a use when treatment succeeds; the graft feeds on nearby dead tissue instead. | **Trigger:** Treatment beside a body, hunger, transfusion, or fresh remains touching the zone. **Intrusion:** The circulation remembers another body as nourishment and kin. Replace one memory of sharing food or comfort with the act of feeding from remains, or lose 1 Humanity. |
+| 12 | **Donor Awakening** | When the sapper becomes Dying, ignore every Wounded penalty on their Last Action if the repaired zone is central to it. The donor briefly moves the body after the sapper has begun to die. | **Trigger:** The sapper becomes Dying, witnesses permanent death, or hears someone insist that a fallen person is gone. **Intrusion:** The donor remembers itself as the rightful owner of the body. Yield by replacing two written identity details with the donor's claims, or resist and lose 2 Humanity. |
 
-## Borrowed Echo
+## Using the Result
 
-Borrowed echoes are memories without biographies. The player may decide whose life produced them over the course of play, or leave that identity unknown.
+Record the scar's name, visible appearance, passive adaptation, memory trigger, and the donor identity suggested by the source roll. Do not record activation circles; the adaptation is always part of the body.
 
-After a failed check, the referee may let the echo color the sapper's perception, decision, or retaliation. An echo should create a sharp body-horror moment or difficult impulse, not take control of the character for an entire scene.
+The player controls how the scar affects the sapper outside a called memory intrusion. The referee may describe sensations from a relevant donor memory, but narration alone does not erase memories, cost Humanity, add penalties, or seize control.
 
-| Ones | Borrowed Echo | Sensation or Memory |
-| ---: | --- | --- |
-| 1 | The Smell of Fire | Wet timber burning, hair catching, and smoke filling a room that once felt safe |
-| 2 | A Loved One's Touch | Familiar fingers against the repaired part and grief for a person the sapper has never met |
-| 3 | The Coldest Winter | Frozen ground, an empty stomach, and the certainty that sleep means death |
-| 4 | A Child Laughing | Small hands, a game played in sunlight, and a name that disappears when spoken |
-| 5 | The Last Charge | Mud in the mouth, officers shouting, and the instant a line of soldiers ceased to exist |
-| 6 | The Enemy's Prayer | Foreign words that feel sacred, recited while waiting for an Allied attack |
-| 7 | A Quiet Kitchen | Bread, soap, warm metal, and a domestic task the repaired hands still know how to perform |
-| 8 | Teeth in the Dark | The panic of being hunted, the thrill of hunting, or both at once |
-| 9 | The Butcher's Table | Looking down from above while one's own body is opened and sorted beneath white lamps |
-| 0 | The Other Side | Endless trenches beneath a lightless sky and distant voices promising that death can be made permanent |
+When a scarred zone is replaced again, reinterpret the scar through the new source. Old memories may acquire a new voice, fur may grow through human scar tissue, or a familiar hand may return with the wrong number of joints. Its adaptation and memory remain unless a rule explicitly destroys the entire zone and everything attached to it.
 
-## Using Scars
-
-The player records the physical scar, borrowed echo, visible appearance, adaptation, and complication. They control how the scar influences the sapper during ordinary play.
-
-At the start of each run, a sapper with scars chooses **one restless scar**. Only that scar's adaptation can be used during the run. Once its adaptation is used, its complication is armed. The next time that sapper fails a check or attack, the complication occurs alongside the normal consequence whenever it can fit the fiction. After it occurs, it is no longer armed.
-
-A sapper may choose a different restless scar each run. A scar that is not restless still exists physically and influences roleplay, but its adaptation and complication remain dormant. This keeps a body full of alterations playable without requiring a player to track a collection of separate powers.
-
-The referee may invoke a scar after its sapper fails a check. The scar can shape or worsen the resulting retaliation, especially when its body part, memory, or impulse is relevant. Unless the table explicitly states a cost, invoking a scar should not add an unrelated numerical penalty.
-
-Scars remain after later reconstruction. When a scarred part is replaced again, reinterpret the scar through the new source: old memories may acquire a new voice, fur may grow through human scar tissue, or a familiar hand may return with the wrong number of joints.
-
+The middle of the table should feel like field surgery performed too quickly with the wrong materials. The extremes should feel as though death itself participated in the repair.

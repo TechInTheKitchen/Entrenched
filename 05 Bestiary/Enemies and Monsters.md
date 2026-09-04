@@ -4,6 +4,8 @@ No-man's-land contains enemy soldiers, reconstructed veterans, living weapons, a
 
 The enemy is mechanically comparable to the sappers. They use the same dice, ranges, actions, Defense, and lethal combat rules. A single enemy soldier can kill a sapper. The war rarely sends only one.
 
+Pillboxes, gun rooms, gas projectors, and living fortifications use the puzzle-like procedures in [[Stationary Defenses]]. They retaliate when their triggers are met rather than taking routine enemy turns.
+
 ## Reading an Enemy Profile
 
 Each profile lists:
@@ -80,7 +82,7 @@ The sappers can interfere by:
 - Destroying corpse depots and Butcher workshops
 - Using enemy remains for field revival
 
-Enemies can do the same to Allied bodies. A sapper captured intact may return with enemy alterations, be used as bait, or be incinerated if already Battleborn.
+Enemies can do the same to Allied bodies, but they normally attempt capture for study only when a sapper has 25 Humanity or less, bears extensive visible reconstruction, or carries level 3 equipment. A captured sapper may return with enemy alterations, be used as bait, or be incinerated if already Battleborn. Mark the captive's route and provide a rescue opportunity whenever the fiction permits it.
 
 # Monsters of No-Man's-Land
 

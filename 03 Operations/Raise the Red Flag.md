@@ -24,6 +24,20 @@ Mark the following on the players' map before the first run:
 
 Command does not know the safe routes, patrol schedule, usable shelter, precise wire layout, or the location of the trench's machine gun.
 
+## Recommended Supplies
+
+Command recommends the following before the first outfitting:
+
+- Wire cutters or a Bangalore section for the outer belts
+- A mine probe, marking flags, or another way to identify a safe lane
+- Field glasses for locating the trench's firing positions
+- Smoke grenades or camouflage for crossing exposed ground
+- Satchel charges for the wire, machine-gun position, or weak revetment
+- A Far-range weapon for sentries and trench defenders
+- Field dressings or a Butcher's field roll for recovery near the objective
+
+This list is incomplete intelligence, not a required loadout. Place at least two useful pieces of salvage beyond the Allied line: one among an earlier unit's remains near the Approach and another in a dangerous cache or wreck within the Killing Ground. Anything brought back may be formally issued on a later run. The players should have to choose between carrying the ideal tool now and learning where another can be recovered later.
+
 ## Drawing the Map
 
 Use a roll of butcher paper, kraft paper, the blank back of wrapping paper, or paper with a **one-inch square grid**, plus a dark marker and a **ten-minute time limit**. The map should feel like an officer's hurried battlefield sketch, not a finished tactical diagram.
@@ -137,4 +151,3 @@ Once the flag rises, Allied troops advance past whatever remains of the unit. As
 - Do they still recognize the red flag as a sign of victory?
 
 The war continues. This operation does not.
-

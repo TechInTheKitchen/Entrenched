@@ -36,6 +36,8 @@ Before play, draw or place the features that will remain stable throughout the o
 - Enemy trench lines and permanent fortifications
 - Several possible approaches to the objective
 
+Build pillboxes, projectors, and other fixed weapons using [[Stationary Defenses]]. Their coverage and triggers belong on the referee's map. Give every emplacement visible evidence, blind ground, and several ways to create an opening rather than treating it as an enemy with a larger Defense.
+
 Then prepare mobile or reactive elements:
 
 - Patrol routes and patrol composition
@@ -46,6 +48,27 @@ Then prepare mobile or reactive elements:
 - Traps or ambushes the enemy may deploy after learning the sappers' habits
 
 The referee's map contains all prepared information. The players begin with a clean copy showing the Allied trench, broad landmarks known to command, and the approximate objective when its location is known.
+
+## Recommended Supplies and Battlefield Salvage
+
+Before the first briefing, prepare a short **recommended supplies** list based on what command believes about the operation. Give it to the players before outfitting. It should suggest useful categories without revealing the correct route or every hidden threat.
+
+A useful list contains five to eight entries drawn from:
+
+- A weapon suited to the expected engagement range
+- A tool for the most obvious barrier or terrain
+- A way to locate a hidden threat
+- Explosives suited to the known objective
+- Smoke, camouflage, or another way to break sight
+- Field dressings or revival equipment
+- One item command recommends for the wrong reason
+- One scarce item the unit is told may be recoverable in the field
+
+The list is advice, not extra equipment. Sappers still obey their slots, rank access, and assigned-bearer rules.
+
+Seed two to four salvage opportunities on the map: an abandoned Allied cache, a dead earlier unit, a wrecked supply carrier, enemy equipment, or a tool trapped behind the obstacle it could solve. At least one find should answer a danger on the recommended list, and at least one should offer an unexpected alternative. Mark recovered equipment on the shared map. Unless an operation explicitly says an item can be claimed immediately, it must reach the Allied trench and be formally issued during outfitting before it grants its mechanical benefit.
+
+Salvage should reward exploration without becoming a general inventory hunt. Finding the right tool can reduce an operation-level Resistance, open a route, restore a scarce supply, or change what the unit carries on the next run.
 
 ## Layers of No-Man's-Land
 
@@ -101,6 +124,8 @@ The players usually know the objective's approximate location from their briefin
 Some missions begin with no reliable location. In those operations, early runs are reconnaissance. Clues, captured documents, patrol movements, sound, and terrain gradually narrow the search.
 
 An objective should require several discoveries or changes to the map before it becomes reasonably achievable. Avoid locking the operation behind one indispensable check. Failed checks bring retaliation, but another route, another run, or a more violent solution should remain possible.
+
+Treat Resistance 4 or higher as an operation problem rather than a larger single roll. Prepared discoveries and sub-objectives reduce its Resistance or remove prerequisites. A bunker might begin at Resistance 4 and be impossible to breach directly; cutting its reinforcement tunnel reduces it to 3, and detonating its ammunition cache reduces it to 2.
 
 ## Reactive Enemy Doctrine
 
@@ -192,4 +217,3 @@ Possible solutions include mining a bridge, opening flooded ground, sabotaging i
 Mission success should be unmistakable. The flag rises, the guns stop, the buried signals go silent, the case reaches Allied hands, the Battleborn burns, or the Iron Saint collapses.
 
 Once the objective is complete, the adventure ends even if the war does not improve. Command records the surviving sappers, gathers whatever equipment remains, and prepares the next unit for another part of the front.
-

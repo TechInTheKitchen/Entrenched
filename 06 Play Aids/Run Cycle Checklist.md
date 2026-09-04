@@ -5,7 +5,7 @@
 - Confirm safety boundaries and desired horror intensity.
 - Give the unit its objective and incomplete map.
 - Issue three level 1 items to each Private.
-- Mark Humanity, Defense, Flesh, Intuition, Burn, consumables, and restless scars.
+- Mark Humanity, Defense, Flesh, Intuition, Burn, consumables, scars, and borrowed-echo triggers.
 - Establish the Allied trench and the first visible landmark.
 
 ## During Every Run
@@ -23,12 +23,13 @@
 - Preserve discoveries, cleared obstacles, destroyed positions, caches, and lost equipment.
 - Remove temporary smoke, fire, and other short-lived effects.
 - Resolve abandoned bodies and Butcher reconstruction.
-- Clear marked Flesh boxes during reconstruction; never add boxes beyond Humanity thresholds.
+- Clear marked Flesh boxes for every revived sapper; never add boxes beyond Humanity thresholds.
 - Apply Humanity loss and identity erasure.
 - Record replacement parts, scars, skill gains, rank, Flesh, and Burn.
 - Decide what the enemy observed and choose one or two logical reactions.
-- Replace level 1 gear; account for scarce level 2 and priority level 3 items.
-- Assign items to bearers, refresh per-run uses, and choose restless scars.
+- Replace and refill level 1 gear; account separately for scarce level 2 and priority level 3 items and consumables.
+- Assign items to bearers and refresh per-run abilities. Do not refill scarce consumables unless supply is available.
+- Mark recoverable bodies, captives, enemy routes, and the next opportunity to bring them home.
 - Begin the next run from the Allied trench.
 
 ## End the Operation

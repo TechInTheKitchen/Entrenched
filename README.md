@@ -15,7 +15,7 @@ The unit crosses no-man's-land, maps what it discovers, completes impossible obj
 ## What You Need
 
 - One referee and three to six players
-- Several ordinary six-sided dice
+- Several ordinary six-sided dice for checks and Humanity loss
 - Printed character sheets
 - A dark marker for permanently altering each sapper's record
 - Grid paper, butcher paper, wrapping paper, or another long surface for the shared battlefield map
