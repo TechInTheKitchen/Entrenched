@@ -27,7 +27,10 @@
   }
 
   function prepareMarkdown(markdown) {
-    return markdown.replace(/!?\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]/g, (_, target, label) => {
+    const callouts = markdown.replace(/^(\s*>\s*)\[!([a-z][a-z0-9_-]*)\][+-]?\s*(.*)$/gim, (_, quote, type, title) => {
+      return `${quote}[!${type.toUpperCase()}] ${title.trim()}\n${quote.trimEnd()}`;
+    });
+    return callouts.replace(/!?\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]/g, (_, target, label) => {
       const title = target.trim();
       const found = findPage(title);
       return found ? `[${label?.trim() || title.replace(/\.(?:md|pdf)$/i, "")}](${hrefFor(found.path)})` : (label?.trim() || title);
@@ -53,6 +56,25 @@
     };
     renderer.html = ({ text }) => escapeHtml(text);
     return marked.parse(prepareMarkdown(markdown), { gfm: true, breaks: false, renderer });
+  }
+
+  function enhanceCallouts(root) {
+    const supported = new Set(["note", "tip", "important", "warning", "caution"]);
+    root.querySelectorAll("blockquote").forEach(blockquote => {
+      const marker = blockquote.firstElementChild;
+      if (!marker || marker.tagName !== "P") return;
+      const match = marker.textContent.trim().match(/^\[!([A-Z][A-Z0-9_-]*)\]\s*(.*)$/i);
+      if (!match) return;
+      const type = match[1].toLowerCase();
+      const style = supported.has(type) ? type : "note";
+      const title = match[2].trim() || type.replace(/[-_]+/g, " ").replace(/^./, letter => letter.toUpperCase());
+      const heading = document.createElement("div");
+      heading.className = "callout-title";
+      heading.textContent = title;
+      marker.remove();
+      blockquote.classList.add("callout", `callout-${style}`);
+      blockquote.prepend(heading);
+    });
   }
 
   function buildTree() {
@@ -115,7 +137,7 @@
       }
       const response = await fetch(path.split("/").map(encodeURIComponent).join("/"), { cache: "no-store" });
       if (!response.ok) throw new Error(`${response.status} ${response.statusText}`);
-      const markdown = await response.text(); els.content.innerHTML = safeRenderedHtml(markdown);
+      const markdown = await response.text(); els.content.innerHTML = safeRenderedHtml(markdown); enhanceCallouts(els.content);
       els.content.hidden = false; els.loading.hidden = true;
       const h1 = els.content.querySelector("h1"); document.title = `${h1?.textContent || "Entrenched"} - Entrenched`;
       if (push) history.pushState({ page:path }, "", hrefFor(path));

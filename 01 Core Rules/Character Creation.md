@@ -2,7 +2,7 @@
 
 Sappers begin as recruits: hastily trained, minimally equipped, and expected to learn their trade by dying. Every sapper begins as a Private with one specialty, seven total skill ranks, basic armor, and three equipment slots.
 
-> **Printable Character Sheet**
+> [!NOTE] Printable Character Sheet
 > Open or download the [[Entrenched Character Sheet.pdf|printable character sheet]] before beginning. Record every starting detail in ink. Keep a dark marker nearby; revival will overwrite the sapper's memories and alter the body diagram permanently.
 
 ## Starting Profile

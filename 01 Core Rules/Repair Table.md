@@ -7,7 +7,8 @@ Every revival replaces something that could not be saved. Roll two ordinary six-
 - The **Body Die** determines the replaced body part.
 - The **Source Die** determines where the replacement came from.
 
-Different-colored dice are convenient, but not required. If the dice match, roll the Body Die first and the Source Die second. Do not add them together. The result is a combination, not a total, so all 36 pairings are equally likely.
+> [!TIP] Reading Matching Dice
+> Different-colored dice are convenient, but not required. If the dice match, roll the Body Die first and the Source Die second. Do not add them together. The result is a combination, not a total, so all 36 pairings are equally likely.
 
 Record the body zone, exact donor, and visible alteration on the sapper's replacement record. Every revival also grants 1 universal skill rank as described in [[Death and Rebirth]]. The body result grants additional ranks, and Black Matter occasionally grants one more. A revival therefore grants an average of approximately 2.8 total skill ranks.
 

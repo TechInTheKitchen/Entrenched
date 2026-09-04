@@ -68,5 +68,5 @@ Eisenseele facilities may appear as:
 - Incineration halls built beside revival rooms
 
 The project is not a secret. Its details are compartmentalized because no institution wants its soldiers asking questions.
-> **Related records:** [[The First Sappers]] · [[The Butchers]] · [[Faith of the Final Trench]]
-
+> [!NOTE] Related Records
+> [[The First Sappers]] · [[The Butchers]] · [[Faith of the Final Trench]]

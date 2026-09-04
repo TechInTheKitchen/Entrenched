@@ -78,5 +78,5 @@ Possible boundaries:
 10. The Butcher says, “This has rejected you before,” though the sapper has never seen it.
 
 The mechanical procedure for reconstruction is in [[Death and Rebirth]].
-> **Related records:** [[Death and Rebirth]] · [[Repair Table]] · [[Scar Table]] · [[Project Eisenseele]]
-
+> [!NOTE] Related Records
+> [[Death and Rebirth]] · [[Repair Table]] · [[Scar Table]] · [[Project Eisenseele]]

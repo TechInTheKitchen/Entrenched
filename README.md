@@ -4,7 +4,8 @@
 
 The unit crosses no-man's-land, maps what it discovers, completes impossible objectives, dies, and returns reconstructed from whatever flesh the war can recover. Every revival makes a sapper more capable and less human. Knowledge survives death, but identity does not.
 
-> **Current status:** Open beta. The rules are playable, but balance, clarity, pacing, and presentation may change in response to testing.
+> [!IMPORTANT] Current Status: Open Beta
+> The rules are playable, but balance, clarity, pacing, and presentation may change in response to testing.
 
 ## Read the Game
 

@@ -46,5 +46,5 @@ Section officers are replaceable. Orders are not. If an officer dies, a successo
 The 187th should feel like both a family and an institution consuming that family. Let trench personnel remember the sappers' habits, mourn their disappearing identities, and still hand them the next set of orders.
 
 When the players need motivation, connect the objective to recognizable people in the trench. When they need horror, show that command values the route, equipment, and accumulated skill more than the people who carry them.
-> **Related records:** [[The Allied Trench]] · [[The First Sappers]] · [[Specialties and Field Doctrines]]
-
+> [!NOTE] Related Records
+> [[The Allied Trench]] · [[The First Sappers]] · [[Specialties and Field Doctrines]]
