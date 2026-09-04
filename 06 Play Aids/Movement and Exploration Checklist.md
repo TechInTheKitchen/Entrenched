@@ -1,6 +1,6 @@
 # Movement and Exploration Checklist
 
-Use the shared map to preserve knowledge, not to count every quiet footstep.
+Use the shared map to preserve knowledge, not to count every quiet footstep. Consult [[Core Game Loop]] for map procedure, [[Skill Checks and Combat]] for dangerous movement, and [[Retaliation Tables]] when failure changes the battlefield.
 
 ## Outside Immediate Danger
 

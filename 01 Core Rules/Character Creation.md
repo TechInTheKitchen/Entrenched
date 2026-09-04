@@ -31,7 +31,7 @@ Use ink. During play, Humanity rules will require the player to obscure and over
 
 ## 2. Choose a Specialty
 
-A specialty is a starting package and guideline, not a permanent class. Choose one and gain 2 ranks in its listed skill.
+A specialty is a starting package and guideline, not a permanent class. Choose one, gain 2 ranks in its listed skill, and learn its [[Specialties and Field Doctrines|Field Doctrine]].
 
 | Specialty | Starting Skill | Role in the Unit |
 | --- | --- | --- |
@@ -42,7 +42,7 @@ A specialty is a starting package and guideline, not a permanent class. Choose o
 | Runner | Mobility 2 | Crosses exposed ground, carries orders, and reaches fallen sappers quickly |
 | Rifleman | Ranged 2 | Engages distant threats before they can close on the unit |
 
-The specialty name may be changed to fit the sapper. Its only fixed mechanical effect is the two starting ranks.
+The specialty name may be changed to fit the sapper. Its starting skill and Field Doctrine remain the same. A sapper keeps that doctrine even when later repairs and experience carry them far beyond their original role.
 
 ## 3. Assign Recruit Training
 

@@ -1,5 +1,7 @@
 # Scar Table
 
+Scars follow field revival in [[Death and Rebirth]] and are recorded alongside the body changes from the [[Repair Table]].
+
 Field revival is faster than reconstruction by the Butchers, but it leaves the sapper badly integrated. Every field-revived sapper rolls two six-sided dice, adds them together, and gains the scar matching the total.
 
 Unlike the separately read dice on the [[Repair Table]], these dice are **added**. The resulting curve makes rough but recognizable repair scars common and places the strangest integrations at the rare extremes.

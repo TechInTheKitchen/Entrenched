@@ -1,12 +1,13 @@
 # Example Sappers
 
-These recruits demonstrate the six starting specialties. Each has 2 ranks from a specialty and 5 ranks from recruit training, no starting skill above 3, Defense 2, Humanity 100, and three level 1 equipment slots.
+These recruits demonstrate the six starting specialties and their [[Specialties and Field Doctrines|Field Doctrines]]. Each has 2 ranks from a specialty and 5 ranks from recruit training, no starting skill above 3, Defense 2, Humanity 100, and three level 1 equipment slots.
 
 They may be used as ready-made characters or as guides when creating new sappers. Names, memories, appearance, and equipment can be changed without altering the starting package.
 
 ## Private Elsie Ward, Scout
 
 **Specialty:** Scout  
+**Field Doctrine:** Read the Ground<br>
 **Defense:** 2  
 **Humanity:** 100  
 **Movement:** 2 squares
@@ -29,6 +30,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 ## Private Tomas Varga, Demolitionist
 
 **Specialty:** Demolitionist  
+**Field Doctrine:** Leave the Right Ruin<br>
 **Defense:** 2  
 **Humanity:** 100  
 **Movement:** 2 squares
@@ -51,6 +53,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 ## Private Mina Nowak, Mine-Clearer
 
 **Specialty:** Mine-Clearer  
+**Field Doctrine:** Follow My Steps<br>
 **Defense:** 2  
 **Humanity:** 100  
 **Movement:** 2 squares
@@ -73,6 +76,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 ## Private Isaac Bell, Trench Fighter
 
 **Specialty:** Trench Fighter  
+**Field Doctrine:** Behind Me<br>
 **Defense:** 2  
 **Humanity:** 100  
 **Movement:** 2 squares
@@ -95,6 +99,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 ## Private Jean Mercer, Runner
 
 **Specialty:** Runner  
+**Field Doctrine:** No One Left<br>
 **Defense:** 2  
 **Humanity:** 100  
 **Movement:** 5 squares
@@ -117,6 +122,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 ## Private Anja Roth, Rifleman
 
 **Specialty:** Rifleman  
+**Field Doctrine:** Wait for the Opening<br>
 **Defense:** 2  
 **Humanity:** 100  
 **Movement:** 2 squares
@@ -141,4 +147,3 @@ They may be used as ready-made characters or as guides when creating new sappers
 These packages are deliberately uneven outside their specialties. Cooperation and equipment selection should matter, and no recruit can cover every danger.
 
 After the first death, spend the universal revival rank wherever the sapper's experience suggests. Then apply replacement ranks from the [[Repair Table]]. A few revivals should pull each example away from this clean starting identity and toward the strange collection of skills, scars, and donor instincts created during play.
-

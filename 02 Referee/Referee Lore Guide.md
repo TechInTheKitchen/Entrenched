@@ -1,6 +1,6 @@
 # Referee Lore Guide
 
-The setting should feel larger than the operation without requiring the referee to explain thirty-seven years of alternate history. Lore appears as pressure, objects, habits, and contradictions.
+The setting should feel larger than the operation without requiring the referee to explain thirty-seven years of alternate history. Lore appears as pressure, objects, habits, and contradictions. Use the dossiers on [[The Long War]], [[The Allied Trench]], the [[187th Sappers Regiment]], [[The First Sappers]], [[Project Eisenseele]], [[The Butchers]], [[Faith of the Final Trench]], [[No-Man's-Land]], and [[The Enemy]] as reservoirs of details rather than required exposition.
 
 ## Five Firm Truths
 
@@ -108,4 +108,3 @@ Every important piece of lore should eventually become spatial. Put its evidence
 - A corpse route used by both sides
 
 Lore becomes part of play when it changes where the unit goes, what it recovers, or what it chooses to destroy.
-

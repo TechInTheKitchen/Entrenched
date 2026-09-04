@@ -1,5 +1,7 @@
 # Repair Table
 
+Roll here whenever [[Death and Rebirth]] calls for a replacement. Field-revived sappers also roll on the [[Scar Table]].
+
 Every revival replaces something that could not be saved. Roll two ordinary six-sided dice and read them separately:
 
 - The **Body Die** determines the replaced body part.

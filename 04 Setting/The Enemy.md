@@ -61,4 +61,5 @@ When the enemy recovers an Allied body, choose a purpose:
 Players may learn personal names, unit numbers, and local words. The larger coalition can remain unnamed. No single label can contain thirty-seven years of collapsed nations and merged commands.
 
 If the players demand a proper name, give them several mutually incompatible names from maps, prisoners, sermons, and old documents. Every faction believes its own name means the Allied Defense.
+> **Related records:** [[The Long War]] · [[Enemies and Monsters]] · [[Stationary Defenses]] · [[Project Eisenseele]]
 

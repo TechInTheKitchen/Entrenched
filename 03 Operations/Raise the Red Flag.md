@@ -1,5 +1,7 @@
 # Introductory Operation: Raise the Red Flag
 
+Run this operation with [[Quick Reference]], [[Retaliation Tables]], [[Enemies and Monsters]], and [[Stationary Defenses]] available. Use the ready-made unit in [[Example Sappers]] when the group wants to begin immediately.
+
 This operation teaches the complete cycle of **Entrenched**: cross known ground, discover a route, mark the map, die, return altered, and use what the unit learned to push farther.
 
 It is written for **three to six sappers** and should last two to four sessions.

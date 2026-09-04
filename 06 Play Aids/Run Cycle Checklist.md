@@ -1,5 +1,7 @@
 # Run Cycle Checklist
 
+Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the operation, [[Equipment]] during outfitting, and [[Death and Rebirth]] when resolving recovery and reconstruction.
+
 ## Before the First Run
 
 - Confirm safety boundaries and desired horror intensity.

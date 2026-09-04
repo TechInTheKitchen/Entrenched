@@ -1,5 +1,7 @@
 # Retaliation Tables
 
+These results extend the failure procedure in [[Skill Checks and Combat]]. Preserve lasting discoveries and changes using the map procedure in [[Core Game Loop]].
+
 Outside combat, when a check fails or the unit hesitates, the battlefield retaliates. During combat, use these tables only when an action, hazard, or operation explicitly calls for an additional retaliation.
 
 The referee may choose a fitting result or roll **three six-sided dice, add them together, and read the total** on the most relevant table. This produces results from 3 to 18.

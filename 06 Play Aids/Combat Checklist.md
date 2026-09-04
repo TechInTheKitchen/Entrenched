@@ -1,6 +1,6 @@
 # Combat Checklist
 
-Keep this page beside the local combat map.
+Keep this page beside the local combat map. Consult [[Skill Checks and Combat]] for the complete rules, [[Death and Rebirth]] for recovery, and [[Specialties and Field Doctrines]] for each sapper's doctrine.
 
 ## Start Combat
 

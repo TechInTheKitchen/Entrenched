@@ -1,5 +1,7 @@
 # Skill Checks and Combat
 
+Build sappers in [[Character Creation]], apply their [[Specialties and Field Doctrines|Field Doctrines]], and choose the weapons and tools used here from [[Equipment]].
+
 Skill checks and attacks use the same basic rule: gather a pool of six-sided dice, roll them, and count every 6.
 
 Each 6 is a **success**. If the roll produces successes equal to or greater than the target number, the action succeeds. Otherwise, it fails. Entrenched does not use partial successes. War does not take half measures.

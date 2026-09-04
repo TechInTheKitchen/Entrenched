@@ -1,5 +1,7 @@
 # Mission Construction
 
+Use [[Enemies and Monsters]] for mobile opposition, [[Stationary Defenses]] for puzzle-like emplacements, and [[Retaliation Tables]] for battlefield consequences.
+
 An adventure of **Entrenched** follows one operation across a persistent map. The referee prepares most of no-man's-land before play, then changes enemy activity in response to what the sappers discover, destroy, and reveal.
 
 The map is not a sequence of disposable encounters. It is hostile ground the players learn over repeated deaths. A good operation becomes more understandable with every run even as the enemy becomes more aware of the unit.

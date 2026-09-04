@@ -12,7 +12,7 @@ Death makes a sapper more capable. It also consumes Humanity. The operation beco
 
 1. Read [[Safety and Tone]].
 2. Learn the cycle in [[Core Game Loop]].
-3. Create a sapper with [[Character Creation]], or choose one from [[Example Sappers]].
+3. Create a sapper with [[Character Creation]], including a [[Specialties and Field Doctrines|Field Doctrine]], or choose one from [[Example Sappers]].
 4. Keep [[Quick Reference]] open during play.
 
 ### Referees
@@ -38,6 +38,7 @@ Death makes a sapper more capable. It also consumes Humanity. The operation beco
 - [[Quick Reference]]
 - [[Core Game Loop]]
 - [[Character Creation]]
+- [[Specialties and Field Doctrines]]
 - [[Skill Checks and Combat]]
 - [[Death and Rebirth]]
 - [[Repair Table]]

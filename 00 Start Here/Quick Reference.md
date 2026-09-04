@@ -6,6 +6,7 @@
 - The referee prepares an objective and persistent map using [[Mission Construction]].
 - Agree on boundaries using [[Safety and Tone]].
 - Each sapper begins at 100 Humanity, Defense 2, no Flesh boxes, and three level 1 equipment slots.
+- Each sapper has one [[Specialties and Field Doctrines|Field Doctrine]]. All except **Wait for the Opening** may be used once per run.
 
 ## Checks
 

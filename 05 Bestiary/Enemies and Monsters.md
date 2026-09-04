@@ -1,5 +1,7 @@
 # Enemies and Monsters
 
+Resolve these profiles using [[Skill Checks and Combat]]. Use [[Stationary Defenses]] for protected emplacements and fixed living weapons.
+
 No-man's-land contains enemy soldiers, reconstructed veterans, living weapons, and things assembled by accident from everything the war left unburied.
 
 The enemy is mechanically comparable to the sappers. They use the same dice, ranges, actions, Defense, and lethal combat rules. A single enemy soldier can kill a sapper. The war rarely sends only one.

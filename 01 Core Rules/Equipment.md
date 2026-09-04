@@ -1,5 +1,7 @@
 # Equipment
 
+Choose starting gear during [[Character Creation]]. Equipment contributes to the dice pools and attacks described in [[Skill Checks and Combat]].
+
 Equipment is issued between runs according to rank. Privates may choose level 1 equipment, Corporals may choose levels 1–2, and Sergeants may choose levels 1–3.
 
 Level 1 equipment resembles the weapons and tools carried during the early years of the Great War. Level 2 equipment reflects thirty-seven years of uninterrupted industrial warfare. Level 3 equipment incorporates the discoveries of Project Eisenseele: bone, preserved nerves, donor organs, and materials that are not entirely dead.

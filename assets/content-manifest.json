@@ -6,8 +6,8 @@
         "type":  "markdown"
     },
     {
-        "title":  "The Enemy",
-        "path":  "04 Setting/The Enemy.md",
+        "title":  "The Allied Trench",
+        "path":  "04 Setting/The Allied Trench.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -18,8 +18,8 @@
         "type":  "markdown"
     },
     {
-        "title":  "The Allied Trench",
-        "path":  "04 Setting/The Allied Trench.md",
+        "title":  "The Enemy",
+        "path":  "04 Setting/The Enemy.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -30,8 +30,8 @@
         "type":  "markdown"
     },
     {
-        "title":  "No-Man\u0027s-Land",
-        "path":  "04 Setting/No-Man\u0027s-Land.md",
+        "title":  "187th Sappers Regiment",
+        "path":  "04 Setting/187th Sappers Regiment.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -42,8 +42,8 @@
         "type":  "markdown"
     },
     {
-        "title":  "The Long War",
-        "path":  "04 Setting/The Long War.md",
+        "title":  "No-Man\u0027s-Land",
+        "path":  "04 Setting/No-Man\u0027s-Land.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -54,10 +54,10 @@
         "type":  "markdown"
     },
     {
-        "title":  "Movement and Exploration Checklist",
-        "path":  "06 Play Aids/Movement and Exploration Checklist.md",
+        "title":  "Entrenched Character Sheet",
+        "path":  "06 Play Aids/Entrenched Character Sheet.pdf",
         "folder":  "06 Play Aids",
-        "type":  "markdown"
+        "type":  "pdf"
     },
     {
         "title":  "Run Cycle Checklist",
@@ -66,10 +66,10 @@
         "type":  "markdown"
     },
     {
-        "title":  "Entrenched Character Sheet",
-        "path":  "06 Play Aids/Entrenched Character Sheet.pdf",
+        "title":  "Movement and Exploration Checklist",
+        "path":  "06 Play Aids/Movement and Exploration Checklist.md",
         "folder":  "06 Play Aids",
-        "type":  "pdf"
+        "type":  "markdown"
     },
     {
         "title":  "Enemies and Monsters",
@@ -78,9 +78,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Stationary Defenses",
-        "path":  "05 Bestiary/Stationary Defenses.md",
-        "folder":  "05 Bestiary",
+        "title":  "The Long War",
+        "path":  "04 Setting/The Long War.md",
+        "folder":  "04 Setting",
         "type":  "markdown"
     },
     {
@@ -90,9 +90,15 @@
         "type":  "markdown"
     },
     {
-        "title":  "187th Sappers Regiment",
-        "path":  "04 Setting/187th Sappers Regiment.md",
-        "folder":  "04 Setting",
+        "title":  "Stationary Defenses",
+        "path":  "05 Bestiary/Stationary Defenses.md",
+        "folder":  "05 Bestiary",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Death and Rebirth",
+        "path":  "01 Core Rules/Death and Rebirth.md",
+        "folder":  "01 Core Rules",
         "type":  "markdown"
     },
     {
@@ -102,8 +108,8 @@
         "type":  "markdown"
     },
     {
-        "title":  "Death and Rebirth",
-        "path":  "01 Core Rules/Death and Rebirth.md",
+        "title":  "Repair Table",
+        "path":  "01 Core Rules/Repair Table.md",
         "folder":  "01 Core Rules",
         "type":  "markdown"
     },
@@ -114,9 +120,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Character Creation",
-        "path":  "01 Core Rules/Character Creation.md",
-        "folder":  "01 Core Rules",
+        "title":  "Quick Reference",
+        "path":  "00 Start Here/Quick Reference.md",
+        "folder":  "00 Start Here",
         "type":  "markdown"
     },
     {
@@ -126,9 +132,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Quick Reference",
-        "path":  "00 Start Here/Quick Reference.md",
-        "folder":  "00 Start Here",
+        "title":  "Character Creation",
+        "path":  "01 Core Rules/Character Creation.md",
+        "folder":  "01 Core Rules",
         "type":  "markdown"
     },
     {
@@ -138,20 +144,14 @@
         "type":  "markdown"
     },
     {
-        "title":  "Repair Table",
-        "path":  "01 Core Rules/Repair Table.md",
-        "folder":  "01 Core Rules",
-        "type":  "markdown"
-    },
-    {
         "title":  "Referee Lore Guide",
         "path":  "02 Referee/Referee Lore Guide.md",
         "folder":  "02 Referee",
         "type":  "markdown"
     },
     {
-        "title":  "Retaliation Tables",
-        "path":  "02 Referee/Retaliation Tables.md",
+        "title":  "Referee Guide",
+        "path":  "02 Referee/Referee Guide.md",
         "folder":  "02 Referee",
         "type":  "markdown"
     },
@@ -162,15 +162,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Referee Guide",
-        "path":  "02 Referee/Referee Guide.md",
+        "title":  "Retaliation Tables",
+        "path":  "02 Referee/Retaliation Tables.md",
         "folder":  "02 Referee",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Scar Table",
-        "path":  "01 Core Rules/Scar Table.md",
-        "folder":  "01 Core Rules",
         "type":  "markdown"
     },
     {
@@ -180,9 +174,21 @@
         "type":  "markdown"
     },
     {
+        "title":  "Scar Table",
+        "path":  "01 Core Rules/Scar Table.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
         "title":  "Mission Construction",
         "path":  "02 Referee/Mission Construction.md",
         "folder":  "02 Referee",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Specialties and Field Doctrines",
+        "path":  "01 Core Rules/Specialties and Field Doctrines.md",
+        "folder":  "01 Core Rules",
         "type":  "markdown"
     }
 ]

@@ -1,5 +1,7 @@
 # Death and Rebirth
 
+See [[Skill Checks and Combat]] for lethal hits, Flesh, and Dying; [[Repair Table]] for replacement parts; and [[Scar Table]] for the consequences of field revival.
+
 For a sapper, death is not the end of service. Bodies can be recovered, repaired, and sent back across no-man's-land. Something is lost during every death, however, and no reconstruction returns exactly the person who fell.
 
 ## Death and Wounds

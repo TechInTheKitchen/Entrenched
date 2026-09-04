@@ -1,6 +1,6 @@
 # Stationary Defenses
 
-Stationary defenses are not ordinary enemies waiting to exchange attacks. They are sections of the battlefield built to make a direct approach impossible: pillboxes, buried projectors, sealed gun rooms, observation cupolas, and living fortifications whose operators may never be visible.
+Stationary defenses are not ordinary enemies waiting to exchange attacks. They are sections of the battlefield built to make a direct approach impossible: pillboxes, buried projectors, sealed gun rooms, observation cupolas, and living fortifications whose operators may never be visible. Use the normal checks, cooperation, attacks, and visibility rules from [[Skill Checks and Combat]] except where a profile below replaces them. [[Specialties and Field Doctrines|Field Doctrines]] can reveal or exploit an opening but never erase a defense's Protection.
 
 Run an emplacement like a **trap with a crew**, not a combatant with another turn. It threatens a known piece of ground, reacts when its trigger is met, and becomes vulnerable only when the sappers learn how it works or force it to look the wrong way.
 

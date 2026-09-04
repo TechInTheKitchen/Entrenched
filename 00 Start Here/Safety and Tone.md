@@ -2,6 +2,8 @@
 
 **Entrenched** is built around war, repeated death, surgery, bodily alteration, stolen memories, coercive authority, and loss of identity. These subjects should be intense for the characters without becoming harmful to the people playing them.
 
+Referees should carry these boundaries into the descriptions and procedures in the [[Referee Guide]] and [[Referee Lore Guide]].
+
 ## Before Play
 
 Tell everyone what the game contains. Discuss boundaries before characters or maps are prepared.

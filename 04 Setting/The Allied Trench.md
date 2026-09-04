@@ -71,4 +71,5 @@ Choose one between runs:
 9. The trench newspaper announces the capture of ground visible beyond the parapet in enemy hands.
 10. A Butcher asks a sapper whether they still need a particular finger.
 
+> **Related records:** [[187th Sappers Regiment]] · [[The Butchers]] · [[Faith of the Final Trench]]
 

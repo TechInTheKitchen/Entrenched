@@ -42,4 +42,5 @@ The dead sapper's remaining name is written on flash paper and burned. Sometimes
 - **The Peace Below:** The forbidden teaching that the Final Trench contained no war until we brought it there.
 
 Any of these beliefs can motivate an NPC without being objectively correct.
+> **Related records:** [[Project Eisenseele]] · [[The First Sappers]] · [[The Butchers]]
 

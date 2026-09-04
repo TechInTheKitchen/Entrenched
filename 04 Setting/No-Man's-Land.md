@@ -69,4 +69,5 @@ Avoid constant escalation. Alternate explicit bodily horror with absences, domes
 8. A buried observation slit looking upward from beneath the unit
 9. Red thread tied around bones too old to belong to the 187th
 10. A route marker that turns to face the unit after they pass
+> **Related records:** [[Retaliation Tables]] · [[Enemies and Monsters]] · [[Stationary Defenses]]
 

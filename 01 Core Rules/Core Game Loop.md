@@ -1,5 +1,7 @@
 # Core Game Loop
 
+Use [[Skill Checks and Combat]] when danger requires exact actions, [[Retaliation Tables]] when failure changes the battlefield, and [[Death and Rebirth]] when a sapper falls.
+
 ## The Shape of a Run
 
 **Entrenched** follows one sapper unit through a single operation on the Western Front. The unit has been given an objective somewhere beyond its own trench: seize an enemy position, destroy a fortification, recover intelligence, collapse a tunnel network, or complete some other task that command considers worth any number of lives.
