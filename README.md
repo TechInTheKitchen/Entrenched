@@ -47,17 +47,16 @@ The operation ends when the objective is completed or the entire unit is permane
 
 ## Repository Guide
 
-| Folder | Contents |
-| --- | --- |
-| `00 Start Here` | Quick reference and safety guidance |
+| Folder          | Contents                                                                 |
+| --------------- | ------------------------------------------------------------------------ |
+| `00 Start Here` | Quick reference and safety guidance                                      |
 | `01 Core Rules` | Character creation, checks, combat, equipment, death, and reconstruction |
-| `02 Referee` | Referee procedures, mission construction, retaliation, and lore guidance |
-| `03 Operations` | Ready-to-run operations, beginning with *Raise the Red Flag* |
-| `04 Setting` | The war, the Allied trench, reconstruction, faith, and the enemy |
-| `05 Bestiary` | Soldiers, formations, battlefield creatures, and reconstructed horrors |
-| `06 Play Aids` | Checklists, example sappers, and the printable character sheet |
-| ssets | Public styles, scripts, libraries, and web-ready images |
-| 	ools | The tracked script that rebuilds the reader navigation |
+| `02 Referee`    | Referee procedures, mission construction, retaliation, and lore guidance |
+| `03 Operations` | Ready-to-run operations, beginning with *Raise the Red Flag*             |
+| `04 Setting`    | The war, the Allied trench, reconstruction, faith, and the enemy         |
+| `05 Bestiary`   | Soldiers, formations, battlefield creatures, and reconstructed horrors   |
+| `06 Play Aids`  | Checklists, example sappers, and the printable character sheet           |
+| Assets          | Public styles, scripts, libraries, and web-ready images                  |
 
 `Entrenched.md` is the main table of contents. `content-manifest.json` supplies the web reader's navigation.
 
