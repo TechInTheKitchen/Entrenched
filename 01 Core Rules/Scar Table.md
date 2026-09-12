@@ -19,14 +19,18 @@ Describe the scar on and around the body zone just replaced. The donor family fr
 
 If the same scar is rolled again, keep it and describe how the existing alteration spreads or deepens. Identical adaptations never stack.
 
-## Passive Scars and Borrowed Memories
+## Active Scars and Borrowed Memories
+
+Scars accumulate permanently, but a reconstructed body can express only a few adaptations coherently. At the beginning of each run, after outfitting, the player marks up to **three scars as Active**. Only Active scars provide their passive adaptations during that run. A sapper with three or fewer scars treats all of them as Active.
+
+Inactive scars remain visible. Their donor memories, sensations, and triggers still exist, and the Referee may call for an intrusion from any scar. The body simply cannot turn every accumulated defect into a useful response at once. Change the three Active scars only between runs, when the body has been rested, opened, and bound into a different working arrangement.
 
 Every scar has two connected parts:
 
-- A **passive adaptation** that is permanently available and requires no activation marks.
+- A **passive adaptation** available only while that scar is one of the body's three Active scars.
 - A **memory trigger** that lets the donor's experience press against the sapper's written identity.
 
-When several scars could add dice or change Defense against the same roll or attack, use only the single most favorable scar. Non-dice effects may coexist when the fiction allows them. An adaptation must follow the altered body: a muscle graft in the leg does not help force a door with one hand.
+When several Active scars could add dice or change Defense against the same roll or attack, use only the single most favorable scar. Non-dice effects may coexist when the fiction allows them. An adaptation applies only when its described body part and circumstance are materially involved: a muscle graft in the leg does not help force a door with one hand. These benefits should be sharp, situational exceptions rather than bonuses applied to every convenient roll.
 
 The first time during a run that a scar's trigger becomes immediate and consequential, the referee may call for a **memory intrusion**. The player chooses one:
 
@@ -53,7 +57,7 @@ An intrusion may interrupt a gesture, sentence, or moment of attention, but neve
 
 ## Using the Result
 
-Record the scar's name, visible appearance, passive adaptation, memory trigger, and the donor identity suggested by the source roll. Do not record activation circles; the adaptation is always part of the body.
+Record the scar's name, visible appearance, passive adaptation, memory trigger, and the donor identity suggested by the source roll. Leave room beside the scar to mark whether it is one of the body's three Active adaptations for the current run.
 
 The player controls how the scar affects the sapper outside a called memory intrusion. The referee may describe sensations from a relevant donor memory, but narration alone does not erase memories, cost Humanity, add penalties, or seize control.
 

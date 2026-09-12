@@ -11,7 +11,7 @@ Sappers begin as recruits: hastily trained, minimally equipped, and expected to 
 - **Humanity:** 100
 - **Specialty:** One
 - **Skill ranks:** Seven total
-- **Defense:** 2
+- **Defense:** 1
 - **Equipment slots:** Three, plus issued helmet and basic armor
 - **Flesh boxes:** None until Humanity falls to 75
 
@@ -88,11 +88,11 @@ Skill ranks show what the body has learned. Rank shows how close that body is to
 
 ## 5. Determine Defense and Flesh
 
-An unarmored human has Defense 1. Every Private is issued a helmet and basic armor rated 1, giving a starting Defense of 2.
+Every new sapper has **Defense 1**, even in an issued helmet and basic armor. At 75 Humanity the body can survive one lethal hit through Flesh, but its Defense remains 1. Once Humanity falls below 75, accumulated reconstruction, scar tissue, and altered reflexes raise the sapper's base Defense to 2.
 
-Basic armor does not consume an equipment slot. A Corporal may spend one slot on level 2 armor, and a Sergeant may spend one slot on level 3 armor. Improved armor replaces basic armor rather than adding to it.
+Basic armor does not consume an equipment slot and is already included in the starting profile. Improved armor replaces the issued protection and modifies Defense as described in [[Equipment]] rather than adding to it.
 
-Humanity does not increase Defense. Instead, at 75 Humanity a sapper gains one Flesh box, and at 25 Humanity they gain a second. A lethal hit marks an empty Flesh box and wounds the sapper. If none remain empty, the sapper becomes Dying, takes one Last Action on their next turn, and then dies.
+This change is not promotion armor. It is the body's growing difficulty in accepting a clean death. At 75 Humanity a sapper gains one Flesh box, and at 25 Humanity they gain a second. A lethal hit marks an empty Flesh box and wounds the sapper. If none remain empty, the sapper becomes Dying, takes one Last Action on their next turn, and then dies.
 
 ## 6. Choose Equipment
 
@@ -105,10 +105,10 @@ Armor, weapons, tools, explosives, and specialized supplies normally consume one
 Every new sapper begins with 100 Humanity. Mark each threshold when crossed:
 
 - 100–76: Human
-- 75–51: Dead to Pain; Corporal; one Flesh box
-- 50–26: Battlefield Intuition; three rerolls each run
-- 25–1: Hardened Flesh; Sergeant; two Flesh boxes
-- 0: Battleborn; three Burn boxes before permanent death
+- 75–51: Pain-Dead; Corporal; one Flesh box
+- 50–26: Borrowed Reflex; three rerolls each run
+- 25–1: Redundant Anatomy; Sergeant; two Flesh boxes
+- 0: Battleborn; three Burn boxes before becoming Burn-Listed
 
 Full rules for identity loss, revival, Humanity, and Battleborn are in [[Death and Rebirth]].
 
@@ -118,9 +118,9 @@ Before play, confirm that the sheet shows:
 
 - Enlistment details and two anchors to the sapper's former life
 - One specialty and exactly seven total skill ranks
-- Private rank, 100 Humanity, and Defense 2
+- Private rank, 100 Humanity, and Defense 1
 - Three level 1 equipment choices
 - Issued helmet and basic armor, which use no equipment slots
-- No Flesh, Battlefield Intuition, or Burn boxes marked yet
+- No Flesh, Borrowed Reflex, or Burn boxes marked yet
 
 Leave all ten zones of the body diagram and the replacement record untouched. They belong to the sapper's deaths, not their creation.

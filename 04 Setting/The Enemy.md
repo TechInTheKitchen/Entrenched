@@ -8,7 +8,7 @@ This is presented as operational security. Its true purpose is to prevent recogn
 
 Enemy soldiers wear unfamiliar respirators, layered armor, and uniforms faded into the same mud as Allied cloth. Their weapons are different enough to be threatening and similar enough to operate without instruction. Their reconstructed veterans display animal grafts, borrowed Allied parts, and living equipment shaped by another surgical tradition.
 
-They recover their dead. They mark routes. They send sappers through no-man's-land. They burn Battleborn.
+They recover their dead. They mark routes. They send sappers through no-man's-land. When a Battleborn becomes Burn-Listed, they send white-coated sections with restraint hooks and phosphorus.
 
 The enemy should be frightening because it is capable and prepared, not because every soldier is a monster.
 

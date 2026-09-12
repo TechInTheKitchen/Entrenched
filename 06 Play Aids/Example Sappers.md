@@ -1,6 +1,6 @@
 # Example Sappers
 
-These recruits demonstrate the six starting specialties and their [[Specialties and Field Doctrines|Field Doctrines]]. Each has 2 ranks from a specialty and 5 ranks from recruit training, no starting skill above 3, Defense 2, Humanity 100, and three level 1 equipment slots.
+These recruits demonstrate the six starting specialties and their [[Specialties and Field Doctrines|Field Doctrines]]. Each has 2 ranks from a specialty and 5 ranks from recruit training, no starting skill above 3, Defense 1, Humanity 100, and three level 1 equipment slots.
 
 They may be used as ready-made characters or as guides when creating new sappers. Names, memories, appearance, and equipment can be changed without altering the starting package.
 
@@ -8,7 +8,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 **Specialty:** Scout  
 **Field Doctrine:** Read the Ground<br>
-**Defense:** 2  
+**Defense:** 1  
 **Humanity:** 100  
 **Movement:** 2 squares
 
@@ -31,7 +31,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 **Specialty:** Demolitionist  
 **Field Doctrine:** Leave the Right Ruin<br>
-**Defense:** 2  
+**Defense:** 1  
 **Humanity:** 100  
 **Movement:** 2 squares
 
@@ -54,7 +54,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 **Specialty:** Mine-Clearer  
 **Field Doctrine:** Follow My Steps<br>
-**Defense:** 2  
+**Defense:** 1  
 **Humanity:** 100  
 **Movement:** 2 squares
 
@@ -77,7 +77,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 **Specialty:** Trench Fighter  
 **Field Doctrine:** Behind Me<br>
-**Defense:** 2  
+**Defense:** 1  
 **Humanity:** 100  
 **Movement:** 2 squares
 
@@ -100,7 +100,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 **Specialty:** Runner  
 **Field Doctrine:** No One Left<br>
-**Defense:** 2  
+**Defense:** 1  
 **Humanity:** 100  
 **Movement:** 5 squares
 
@@ -123,7 +123,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 **Specialty:** Rifleman  
 **Field Doctrine:** Wait for the Opening<br>
-**Defense:** 2  
+**Defense:** 1  
 **Humanity:** 100  
 **Movement:** 2 squares
 

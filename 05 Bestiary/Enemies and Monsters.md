@@ -1,4 +1,4 @@
-# Enemies and Monsters
+# Enemy Forces and Battlefield Horrors
 
 Resolve these profiles using [[Skill Checks and Combat]]. Use [[Stationary Defenses]] for protected emplacements and fixed living weapons.
 
@@ -26,7 +26,7 @@ Enemy soldiers can use more detailed skills and equipment when a mission require
 
 ### Line Soldier
 
-**Defense:** 2  
+**Defense:** 1  
 **Speed:** 4  
 **Attack:** Rifle 4 dice at Far; bayonet 3 dice at Melee  
 **Skills:** Awareness 3, Mobility 3, Strength 2
@@ -35,16 +35,16 @@ Line soldiers hold firing positions, patrol known routes, and concentrate fire w
 
 ### Enemy Sapper
 
-**Defense:** 2  
+**Defense:** 1  
 **Speed:** 4  
 **Attack:** Trench gun 4 dice at Close; knife 3 dice at Melee  
 **Skills:** Choose two mission-relevant skills at 5 dice and other checks at 2 dice
 
-Enemy sappers lay mines, recover bodies, alter routes, and investigate Allied equipment. Give each patrol a purpose such as mining a breach, retrieving remains, repairing wire, or hunting the party.
+Enemy sappers lay mines, recover bodies, alter routes, and investigate Allied equipment. Give each patrol a purpose such as mining a breach, retrieving remains, repairing wire, or hunting the unit.
 
 ### Assault Corporal
 
-**Defense:** 3  
+**Defense:** 2  
 **Speed:** 6  
 **Attack:** Automatic trench gun 7 dice at Close; pile-driver 6 dice at Melee  
 **Skills:** Awareness 5, Mobility 5, Strength 5
@@ -53,7 +53,7 @@ An Assault Corporal directs nearby soldiers. While the Corporal lives, enemy sol
 
 ### Enemy Sergeant
 
-**Defense:** 4  
+**Defense:** 3  
 **Speed:** 8  
 **Attack:** Choose a level 3 weapon; 10 dice at its listed range  
 **Skills:** Three specialties at 8 dice; other trained actions at 5 dice
@@ -62,18 +62,31 @@ Enemy Sergeants are reconstructed veterans carrying rare war technology. They re
 
 ### Enemy Battleborn
 
-**Defense:** 6  
+**Defense:** 4  
 **Speed:** 10  
 **Attack:** 12 dice at one listed range; 9 dice at another  
 **Skills:** Relevant checks at 10 dice
 
-An enemy Battleborn revives without assistance unless it is completely immobilized or its remains are incinerated. It remembers the party between runs and may incorporate unrecovered Allied parts into its body.
+An enemy Battleborn revives without assistance unless it is completely immobilized or its remains are incinerated. It remembers the unit between runs and may incorporate unrecovered Allied parts into its body.
 
 A Battleborn should be a mission problem rather than an incidental encounter. Trapping, immobilizing, and burning it is more reliable than repeatedly winning direct combat.
 
+### Anti-Battleborn Section
+
+**Defense:** 1 per hunter  
+**Speed:** 4  
+**Attack:** Restraint gun 5 dice at Close; phosphorus projector 6 dice at Close  
+**Skills:** Awareness 5, Engineering 4, Mobility 3
+
+These specialists deploy only against a Burn-Listed body, a captured Battleborn, or a target command has positively identified as capable of unaided revival. A section contains three to six hunters carrying hooked restraint lines, corpse-recognition reagents, fuel, and enough phosphorus to deny the Butchers a specimen.
+
+The hunters do not begin by exchanging fire. They advance toward the marked body, secure it, and spend one uninterrupted action preparing the burn. On their next action they completely incinerate it. Restraint lines, suppressing fire, and ordinary soldiers protect that procedure. Killing the crew, moving the body, severing their route, or forcing them away interrupts it.
+
+Their arrival must be telegraphed. Let the unit hear the fuel tins, see white-coated troops enter a communications trench, intercept the cremation order, or watch recognition flares rise over the corpse. They are a closing recovery puzzle, not an invisible punishment.
+
 ## Enemy Recovery
 
-Enemy recovery details operate between runs. Unless the sappers prevent it, enemy bodies are removed, reconstructed, and returned to service. A marked patrol route may therefore be occupied again even after the party kills everyone assigned to it.
+Enemy recovery details operate between runs. Unless the sappers prevent it, enemy bodies are removed, reconstructed, and returned to service. A marked patrol route may therefore be occupied again even after the unit kills everyone assigned to it.
 
 The sappers can interfere by:
 
@@ -92,7 +105,7 @@ Monsters are not a separate ecosystem. They are consequences: corpses combined b
 
 ### Feral Corpse Hound
 
-**Defense:** 2  
+**Defense:** 1  
 **Speed:** 8  
 **Attack:** Bite 5 dice at Melee  
 **Skills:** Awareness 6, Stealth 4
@@ -101,7 +114,7 @@ Corpse hounds are bred to find and recover bodies. Allied hounds recognize regim
 
 ### Patchwork Heap
 
-**Defense:** 3  
+**Defense:** 2  
 **Speed:** 2  
 **Attack:** Grasping limbs 6 dice at Melee  
 **Skills:** Strength 8, Awareness 2
@@ -110,7 +123,7 @@ Dozens of partial bodies share one directionless revival. When beside a corpse a
 
 ### Skinless Burrower
 
-**Defense:** 2  
+**Defense:** 1  
 **Speed:** 10  
 **Attack:** Eruption 6 dice at Melee  
 **Skills:** Stealth 7 beneath earth, Awareness 5
@@ -119,7 +132,7 @@ The Burrower travels through soft ground and corpse-filled mud. Its position can
 
 ### Wire Saint
 
-**Defense:** 4  
+**Defense:** 3  
 **Speed:** 2  
 **Attack:** Barbed embrace 7 dice at Close  
 **Skills:** Awareness 5, Strength 8
@@ -128,7 +141,7 @@ Bodies have grown through a mass of signal wire and barbed coils. A sapper kille
 
 ### Trench Mare
 
-**Defense:** 3  
+**Defense:** 2  
 **Speed:** 12  
 **Attack:** Charge 7 dice at Melee  
 **Skills:** Mobility 7, Awareness 5, Strength 7
@@ -137,7 +150,7 @@ A long equine reconstruction burdened with human arms and respirators. If it mov
 
 ### Choir in the Mud
 
-**Defense:** 2  
+**Defense:** 1  
 **Speed:** 0  
 **Attack:** Remembered scream 6 dice at Close  
 **Skills:** Awareness 8
@@ -146,7 +159,7 @@ Only its mouths break the surface. When the Choir detects a sapper, it imitates 
 
 ### Black Matter Bloom
 
-**Defense:** 3  
+**Defense:** 2  
 **Speed:** 0  
 **Attack:** Rooted tendrils 7 dice at Close  
 **Skills:** Awareness 7 through connected earth
@@ -155,7 +168,7 @@ The Bloom grows where too many revivals have soaked the same ground. A sapper ki
 
 ### The Unreturned
 
-**Defense:** 2  
+**Defense:** 1  
 **Speed:** 6  
 **Attack:** Stolen weapon 5 dice at its proper range  
 **Skills:** Stealth 6, Awareness 4, one remembered specialty at 6
@@ -170,9 +183,9 @@ Use these profiles as rough benchmarks:
 
 | Threat           | Defense | Attack Dice | Speed |
 | ---------------- | ------: | ----------: | ----: |
-| Lesser horror    |       2 |         4–5 |   4–8 |
-| Serious horror   |       3 |         6–7 |  2–10 |
-| Major horror     |       4 |        8–10 |  2–12 |
-| Operation threat |      5+ |         10+ |   Any |
+| Lesser horror    |       1 |         4–5 |   4–8 |
+| Serious horror   |       2 |         6–7 |  2–10 |
+| Major horror     |       3 |        8–10 |  2–12 |
+| Operation threat |      4+ |         10+ |   Any |
 
 Numbers alone do not make a memorable monster. Its behavior should threaten bodies, map knowledge, equipment, or the unit's ability to recover its dead.

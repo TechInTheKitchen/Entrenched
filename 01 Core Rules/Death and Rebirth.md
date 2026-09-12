@@ -22,7 +22,7 @@ Enough of the body must remain to identify and rebuild the sapper. The reviver m
 
 Reviving one body takes the sapper's full turn. The reviver must remain beside the fallen sapper through the following enemy turn and can do nothing else. If the reviver survives and is not forced away, the fallen sapper returns at the beginning of the next sapper turn. Every fallen sapper requires a separate revival.
 
-The revived sapper returns at full health: clear every marked Flesh box. They may act normally during the sapper turn in which they return. Apply Humanity loss and every threshold crossed immediately; a Flesh box gained at a new threshold begins empty. Roll and record the repair and scar immediately. Equipment still present on the body remains with its bearer.
+The revived sapper returns with every Flesh box cleared. They may act normally during the sapper turn in which they return. Apply Humanity loss and every threshold crossed immediately; a Flesh box gained at a new threshold begins empty. Roll and record the repair and scar immediately. Equipment still present on the body remains with its bearer.
 
 A field-revived sapper:
 
@@ -34,7 +34,7 @@ A field-revived sapper:
 
 Field revival costs less Humanity than reconstruction by the Butchers. The sapper spends less time dead, less time witnessing the other side, and less time forgetting the person they were before death. The price is an improvised body assembled under fire.
 
-Each scar combines a permanent physical adaptation with a borrowed echo. The adaptation is always present. When the echo encounters a meaningful trigger, it tries to replace one of the sapper's written memories; resisting it costs Humanity. Scars are not merely wounds: they are useful alterations, mismatched instincts, and visible evidence that the sapper was rebuilt incorrectly.
+Each scar combines a permanent physical alteration with a borrowed echo. No more than three scars are Active during a run and able to provide their adaptations, but every scar remains visible and capable of intrusion. When an echo encounters a meaningful trigger, it tries to replace one of the sapper's written memories; resisting it costs Humanity. Scars are not merely wounds: they are useful defects, mismatched instincts, and visible evidence that the sapper was rebuilt incorrectly.
 
 ## Recovery by the Butchers
 
@@ -71,19 +71,25 @@ If one loss crosses several thresholds, resolve every crossed threshold in desce
 
 As a sapper crosses the following thresholds, they gain the listed changes. Humanity thresholds also determine military rank and equipment access as described in [[Character Creation]].
 
-### 75 Humanity: Dead to Pain
+### Death Under Orders
+
+The body learns only from a death suffered while pursuing the operation under genuine threat. A death deliberately arranged to obtain replacement material or skill ranks grants **no universal revival rank and no ranks from the replacement**. Execution by an ally, controlled self-destruction, and a revival staged safely behind the line are not training.
+
+The revival, Humanity loss, replacement, scar, and every other consequence still occur. The Referee should invoke this rule only when advancement was plainly the purpose of the death. Desperate sacrifices, failed plans, and calculated battlefield risks remain legitimate service.
+
+### 75 Humanity: Pain-Dead
 
 The sapper gains **1 Flesh box**. The first lethal hit or wound they suffer before that box is marked leaves them Wounded instead of Dying.
 
 Using a dark marker, obscure the sapper's original identifying marks. Write or draw what the unit now uses to recognize them.
 
-### 50 Humanity: Battlefield Intuition
+### 50 Humanity: Borrowed Reflex
 
 Three times per run, after rolling but before retaliation, the sapper may reroll up to half the dice in one of their checks or attacks, rounding down. Mark a use each time: `○ ○ ○`.
 
 Using a dark marker, obscure one important word or name in the sapper's memory before the war. Replace it with a detail from a borrowed echo or donor memory.
 
-### 25 Humanity: Hardened Flesh
+### 25 Humanity: Redundant Anatomy
 
 The sapper gains a second **Flesh box**. They can now endure two marked wounds; the next lethal hit or wound leaves them Dying.
 
@@ -101,13 +107,18 @@ The sapper has forgotten their life before the battlefield. They remain under th
 
 Every Battleborn has three Burn boxes: `○ ○ ○`.
 
-Whenever a Battleborn dies, mark one Burn box. The enemy has learned to answer these bodies with phosphorus, flame, and cremation charges; even an Allied recovery leaves more of the body irretrievably charred. The Battleborn may revive normally after the first and second boxes are marked. When the third box is marked, the remains are hunted by enemy agents with the goal to incinerate them beyond reconstruction. A Battleborn left unable to reform on the battlefield will be lost in time either do to enemy action, or other agents.
+Whenever a Battleborn dies, mark one Burn box. The Battleborn may revive normally after the first and second boxes are marked. When the third box is marked, the body is **Burn-Listed**. It may still begin revival, but the enemy immediately dispatches an [[Enemies and Monsters#Anti-Battleborn Section|anti-Battleborn section]] to identify, pin, and completely incinerate it.
 
-The death whose revival reduces a sapper to 0 Humanity does not mark a Burn box. The sapper died before they became Battleborn. Burn begins with deaths suffered after they awaken at 0 Humanity.
+A Burn-Listed sapper is not automatically destroyed. From that death onward, recovery becomes an urgent battlefield problem. The Referee marks the body's position and shows the approaching hunters through intercepted orders, phosphorus teams, corpse-recognition equipment, circling aircraft, or enemy movement toward the site. If the unit recovers and revives the sapper before the hunters finish their work, the Battleborn returns with all three boxes still marked. Every later death leaves it Burn-Listed again and draws another extermination response.
 
-Unaided revival begins on a Battleborn's next sapper turn. Count that turn as the first of three; the Battleborn returns at the beginning of the fourth sapper turn with full health. Each turn should show the corpse rebuilding itself: fingers dragging loose meat closer, ribs levering the torso from the mud, teeth fastening tendons, and borrowed limbs remembering how to stand. The Battleborn cannot act before the revival is complete. Moving, scattering, immobilizing, or burning the remains interrupts the count. An ally may instead perform normal field revival.
+Anti-Battleborn sections do not arrive by magic and should not erase a rescue already in progress. They follow known routes, require time, and can be distracted, ambushed, or cut off. Their arrival turns every later death into a race over the body.
 
-Ordinary burning does not add Burn beyond the box marked for death unless an effect says it does. An effect that explicitly **completely incinerates** a body fills every remaining Burn box. If the enemy captures a helpless Battleborn, it fills every remaining box and burns the body to ash.
+> [!NOTE] The Edge of Humanity 
+> The death whose revival reduces a sapper to 0 Humanity does not mark a Burn box. The sapper died before they became Battleborn. Burn begins with deaths suffered after they awaken at 0 Humanity.
+
+Unaided revival begins on a Battleborn's next sapper turn. Count that turn as the first of three; the Battleborn returns at the beginning of the fourth sapper turn with every Flesh box cleared. Each turn should show the corpse rebuilding itself: fingers dragging loose meat closer, ribs levering the torso from the mud, teeth fastening tendons, and borrowed limbs remembering how to stand. The Battleborn cannot act before the revival is complete. Moving, scattering, immobilizing, or burning the remains interrupts the count. An ally may instead perform normal field revival.
+
+Ordinary burning does not add Burn beyond the box marked for death unless an effect says it does. An effect that explicitly **completely incinerates** a body causes permanent destruction. If the enemy captures a helpless Battleborn, mark every remaining Burn box and dispatch an anti-Battleborn section. The captive remains recoverable until the section completes its incineration procedure.
 
 Battleborn are still useful to the operation and often volunteer for its most dangerous work. Their power does not mark victory. It means that capture, defeat, and final death are now much closer.
 
@@ -146,4 +157,4 @@ When one sapper dies permanently but the unit remains in the operation, that pla
 
 A replacement recruit keeps the player in the operation without making permanent death cheap. The empty bunk, overwritten sheet, unrecovered body, and knowledge preserved on the map remain evidence of the sapper who was lost.
 
-The adventure ends when the unit completes its mission or every remaining sapper is permanently destroyed.
+The operation ends when the unit completes its mission or every remaining sapper is permanently destroyed.

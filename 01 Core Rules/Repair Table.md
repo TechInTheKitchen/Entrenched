@@ -10,7 +10,7 @@ Every revival replaces something that could not be saved. Roll two ordinary six-
 > [!TIP] Reading Matching Dice
 > Different-colored dice are convenient, but not required. If the dice match, roll the Body Die first and the Source Die second. Do not add them together. The result is a combination, not a total, so all 36 pairings are equally likely.
 
-Record the body zone, exact donor, and visible alteration on the sapper's replacement record. Every revival also grants 1 universal skill rank as described in [[Death and Rebirth]]. The body result grants additional ranks, and Black Matter occasionally grants one more. A revival therefore grants an average of approximately 2.8 total skill ranks.
+Record the body zone, exact donor, and visible alteration on the sapper's replacement record. A legitimate battlefield revival also grants 1 universal skill rank as described in [[Death and Rebirth]]. The body result grants additional ranks, and Black Matter occasionally grants one more. A qualifying revival therefore grants an average of approximately 2.8 total skill ranks. A death deliberately staged for advancement grants none of these ranks; the repair and every other consequence still occur.
 
 ## The Body
 
@@ -20,7 +20,7 @@ Mark the selected zone and draw the repair over it in permanent ink. Use fur, st
 
 Never erase an earlier repair. When the same zone is replaced again, draw the new material over and through the old work. Extend it across one adjacent boundary without marking that neighboring zone as replaced. The changing silhouette is the most accurate portrait of the sapper.
 
-When all ten zones have been marked, the sapper is **Totally Reconstructed**. Every later replacement must extend onto the written character record as well as the body outline. Draw stitches through a skill, cover part of an equipment box with fur, or let Black Matter run beneath the sapper's name. This is visual and permanent; it does not create another numerical bonus.
+When all ten zones have been marked, the sapper's **Body Record is Exhausted**. Every later replacement must extend onto the written character record as well as the body outline. Draw stitches through a skill, cover part of an equipment box with fur, or let Black Matter run beneath the sapper's name. This is visual and permanent; it does not create another numerical bonus.
 
 ## Body Die: Replaced Part
 
@@ -39,7 +39,7 @@ Skill ranks gained from a replaced part must obey the maximum rank of 10. If eve
 
 | d6 | Source Family | Borrowed Impulse |
 | ---: | --- | --- |
-| 1 | Laboring animal | A horse, ox, mule, or boar. Endure burdens, fight restraint, seek open ground, or answer pain with stubborn force. |
+| 1 | Draft animal | A horse, ox, mule, or boar. Endure burdens, fight restraint, seek open ground, or answer pain with stubborn force. |
 | 2 | Hunting or pack animal | A dog, wolf, corpse hound, or other predator. Follow scent, protect the pack, test weakness, and pursue what flees. |
 | 3 | Human, unknown | Repeat habits without context and ache for a life whose names and loyalties are gone. |
 | 4 | Human, Allied | Recall fragments of another sapper's service, friendships, orders, and death. |

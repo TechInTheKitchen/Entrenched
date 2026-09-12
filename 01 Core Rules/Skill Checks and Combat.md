@@ -89,9 +89,9 @@ The referee should make an obvious killing danger clear before it is resolved. D
 - **Dying:** Out of ordinary action after suffering a lethal hit with no empty Flesh box. The sapper receives one Last Action on their next turn, then dies.
 - **Fallen:** Dead, present on the battlefield, and potentially recoverable.
 - **Destroyed:** Dead with too little intact material for immediate revival. Recovery requires whatever remains or a specific fictional solution.
-- **Captured:** Held or carried away by the enemy. The enemy normally studies only sappers at 25 Humanity or less, visibly extensive reconstructions, or bearers of level 3 equipment. A captured Battleborn fills every remaining Burn box.
+- **Captured:** Held or carried away by the enemy. The enemy normally studies only sappers at 25 Humanity or less, visibly extensive reconstructions, or bearers of level 3 equipment. A captured Battleborn marks every remaining Burn box and draws an anti-Battleborn section, but may still be rescued before incineration is completed.
 - **Surprised:** Unaware when combat begins. Defense is reduced by 1, to a minimum of 1, through the first round.
-- **Permanently dead:** Unable to return because the body is unrecoverable, the third Burn box is marked, or an effect explicitly prevents reconstruction.
+- **Permanently dead:** Unable to return because the body is unrecoverable, completely incinerated, transported beyond rescue, or affected by a rule that explicitly prevents reconstruction. A third marked Burn box makes a Battleborn Burn-Listed but does not destroy it by itself.
 
 ## Resolution Order
 
@@ -132,7 +132,7 @@ Combat uses squares on the operation map or a quickly sketched local map. Distan
 - **Close:** From 2 to 6 squares away, suited to pistols, shotguns, thrown weapons, and other short-ranged attacks.
 - **Far:** 7 or more squares away, suited to rifles, machine guns, and other long-ranged attacks.
 
-Cover does not increase Defense against direct attacks. A firefight is too fast, violent, and confused for a sapper to rely on a wall staying between them and a bullet. Substantial shelter such as a bunker, deep crater, or burnt-out tank may protect a sapper from mortar and artillery retaliation when the fiction supports it.
+Partial cover does not increase Defense against direct attacks; it changes whether the target can be seen and exposed. Complete cover prevents the attack entirely. Substantial shelter such as a bunker, deep crater, or burnt-out tank may also protect a sapper from mortar and artillery retaliation when the fiction supports it.
 
 A target that cannot be seen cannot be attacked. Smoke, darkness, solid barriers, and terrain can therefore prevent an attack without increasing Defense. A successful Awareness check may reveal a concealed target until it moves or concealment changes.
 
@@ -176,9 +176,7 @@ Weapons are designed for a particular range. A weapon adds its equipment rating 
 
 Defense is the combat counterpart to Resistance. It represents armor, unnatural durability, and the difficulty of landing a lethal blow. An unarmored human has Defense 1.
 
-Armor increases Defense by its rating. Every Private receives basic armor rated 1 and therefore begins with Defense 2. Corporals and Sergeants may spend an equipment slot on higher-rated armor available to their rank. Worn armor replaces the rating of basic armor rather than adding to it.
-
-Only armor and effects that explicitly name Defense increase it. Humanity grants Flesh boxes rather than Defense.
+Every sapper begins at Defense 1 in issued protection. At 75 Humanity they gain a Flesh box but remain Defense 1; below 75 Humanity, accumulated reconstruction raises their base Defense to 2. Improved armor sets a minimum Defense rather than adding to the body's rating. Only equipment and effects that explicitly name Defense can raise it further.
 
 ## Revival Under Fire
 

@@ -1,4 +1,4 @@
-# Stationary Defenses
+# Fixed Defenses and Killing Works
 
 Stationary defenses are not ordinary enemies waiting to exchange attacks. They are sections of the battlefield built to make a direct approach impossible: pillboxes, buried projectors, sealed gun rooms, observation cupolas, and living fortifications whose operators may never be visible. Use the normal checks, cooperation, attacks, and visibility rules from [[Skill Checks and Combat]] except where a profile below replaces them. [[Specialties and Field Doctrines|Field Doctrines]] can reveal or exploit an opening but never erase a defense's Protection.
 
@@ -93,7 +93,7 @@ A low concrete bunker covers a road, wire gap, trench approach, or broad firing 
 - **Coverage:** One marked lane up to Far range, normally 4–8 squares wide.
 - **Trigger:** Visible movement, muzzle flash, or a loud impact within the lane.
 - **Retaliation:** The gun makes one 7-dice Far attack. If several sappers cross the lane together, the same roll threatens each of them.
-- **Protection:** The concrete shell and recessed slit cannot be attacked head-on. The hidden crew has Defense 2 when exposed.
+- **Protection:** The concrete shell and recessed slit cannot be attacked head-on. The hidden crew has Defense 1 when exposed.
 - **Openings:** Attention drawn to one edge of the lane; smoke across the slit; a drainage route beneath its fire; the gun barrel exposed while traversing; a rear entrance, ammunition feed, or observation cable reached from outside its coverage.
 - **Defeat:** Kill the exposed gunner, jam or sabotage the feed at Resistance 2 Engineering, place explosives at the slit or rear door at Resistance 2 Demolitions, or collapse its supports after reducing its operation-level Resistance.
 
@@ -107,7 +107,7 @@ A steel dome watches several approaches and directs artillery it does not fire i
 - **Coverage:** Every visible area within Far range, divided by solid barriers and terrain.
 - **Trigger:** The cupola observes a sapper remain in one area, use explosives, or cross a previously watched route.
 - **Retaliation:** Mark the observed square. At the end of the next sapper turn, a shell attacks everyone still within 2 squares with 8 dice. The mark remains visible before impact.
-- **Protection:** The armored dome cannot be harmed by ordinary firearms. Its observer has Defense 2 when a vision shutter opens.
+- **Protection:** The armored dome cannot be harmed by ordinary firearms. Its observer has Defense 1 when a vision shutter opens.
 - **Openings:** Feed it movement at a false target; sever or follow its telephone wire; approach through dead ground; reflect light into the lens; wait hidden for the shutter to open while it confirms a target.
 - **Defeat:** Kill the observer through the open shutter, cut the communication line at Resistance 1 Engineering, enter through its buried access, or destroy the dome's foundation at Resistance 3 Demolitions after reaching it.
 
@@ -119,7 +119,7 @@ A heavy gun rises from a protected pit, fires once, and sinks below an armored c
 - **Coverage:** One broad Far firing arc shown on the referee's map.
 - **Trigger:** A vehicle, formation, fortification, or several sappers enter the arc together.
 - **Retaliation:** The cannon makes one 10-dice attack against one target or one occupied square, then retracts. Everyone in a targeted square is threatened by the same roll.
-- **Protection:** It cannot be targeted while retracted. The raised gun has Defense 4; its loading crew has Defense 2.
+- **Protection:** It cannot be targeted while retracted. The raised gun has Defense 3; its loading crew has Defense 1.
 - **Openings:** Bait the gun into firing at false movement; jam its cover while raised; enter the loading trench during its reload; sabotage the rails or hydraulic line.
 - **Defeat:** Jam it at Resistance 2 Engineering during the firing window, kill the exposed crew, detonate its shell rack, or place a charge beneath the retracted platform.
 

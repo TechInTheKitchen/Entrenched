@@ -7,7 +7,7 @@ Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the 
 - Confirm safety boundaries and desired horror intensity.
 - Give the unit its objective and incomplete map.
 - Issue three level 1 items to each Private.
-- Mark Humanity, Defense, Flesh, Intuition, Burn, consumables, scars, and borrowed-echo triggers.
+- Mark Humanity, Defense, Flesh, Borrowed Reflex, Burn, consumables, scars, and borrowed-echo triggers.
 - Establish the Allied trench and the first visible landmark.
 
 ## During Every Run
@@ -28,10 +28,13 @@ Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the 
 - Clear marked Flesh boxes for every revived sapper; never add boxes beyond Humanity thresholds.
 - Apply Humanity loss and identity erasure.
 - Record replacement parts, scars, skill gains, rank, Flesh, and Burn.
+- If a death was staged solely for advancement, grant no universal or replacement skill ranks.
 - Decide what the enemy observed and choose one or two logical reactions.
+- If a third Burn box was marked, place and telegraph an approaching anti-Battleborn section.
 - Replace and refill level 1 gear; account separately for scarce level 2 and priority level 3 items and consumables.
-- Assign items to bearers and refresh per-run abilities. Do not refill scarce consumables unless supply is available.
+- Assign items to bearers, refresh per-run abilities, and mark no more than three scars Active for each sapper. Do not refill scarce consumables unless supply is available.
 - Mark recoverable bodies, captives, enemy routes, and the next opportunity to bring them home.
+- Show one new sign of Allied readiness. This creates obligation, not a hidden deadline.
 - Begin the next run from the Allied trench.
 
 ## End the Operation

@@ -6,9 +6,9 @@ Use [[Skill Checks and Combat]] when danger requires exact actions, [[Retaliatio
 
 **Entrenched** follows one sapper unit through a single operation on the Western Front. The unit has been given an objective somewhere beyond its own trench: seize an enemy position, destroy a fortification, recover intelligence, collapse a tunnel network, or complete some other task that command considers worth any number of lives.
 
-**Entrenched** lasts until the sappers complete their objective or the entire unit is permanently destroyed. Most adventures should take two to four sessions.
+**Entrenched** lasts until the sappers complete their objective or the entire unit is permanently destroyed. Most operations should take two to four sessions.
 
-The same players may begin a later adventure as a new sapper unit with a new mission and a new stretch of no-man's-land to learn.
+The same players may begin a later operation as a new sapper unit with a new mission and a new stretch of no-man's-land to learn.
 
 ## Runs Into No-Man's-Land
 
@@ -22,11 +22,11 @@ A run usually ends in one of three ways:
 - The surviving sappers revive their fallen and retreat to the Allied trench. Unrevived bodies are abandoned to later recovery.
 - The unit completes the operation.
 
-Death does not reset the battlefield. Each run leaves the party with new knowledge, altered bodies, and less time before its sappers lose the last of their humanity.
+Death does not reset the battlefield. Each run leaves the unit with new knowledge, altered bodies, and less of the people who first crossed the parapet.
 
 ## The Shared Map
 
-The players share a physical map of the operation area, normally 36 squares wide and between 84 and 144 squares long. At the beginning of the adventure, it contains only what Allied command believes it knows. The players add to it as their sappers explore.
+The players share a physical map of the operation area, normally 36 squares wide and between 84 and 144 squares long. At the beginning of the operation, it contains only what Allied command believes it knows. The players add to it as their sappers explore.
 
 They may mark discoveries such as:
 
@@ -40,7 +40,7 @@ They may mark discoveries such as:
 - Passable and impassable ground
 - Safe, dangerous, and untested routes
 
-Information survives even when the sappers who discovered it do not. The marked map is the party's chief advantage over the battlefield. Every death should teach the unit something that may help during its next run.
+Information survives even when the sappers who discovered it do not. The marked map is the unit's chief advantage over the battlefield. Every death should teach the unit something that may help during its next run.
 
 ### Moving Across the Operation Map
 
@@ -52,7 +52,7 @@ This distinction keeps a long paper map useful without turning every crossing in
 
 All runs begin from the Allied trench. The unit may learn a faster or safer route, but it must cross no-man's-land again each time.
 
-Most discoveries remain reliable for the entire adventure. Cleared mines, destroyed barriers, tunnels, shelters, and major terrain stay marked unless something in the fiction changes them. Bodies may be recovered or moved, patrols may be reinforced, and enemy positions may shift in response to the unit's actions.
+Most discoveries remain reliable for the entire operation. Cleared mines, destroyed barriers, tunnels, shelters, and major terrain stay marked unless something in the fiction changes them. Bodies may be recovered or moved, patrols may be reinforced, and enemy positions may shift in response to the unit's actions.
 
 ## Failure Draws Fire
 
@@ -74,7 +74,7 @@ Retaliation is intentionally lethal. Combat attacks that meet Defense inflict le
 
 ## Death in the Field
 
-If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper to play during the same run at full health, but leaves permanent scars. Each scar provides a passive physical adaptation and a donor memory that can overwrite what remains of the sapper's former life.
+If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper to play during the same run with every Flesh box cleared, but leaves permanent scars. Scars accumulate on the record; before each run, no more than three are Active and able to provide their adaptations. Every scar retains a donor memory that can overwrite what remains of the sapper's former life.
 
 The unit succeeds and fails together. A body is not dragged during play. Survivors must field-revive a fallen sapper before retreating with them. Any body left behind is abandoned to corpse hounds, enemy recovery, or the battlefield and is resolved after the run. When a fallen or captured sapper can still be recovered, their location or route remains on the map and the unit receives a dangerous opportunity to bring them back. No sapper is left in no-man's-land lightly.
 
@@ -86,9 +86,9 @@ Every sapper tracks Humanity separately, beginning at 100. Revival costs Humanit
 
 As Humanity falls, the sapper becomes more capable and less recognizably human. Their replacements, scars, instincts, and altered behavior record the price of every run. This transformation is useful to the mission: the sappers most suited to the worst dangers are those closest to losing themselves.
 
-At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every death suffered after awakening at 0 Humanity marks one of three Burn boxes. The death whose revival first reduces them to 0 marks none. The third later death reduces them beyond revival, and capture fills every remaining box at once.
+At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every death suffered after awakening at 0 Humanity marks one of three Burn boxes. The death whose revival first reduces them to 0 marks none. At three marked boxes the body is Burn-Listed: every subsequent death draws an anti-Battleborn section carrying restraints, phosphorus, and orders to leave no recoverable tissue.
 
-The adventure therefore becomes a race. The unit must use the knowledge gathered on earlier runs to complete its mission before every sapper becomes Battleborn and the enemy destroys them for good.
+The operation has no arbitrary deadline. Its pressure is visible instead: Allied assault troops gather behind the parapet, guns register their targets, stretchers are stacked, and officers wait for the unit's signal. The Referee shows that readiness after every cycle. The soldiers may wait for the red flag, but the waiting must feel expensive.
 
 ## The Cycle
 
@@ -103,6 +103,19 @@ Each run repeats the following cycle:
 7. **Reconstruction:** The Butchers rebuild recovered dead, Humanity is lost, and new parts and scars are recorded.
 8. **Return:** The altered unit chooses equipment using what it has learned and enters no-man's-land again.
 
+### Showing Allied Readiness
+
+At every Return, add one concrete sign that the larger assault is ready and waiting. These signs do not impose a hidden countdown or end the operation by themselves.
+
+- Fresh infantry crowd communications trenches that were empty on the previous run.
+- Artillery crews hold loaded guns on coordinates supplied by the unit.
+- Medical stations lay out numbered cots before casualties exist.
+- Officers repeatedly ask whether the red flag will rise on the next attempt.
+- Troops at the parapet stop talking when the reconstructed sappers pass.
+- Runners carry revised orders whose only missing entry is the time of advance.
+
+Readiness creates obligation, not a timer. Do not punish deliberate reconnaissance merely because another cycle passed. Show instead how many living people have placed their weight upon the unit's unfinished work.
+
 ### Between-Runs Checklist
 
 1. Preserve discoveries, cleared obstacles, destroyed positions, and abandoned equipment on the map.
@@ -111,7 +124,7 @@ Each run repeats the following cycle:
 4. Record Humanity loss, repairs, scars, skill gains, promotions, Flesh, and Burn.
 5. Decide what the enemy observed and choose one or two logical responses.
 6. Replace and refill level 1 gear, account for scarce level 2 and priority level 3 supplies, and outfit every sapper.
-7. Refresh per-run abilities and note each scar-memory trigger that may matter on the next route.
+7. Refresh per-run abilities, choose up to three Active scars for each sapper, and note scar-memory triggers that may matter on the next route.
 8. Begin again from the Allied trench, crossing unchanged safe ground quickly.
 
 The cycle ends only in mission success or the permanent destruction of the unit.
@@ -122,5 +135,5 @@ The cycle ends only in mission success or the permanent destruction of the unit.
 - **Failure changes the situation.** It never produces a harmless dead end.
 - **Knowledge outlives the body.** Exploration and mapmaking make later runs possible.
 - **Nobody is disposable.** Recovery keeps the unit together and preserves its accumulated experience.
-- **Death is advancement.** Revival makes a sapper stronger at the cost of Humanity.
+- **Death under orders is advancement.** A genuine battlefield death may teach the reconstructed body. A staged death grants no skill ranks and still costs Humanity.
 - **Power brings final death closer.** The most capable sapper is often the one with the fewest lives left.

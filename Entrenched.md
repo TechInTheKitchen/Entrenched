@@ -4,16 +4,17 @@
 
 The players are fresh recruits assigned to the [[187th Sappers Regiment]]. They cross [[No-Man's-Land]], discover and mark routes on a shared physical map, complete an impossible military objective, die, and return altered by donor flesh and memories that do not belong to them.
 
-Death makes a sapper more capable. It also consumes Humanity. The operation becomes a race to finish the mission before the entire unit becomes Battleborn and suffers permanent destruction.
+Death makes a sapper more capable. It also consumes Humanity. Battleborn bodies eventually become Burn-Listed, drawing specialist enemy sections whose orders are to pin the remains and erase every recoverable trace.
 
 ## Start Here
 
 ### Players
 
 1. Read [[Safety and Tone]].
-2. Learn the cycle in [[Core Game Loop]].
-3. Create a sapper with [[Character Creation]], including a [[Specialties and Field Doctrines|Field Doctrine]], or choose one from [[Example Sappers]].
-4. Keep [[Quick Reference]] open during play.
+2. Enter the regiment through [[Your First Orders]], which guides the group through the setting and character creation in play.
+3. Use [[Character Creation]] for the complete creation rules, including a [[Specialties and Field Doctrines|Field Doctrine]], or choose one from [[Example Sappers]].
+4. Learn the full operation cycle in [[Core Game Loop]].
+5. Keep [[Quick Reference]] open during play.
 
 ### Referees
 
@@ -28,7 +29,7 @@ Death makes a sapper more capable. It also consumes Humanity. The operation beco
 - **00 Start Here:** Quick-reference and table-safety material
 - **01 Core Rules:** Player rules, character rules, death, repair, scars, and equipment
 - **02 Referee:** Procedures for running operations, retaliation, and horror
-- **03 Operations:** Ready-to-run adventures
+- **03 Operations:** Ready-to-run operations
 - **04 Setting:** The Long War, factions, institutions, and battlefield lore
 - **05 Bestiary:** Enemy profiles and monsters
 - **06 Play Aids:** Pregenerated characters and printable checklists for live play

@@ -35,7 +35,7 @@ These items are given to every sapper and do not consume equipment slots.
 
 | Item | Effect |
 | --- | --- |
-| Steel helmet and quilted armor | Armor 1. Combined with base Defense 1, the sapper begins with Defense 2. |
+| Steel helmet and quilted armor | Issued protection. It is already included in the sapper's starting Defense 1 and occupies no slot. |
 | Respirator | Allows the sapper to attempt Mobility checks against ordinary battlefield gas. It provides no bonus dice. |
 | Map case and grease pencil | Used to record discoveries on the unit's shared map. |
 
@@ -112,7 +112,7 @@ Level 2 equipment is expensive machinery produced by a civilization that has for
 | Shaped charges         | Demolitions | Melee  |    3 | Adds 2 dice against armor, bunkers, engines, and reinforced structures.                                                   |
 | Incendiary bombs       | Ranged      | Close  |    3 | Adds 2 dice to attacks. Bodies destroyed by the fire cannot be revived without recoverable remains.                       |
 | Concussion mines       | Engineering | Placed |    3 | Adds 2 dice when placing the mine. Once placed, it makes a 7-dice attack against the first suitable target to trigger it. |
-| Composite trench armor | —           | Worn   |    — | Armor 2, giving an ordinary sapper Defense 3. Replaces issued armor and occupies one slot.                                |
+| Composite trench armor | —           | Worn   |    — | Sets the wearer's Defense to at least 2. Replaces issued armor and occupies one slot.                                     |
 | Artillery radio        | Ranged      | Far    |    1 | Adds 6 dice against a target square the sapper can see, can only be used outside of combat.                               |
 
 # Level 3 Equipment
@@ -149,7 +149,7 @@ Level 3 equipment is never truly issued. It is introduced to its new bearer by a
 | Blackblood charges | Demolitions | Melee  |    3 | Adds 3 dice. The charge grows tendrils through cracks before detonating, allowing it to attack internal supports or machinery without first breaching the exterior.                                                                 |
 | Boneburst grenades | Ranged      | Close  |    3 | Adds 3 dice to attacks. On a success, the blast leaves a field of growing splinters that becomes dangerous ground.                                                                                                                  |
 | Crawling mines     | Engineering | Placed |    3 | Adds 3 dice when deployed and make a 10-dice attack when detonated. After being placed, one may move 2 squares at the beginning of each sapper turn until ordered to wait or detonate. Crawling Mines have defense 1 when targeted. |
-| Ossuary harness    | —           | Worn   |    — | Armor 3, giving an ordinary sapper Defense 4. Once per run, it may prevent one non-combat Flesh box from being marked; afterward its bone plates remain open and loudly grind until the unit returns to the trench.                 |
+| Ossuary harness    | —           | Worn   |    — | Sets the wearer's Defense to at least 3. Once per run, it may prevent one non-combat Flesh box from being marked; afterward its bone plates remain open and loudly grind until the unit returns to the trench. Replaces issued armor. |
 
 ## Losing Equipment
 

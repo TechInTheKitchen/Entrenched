@@ -8,11 +8,14 @@ It is written for **three to six sappers** and should last two to four sessions.
 
 ## Briefing
 
-Enemy troops hold **Trench 19**, a forward position overlooking the Allied line. At dawn in several days, a larger assault will advance only if the sappers raise a red signal flag over the trench.
+Enemy troops hold **Trench 19**, a forward position overlooking the Allied line. A larger assault is assembled behind the Allied parapet. It will advance only when the sappers raise a red signal flag over the trench.
 
 The unit must cross no-man's-land, breach Trench 19, silence its defenders, and keep the flag standing through one complete enemy turn. Command knows the trench's approximate location and provides a flag, a rough map, and no promise of support.
 
-The operation succeeds when the red flag remains raised at the end of an enemy turn. It fails permanently only when the entire unit has become Battleborn and is captured or destroyed beyond revival.
+The operation succeeds when the red flag remains raised at the end of an enemy turn. There is no fixed deadline. It fails permanently when every remaining sapper is permanently destroyed.
+
+> [!NOTE] Readiness, Not a Countdown
+> After every cycle, show the assault waiting: more troops in the communications trenches, loaded guns trained on Trench 19, officers asking whether the next run will raise the flag, and casualty stations preparing empty beds. These signs do not secretly end the operation or punish careful reconnaissance. They show the human weight gathering behind the sappers' unfinished work.
 
 ## What Command Knows
 
@@ -131,6 +134,9 @@ Use brief scenes to show the operation changing the Allied trench:
 - After the first Battleborn transformation, nearby soldiers stop using the sapper's name.
 - When the unit finds the hidden approach, an officer promises that thousands of lives now depend upon it.
 - Before the final run, the Butchers have already laid out replacement parts beside empty tables.
+- As cycles accumulate, fresh infantry fill the trench until the sappers must turn sideways to pass them.
+- Gun crews sleep beside loaded pieces, waiting for coordinates and the red signal.
+- A clerk repeatedly leaves the assault time blank while completing every other line of the order.
 
 ## Further Complications
 

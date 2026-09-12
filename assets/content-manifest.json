@@ -30,7 +30,7 @@
         "type":  "markdown"
     },
     {
-        "title":  "187th Sappers Regiment",
+        "title":  "187th Sapper Regiment",
         "path":  "04 Setting/187th Sappers Regiment.md",
         "folder":  "04 Setting",
         "type":  "markdown"
@@ -72,7 +72,7 @@
         "type":  "markdown"
     },
     {
-        "title":  "Enemies and Monsters",
+        "title":  "Enemy Forces and Battlefield Horrors",
         "path":  "05 Bestiary/Enemies and Monsters.md",
         "folder":  "05 Bestiary",
         "type":  "markdown"
@@ -90,15 +90,15 @@
         "type":  "markdown"
     },
     {
-        "title":  "Stationary Defenses",
+        "title":  "Fixed Defenses and Killing Works",
         "path":  "05 Bestiary/Stationary Defenses.md",
         "folder":  "05 Bestiary",
         "type":  "markdown"
     },
     {
-        "title":  "Death and Rebirth",
-        "path":  "01 Core Rules/Death and Rebirth.md",
-        "folder":  "01 Core Rules",
+        "title":  "Introductory Operation: Raise the Red Flag",
+        "path":  "03 Operations/Raise the Red Flag.md",
+        "folder":  "03 Operations",
         "type":  "markdown"
     },
     {
@@ -108,14 +108,20 @@
         "type":  "markdown"
     },
     {
-        "title":  "Repair Table",
-        "path":  "01 Core Rules/Repair Table.md",
+        "title":  "Character Creation",
+        "path":  "01 Core Rules/Character Creation.md",
         "folder":  "01 Core Rules",
         "type":  "markdown"
     },
     {
         "title":  "Equipment",
         "path":  "01 Core Rules/Equipment.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Death and Rebirth",
+        "path":  "01 Core Rules/Death and Rebirth.md",
         "folder":  "01 Core Rules",
         "type":  "markdown"
     },
@@ -132,9 +138,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Character Creation",
-        "path":  "01 Core Rules/Character Creation.md",
-        "folder":  "01 Core Rules",
+        "title":  "Your First Orders",
+        "path":  "00 Start Here/Your First Orders.md",
+        "folder":  "00 Start Here",
         "type":  "markdown"
     },
     {
@@ -144,39 +150,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Referee Lore Guide",
-        "path":  "02 Referee/Referee Lore Guide.md",
-        "folder":  "02 Referee",
-        "type":  "markdown"
-    },
-    {
         "title":  "Referee Guide",
         "path":  "02 Referee/Referee Guide.md",
         "folder":  "02 Referee",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Introductory Operation: Raise the Red Flag",
-        "path":  "03 Operations/Raise the Red Flag.md",
-        "folder":  "03 Operations",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Retaliation Tables",
-        "path":  "02 Referee/Retaliation Tables.md",
-        "folder":  "02 Referee",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Skill Checks and Combat",
-        "path":  "01 Core Rules/Skill Checks and Combat.md",
-        "folder":  "01 Core Rules",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Scar Table",
-        "path":  "01 Core Rules/Scar Table.md",
-        "folder":  "01 Core Rules",
         "type":  "markdown"
     },
     {
@@ -186,8 +162,38 @@
         "type":  "markdown"
     },
     {
+        "title":  "Retaliation Tables",
+        "path":  "02 Referee/Retaliation Tables.md",
+        "folder":  "02 Referee",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Referee Lore Guide",
+        "path":  "02 Referee/Referee Lore Guide.md",
+        "folder":  "02 Referee",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Scar Table",
+        "path":  "01 Core Rules/Scar Table.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Repair Table",
+        "path":  "01 Core Rules/Repair Table.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
         "title":  "Specialties and Field Doctrines",
         "path":  "01 Core Rules/Specialties and Field Doctrines.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Skill Checks and Combat",
+        "path":  "01 Core Rules/Skill Checks and Combat.md",
         "folder":  "01 Core Rules",
         "type":  "markdown"
     }

@@ -5,7 +5,7 @@
 - Three to six players create sappers using [[Character Creation]].
 - The referee prepares an objective and persistent map using [[Mission Construction]].
 - Agree on boundaries using [[Safety and Tone]].
-- Each sapper begins at 100 Humanity, Defense 2, no Flesh boxes, and three level 1 equipment slots.
+- Each sapper begins at 100 Humanity, Defense 1, no Flesh boxes, and three level 1 equipment slots.
 - Each sapper has one [[Specialties and Field Doctrines|Field Doctrine]]. All except **Wait for the Opening** may be used once per run.
 
 ## Checks
@@ -73,6 +73,8 @@ Field revival:
 - Gain one universal skill rank plus replacement ranks
 - Clear every marked Flesh box and return able to act on that sapper turn
 
+A death staged solely to gain ranks grants no universal or replacement ranks. Humanity loss, repair, scars, and all other consequences still apply.
+
 Butcher revival after trench recovery:
 
 - Lose `2d6 + 2` Humanity
@@ -88,20 +90,20 @@ Every completed revival clears all marked Flesh boxes. Assign universal and repl
 | Humanity | Condition |
 | ---: | --- |
 | 100–76 | Human; Private; level 1 gear; 3 slots |
-| 75–51 | Dead to Pain; Corporal; 1 Flesh box; level 2 gear; 4 slots |
-| 50–26 | Battlefield Intuition; three half-pool rerolls each run |
-| 25–1 | Hardened Flesh; Sergeant; 2 Flesh boxes; level 3 gear; 6 slots |
-| 0 | Battleborn; three deaths before permanent destruction |
+| 75–51 | Pain-Dead; Corporal; 1 Flesh box; level 2 gear; 4 slots |
+| 50–26 | Borrowed Reflex; three half-pool rerolls each run |
+| 25–1 | Redundant Anatomy; Sergeant; 2 Flesh boxes; level 3 gear; 6 slots |
+| 0 | Battleborn; Burn boxes; Burn-Listed after the third later death |
 
 Apply identity erasure immediately when crossing a threshold. At 0 Humanity, replace the original name with a battlefield name.
 
 ## Scars and Battleborn
 
-Every physical scar grants a permanent passive adaptation. Identical adaptations do not stack, and only the single best scar can add dice or change Defense on one roll or attack.
+Scars accumulate permanently. Before each run, mark no more than three as Active; only those three grant passive adaptations. All scars may still intrude through borrowed memories. Identical adaptations do not stack, and only the single best scar can affect one roll or attack.
 
 When a borrowed echo's trigger becomes immediate, the player may yield by briefly showing the reaction and overwriting one written memory detail, or resist and lose 1 Humanity. Only one intrusion exacts a cost from that sapper each run.
 
-Every death suffered after awakening at 0 Humanity marks one Burn box. The death whose revival first reaches 0 marks none. The third later death is permanent. A Battleborn may revive unaided over three complete turns. Capture or complete incineration fills every remaining box.
+Every death suffered after awakening at 0 Humanity marks one Burn box. The death whose revival first reaches 0 marks none. At three marked boxes the body becomes Burn-Listed and every later death draws an anti-Battleborn extermination section. A Battleborn may revive unaided over three complete turns, but must do so before the hunters pin and incinerate the remains. Capture or complete incineration is permanent destruction.
 
 The enemy normally attempts capture for study only when a sapper has 25 Humanity or less, extensive visible reconstruction, or level 3 equipment. Mark captives and likely routes on the map and provide a rescue opportunity whenever possible. A permanently lost sapper may be replaced by a new Private at the next trench return.
 

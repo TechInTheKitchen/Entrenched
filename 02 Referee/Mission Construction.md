@@ -2,9 +2,12 @@
 
 Use [[Enemies and Monsters]] for mobile opposition, [[Stationary Defenses]] for puzzle-like emplacements, and [[Retaliation Tables]] for battlefield consequences.
 
-An adventure of **Entrenched** follows one operation across a persistent map. The referee prepares most of no-man's-land before play, then changes enemy activity in response to what the sappers discover, destroy, and reveal.
+An operation of **Entrenched** unfolds across a persistent map. The referee prepares most of no-man's-land before play, then changes enemy activity in response to what the sappers discover, destroy, and reveal.
 
 The map is not a sequence of disposable encounters. It is hostile ground the players learn over repeated deaths. A good operation becomes more understandable with every run even as the enemy becomes more aware of the unit.
+
+> [!NOTE] Open-Ended Operations
+> Do not assign a deadline merely to force motion. Let failed checks, enemy reactions, Humanity loss, and endangered bodies provide immediate pressure. Between runs, show Allied readiness building at the edge of the map: massed troops, registered guns, waiting stretcher teams, and sealed orders missing only the signal time. These details show what depends on the sappers without functioning as a concealed failure clock.
 
 ## Operation Map
 
@@ -186,7 +189,7 @@ The enemy may move individual guns or establish false firing positions after eac
 
 The surface map conceals a second network of tunnels. The unit must locate entrances, determine which passages connect, and identify the command or signal organ at the center.
 
-Collapsing the wrong passage may close a route while opening another. Enemy sappers can emerge behind the party through unmarked shafts. Once the buried nerve is cut, patrol reinforcement and coordinated artillery cease for the remainder of the operation.
+Collapsing the wrong passage may close a route while opening another. Enemy sappers can emerge behind the unit through unmarked shafts. Once the buried nerve is cut, patrol reinforcement and coordinated artillery cease for the remainder of the operation.
 
 ## 4. Recover the Black Case
 
@@ -218,4 +221,4 @@ Possible solutions include mining a bridge, opening flooded ground, sabotaging i
 
 Mission success should be unmistakable. The flag rises, the guns stop, the buried signals go silent, the case reaches Allied hands, the Battleborn burns, or the Iron Saint collapses.
 
-Once the objective is complete, the adventure ends even if the war does not improve. Command records the surviving sappers, gathers whatever equipment remains, and prepares the next unit for another part of the front.
+Once the objective is complete, the operation ends even if the war does not improve. Command records the surviving sappers, gathers whatever equipment remains, and prepares the next unit for another part of the front.

@@ -1,4 +1,4 @@
-# 187th Sappers Regiment
+# 187th Sapper Regiment
 
 The **187th Allied Sapper Regiment** is formally titled the *Royal 187th Regiment for Penetration, Recovery, and Fortification*. Nobody uses the full title. Its soldiers call it the **One-Eighty-Seventh**, the **Buried Regiment**, or simply **the Returned**.
 
@@ -33,7 +33,7 @@ Promotion follows degradation openly. Ceremonies are brief. The officer reads th
 - **Counting Back:** Before deployment, each sapper says the last thing they remember before their previous death. Anyone who cannot answer is watched closely.
 - **The Empty Bunk:** A permanently dead sapper's bunk remains unused until the operation ends.
 - **Borrowed Salute:** A sapper whose right arm has been replaced may salute with the left so nobody mistakes the gesture for a donor reflex.
-- **Red Thread:** Before a final Battleborn run, the unit ties red thread around every reconstructed limb. Corpse hounds are trained to follow it through ash.
+- **Red Thread:** Before a Burn-Listed sapper deploys, the unit ties red thread around every reconstructed limb. Corpse hounds are trained to follow it through ash and phosphorus residue.
 
 ## Command
 

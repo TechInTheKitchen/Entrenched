@@ -8,7 +8,7 @@ Use [[Referee Lore Guide]] to reveal setting background through objects, repeate
 
 **Entrenched** is designed for **three to six sappers**. Three sappers create a desperate, fragile unit in which every death leaves the survivors exposed. Six give the unit more specialties and more hands for recovery, but allow the referee to use larger patrols, divided threats, and harder choices about who acts first.
 
-Do not scale every danger directly to party size. The Western Front is not a balanced contest. Instead, adjust how many problems overlap. A small unit might meet one patrol near a minefield; a large unit might face the patrol while artillery begins walking toward them. Run ordinary soldiers as formations from [[Skill Checks and Combat]] so the larger fight remains quick.
+Do not scale every danger directly to unit size. The Western Front is not a balanced contest. Instead, adjust how many problems overlap. A small unit might meet one patrol near a minefield; a large unit might face the patrol while artillery begins walking toward them. Run ordinary soldiers as formations from [[Skill Checks and Combat]] so the larger fight remains quick.
 
 ## Roll in the Open
 
@@ -46,6 +46,10 @@ Leaving a sapper behind is a last resort, not a routine between-run cleanup. If 
 
 When a sapper dies, keep that player involved in decisions about recovery, the map, and the remaining unit. If anyone survives, field revival can return the dead after the required full round. If everyone dies, move quickly to body recovery and reconstruction in the trench.
 
+Skill gained through revival represents a body learning under genuine battlefield pressure. If the unit plainly arranges a safe death only to harvest replacement ranks, apply the revival, Humanity loss, repair, and scar but grant no universal or replacement ranks. Do not use this rule against desperate sacrifices or risky plans; it exists to prevent the war from becoming a training exercise conducted on cooperative corpses.
+
+When a third Burn box is marked, announce that the body is Burn-Listed and show the anti-Battleborn response approaching. Give it a route, equipment, and enough time for the unit to attempt recovery. The hunters secure the corpse, prepare it, and then incinerate it; they do not erase it between sentences. Every death after the third draws the same response until the Battleborn is permanently destroyed.
+
 If a sapper is permanently lost while the operation continues, their player may create a new Private at the next trench return. The recruit receives the normal starting profile and the unit's map knowledge, but inherits none of the lost sapper's personal advancement. Until then, invite the player to portray a temporary recruit, an Allied corpse hound, or another willing player's intrusive donor memory.
 
 ## Trench Interludes
@@ -64,6 +68,12 @@ Choose one or two details each time:
 - A familiar song awakens a replacement part's unfamiliar memory.
 
 Let players pursue a trench scene when it matters to them, but return to outfitting and deployment before safety becomes comfortable.
+
+### Readiness Without a Deadline
+
+Operations do not require a fixed number of runs unless a specific briefing says otherwise. After every cycle, show the larger force becoming more ready to advance: troops mass behind the parapet, artillery remains loaded on the unit's coordinates, casualty stations prepare empty beds, and officers leave the assault time blank while awaiting the signal.
+
+This is pressure, not a concealed countdown. It should make the unit feel responsible for the lives waiting behind it without invalidating reconnaissance or ending an operation arbitrarily. Repeat details only after changing them: more men, less room, quieter conversation, older orders, and a red flag that has been folded and unfolded until the cloth remembers the crease.
 
 > [!NOTE] Optional Background Ambience
 > Quiet environmental sound can help sustain the pressure of the Front, but it is not required. Keep it beneath the players' voices and favor rain, timber creaks, distant artillery, and sparse battlefield noise over heroic or cinematic music.
@@ -95,7 +105,9 @@ Afterward:
 3. Let the players update their map.
 4. Decide what the enemy learned and how it reacts.
 5. Present one brief trench detail.
-6. Re-equip the unit and begin the next run.
+6. Show one sign of Allied readiness or institutional pressure.
+7. Choose up to three Active scars for each sapper.
+8. Re-equip the unit and begin the next run.
 
 ## Brutal, Not Arbitrary
 

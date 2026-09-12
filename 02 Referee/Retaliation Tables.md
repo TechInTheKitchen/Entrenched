@@ -61,30 +61,30 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 | 13 | A hidden marksman uses the detonation as a signal and makes a 6-dice Far attack against the sapper carrying the most visible tool. |
 | 14 | A bounding mine makes one 5-dice attack against every sapper within Close range, using the same roll against each Defense. |
 | 15 | The mine kills the acting sapper and throws the body 3 squares deeper into the field, beyond the nearest cover. |
-| 16 | Connected charges raise impassable wire between the front and rear of the unit. The party is split until it finds a route or creates an opening. |
+| 16 | Connected charges raise impassable wire between the front and rear of the unit. The section is split until it finds a route or creates an opening. |
 | 17 | The explosion awakens a Skinless Burrower beneath the marked safe lane. It knows the vibration of everyone who crossed it. |
 | 18 | The field chain-detonates. Kill one exposed sapper, mark a Flesh box on every other sapper in the field, and permanently replace the minefield with burning craters and one narrow passable route. |
 
 ## Patrols and Enemy Fire
 
-| 3d6 | Retaliation |
-| ---: | --- |
-| 3 | An enemy patrol withdraws through a route not shown on either map. It signals reserves, but the unit may mark the newly revealed access trench before pursuit begins. |
-| 4 | A sentry glimpses movement and changes the patrol's timing. The unit learns the new interval if it remains hidden long enough to watch. |
-| 5 | Enemy voices force an immediate choice between hiding, retreating, or following them toward an unknown position. |
-| 6 | A flare removes concealment until the end of the next enemy turn and exposes the outlines of one previously hidden position. |
-| 7 | A Line Soldier makes a 4-dice attack at Far range, then moves toward the nearest prepared position. |
-| 8 | Two Line Soldiers enter along a known patrol route and begin searching the last place the unit was heard. |
-| 9 | A recovery patrol advances toward the nearest fallen body. It will move the body on its next turn unless stopped. |
-| 10 | A patrol changes course and occupies the unit's most direct retreat route. Mark the new timing if observed. |
-| 11 | The enemy tries to capture a wounded or isolated sapper with 25 Humanity or less, extensive visible reconstruction, or level 3 equipment. Otherwise it attempts to strip or destroy one carried item. |
-| 12 | A marksman makes a 6-dice Far attack against the sapper carrying the most valuable visible equipment. |
-| 13 | The enemy calls mortar fire on the unit's position. Roll or choose on the Artillery and Mortars table. |
-| 14 | Three Line Soldiers enter from prepared cover on the unit's flank. They form one formation if they remain together. |
-| 15 | An Assault Corporal and one Line Soldier advance from Close range while another enemy holds the retreat route. |
-| 16 | Incendiary fire targets the nearest fallen sapper. Recover or move the remains before the next enemy turn or they are completely incinerated. |
-| 17 | A concealed machine-gun emplacement attacks every exposed sapper in its lane with 7 dice. Mark its coverage and use [[Stationary Defenses]] if the unit survives. |
-| 18 | A coordinated assault begins from two directions: one suitable enemy per living sapper enters, supported by a stationary defense or artillery observer already watching the field. |
+| 3d6 | Retaliation                                                                                                                                                                                           |
+| --: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   3 | An enemy patrol withdraws through a route not shown on either map. It signals reserves, but the unit may mark the newly revealed access trench before pursuit begins.                                 |
+|   4 | A sentry glimpses movement and changes the patrol's timing. The unit learns the new interval if it remains hidden long enough to watch.                                                               |
+|   5 | Enemy voices force an immediate choice between hiding, retreating, or following them toward an unknown position.                                                                                      |
+|   6 | A flare removes concealment until the end of the next enemy turn and exposes the outlines of one previously hidden position.                                                                          |
+|   7 | A Line Soldier makes a 4-dice attack at Far range, then moves toward the nearest prepared position.                                                                                                   |
+|   8 | Two Line Soldiers enter along a known patrol route and begin searching the last place the unit was heard.                                                                                             |
+|   9 | A recovery patrol advances toward the nearest fallen body. It will move the body on its next turn unless stopped.                                                                                     |
+|  10 | A patrol changes course and occupies the unit's most direct retreat route. Mark the new timing if observed.                                                                                           |
+|  11 | The enemy tries to capture a wounded or isolated sapper with 25 Humanity or less, extensive visible reconstruction, or level 3 equipment. Otherwise it attempts to strip or destroy one carried item. |
+|  12 | A marksman makes a 6-dice Far attack against the sapper carrying the most valuable visible equipment.                                                                                                 |
+|  13 | The enemy calls mortar fire on the unit's position. Roll or choose on the Artillery and Mortars table.                                                                                                |
+|  14 | Three Line Soldiers enter from prepared cover on the unit's flank. They form one formation if they remain together.                                                                                   |
+|  15 | An Assault Corporal and one Line Soldier advance from Close range while another enemy holds the retreat route.                                                                                        |
+|  16 | Incendiary fire targets the nearest fallen sapper. Recover or move the remains before the next enemy turn or they are completely incinerated.                                                         |
+|  17 | A concealed machine-gun emplacement attacks every exposed sapper in its lane with 7 dice. Mark its coverage and use [[Stationary Defenses]] if the unit survives.                                     |
+|  18 | A coordinated assault begins from two directions: one suitable enemy per living sapper enters, supported by a stationary defense or artillery observer already watching the field.                    |
 
 ## Ruins and Wrecks
 
