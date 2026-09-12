@@ -1,6 +1,6 @@
 # Core Game Loop
 
-Use [[Skill Checks and Combat]] when danger requires exact actions, [[Retaliation Tables]] when failure changes the battlefield, and [[Death and Rebirth]] when a sapper falls.
+Use [[Skill Checks and Combat]] when danger requires exact actions or a safe analysis check measures what the unit learns, [[Retaliation Tables]] when dangerous failure changes the battlefield, and [[Death and Rebirth]] when a sapper falls.
 
 ## The Shape of a Run
 
@@ -56,7 +56,7 @@ Most discoveries remain reliable for the entire operation. Cleared mines, destro
 
 ## Failure Draws Fire
 
-No-man's-land never waits quietly. When a sapper fails a check, the enemy retaliates or the battlefield turns against the unit. A failed check should create immediate danger rather than halt progress.
+No-man's-land never waits quietly. When a sapper fails a Resistance 1 or higher check, the enemy retaliates or the battlefield turns against the unit. A failed dangerous check should create immediate danger rather than halt progress. Resistance 0 checks automatically succeed and do not retaliate; they measure how much useful information or material a sapper extracts from a safe opportunity.
 
 Retaliation may include:
 
@@ -98,7 +98,7 @@ Each run repeats the following cycle:
 2. **Outfitting:** The sappers select the limited equipment they will carry.
 3. **Deployment:** The unit leaves the Allied trench and begins a run.
 4. **Discovery:** The sappers explore, mark the map, and learn how the battlefield works.
-5. **Retaliation:** Failed checks provoke immediate and often lethal consequences.
+5. **Retaliation:** Failed Resistance 1 or higher checks provoke immediate and often lethal consequences; Resistance 0 discoveries do not.
 6. **Recovery:** Survivors revive the fallen, retreat without bodies they could not repair, or die beside them.
 7. **Reconstruction:** The Butchers rebuild recovered dead, Humanity is lost, and new parts and scars are recorded.
 8. **Return:** The altered unit chooses equipment using what it has learned and enters no-man's-land again.

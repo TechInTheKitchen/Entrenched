@@ -16,26 +16,35 @@ A sapper with Engineering 3 and a mine-clearance kit rated 2 rolls five dice to 
 
 If a sapper has no ranks in the required skill, they may still attempt the action with one die. Equipment and other modifiers are then added to that die as normal.
 
-Only roll when failure would expose the unit to danger or change the situation. Ordinary actions performed without pressure do not require checks.
+Most checks are rolled only when failure would expose the unit to danger or change the situation. **Resistance 0 checks are the exception:** use them when the action is safe and certain to work, but the sapper's skill may reveal additional information or resources. Ordinary actions whose outcome and yield are both obvious require no roll.
 
 ## Resistance
 
 Tasks and battlefield hazards have **Resistance**. Resistance is the number of successes required to overcome them.
 
-| Resistance | Opposition | Example |
-| --- | --- | --- |
-| 1 | Dangerous | A trained sapper has a fair chance; cross open ground between bursts or notice a poorly concealed mine |
-| 2 | Severe | Requires a strong, well-equipped sapper; defuse an unfamiliar mine or pass an alert patrol unseen |
-| 3 | Extreme | Usually requires a strong sapper, proper equipment, and cooperation; breach a reinforced position under fire |
-| 4+ | Operation | Cannot normally be overcome in one unsupported roll; requires preparation, several sappers, or progress across earlier runs |
+| Resistance | Opposition | Example                                                                                                                                                                                                                                        |
+| ---------- | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 0          | Minor      | Even an inexperienced sapper is unchallenged; analyze visible ground, identify obvious obstacles, or search a secured position for options                                                                                                  |
+| 1          | Dangerous  | A trained sapper has a fair chance; cross open ground between bursts or notice a poorly concealed mine                                                                                                                                         |
+| 2          | Severe     | Requires a strong, well-equipped sapper; defuse an unfamiliar mine or pass an alert patrol unseen                                                                                                                                              |
+| 3          | Extreme    | Usually requires a strong sapper, proper equipment, and cooperation; breach a reinforced position under fire                                                                                                                                   |
+| 4+         | Operation  | Cannot normally be overcome in one unsupported roll; requires preparation, several sappers, or progress across earlier runs                                                                                                                    |
 
 Because only sixes count, each increase in Resistance is substantial. Do not use Resistance 2 for routine professional work or Resistance 3 merely because something sounds difficult. Resistance 3 is a unit problem.
+
+### Resistance 0: Safe Analysis
+
+A Resistance 0 check automatically succeeds and never causes retaliation. Build and roll the normal dice pool. The sapper receives the basic result they attempted even if no 6s are rolled. Each success rolled provides one additional useful detail, option, or resource appropriate to the approach.
+
+Use Resistance 0 when the uncertainty is **how much the sapper learns or finds**, not whether they can act safely. A sapper studying visible ground might automatically identify the obvious wire and mine craters; successes could reveal a firing lane, a covered approach, recent footprints, or the tool most likely to open a route.
+
+Do not require a Resistance 0 check merely to make the players notice information needed to understand the scene. State essential facts freely. Do not use Resistance 0 while the sapper is exposed to immediate danger, racing a threat, reaching into a possible trap, or searching where discovery carries a consequence; those are Resistance 1 or higher. Resolve one Resistance 0 check for each distinct question or search area rather than allowing every sapper to repeat the same search for more successes.
 
 The referee tells the players the Resistance before they commit to an action whenever the danger would be apparent to their sappers. Hidden threats may conceal their Resistance until discovered.
 
 If the roll meets or exceeds the Resistance, the sapper accomplishes what they attempted. Extra successes do not normally create a greater effect unless a rule or piece of equipment says otherwise.
 
-If the roll fails, the enemy or battlefield immediately retaliates. The action does not succeed, and the referee introduces a consequence that follows from the danger: incoming fire, a mine detonation, an alerted patrol, lost equipment, collapsing cover, or another lethal development.
+If a Resistance 1 or higher roll fails, the enemy or battlefield immediately retaliates. The action does not succeed, and the referee introduces a consequence that follows from the danger: incoming fire, a mine detonation, an alerted patrol, lost equipment, collapsing cover, or another lethal development. Resistance 0 checks cannot fail and never retaliate.
 
 Retaliation may threaten the acting sapper, another exposed sapper, or the entire unit. The fiction determines who is in danger.
 

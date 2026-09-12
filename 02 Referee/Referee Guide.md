@@ -24,7 +24,54 @@ Describe immediate danger before distant detail. Tell the players what is about 
 - What nearby features can the sappers act upon?
 - What new information could they mark on the map?
 
-Call for checks only when failure can draw meaningful retaliation. Do not make the unit reroll a route it has already rendered safe unless something has changed.
+Use Resistance 1 or higher only when failure can draw meaningful retaliation. Use Resistance 0 when a safe action is certain to work but the sapper's skill can determine how much more they learn or recover. Do not make the unit reroll a route it has already rendered safe unless something has changed.
+
+### Offering Resistance 0 Checks
+
+Offer a Resistance 0 check when all three statements are true:
+
+1. The sapper can complete the basic action without meaningful danger.
+2. The scene contains useful information, options, or resources beyond the obvious result.
+3. The number of additional findings can reasonably depend on the sapper's dice pool.
+
+State everything the players need to understand the scene before the roll. Then name the skill, explain that the check cannot cause retaliation, and ask what the sapper is trying to learn or find. The check automatically provides the basic result. Each 6 rolled adds one concrete, actionable finding. A finding should point to a route, danger, tool, timing, shelter, salvage opportunity, or question worth pursuing rather than merely adding atmosphere.
+
+Use one check for each distinct question or search area. Do not let every sapper roll the same safe search in sequence. If several sappers look together, choose the approach that best defines the search and resolve it once. Equipment may contribute when it genuinely improves what can be observed or recovered.
+
+Examples:
+
+- **Visible obstacles:** From safe cover, a sapper identifies the wire, churned mine craters, and exposed ground automatically. Awareness successes reveal the machine gun's likely traverse, a depression below its sightline, or fresh disturbance around a possible lane.
+- **Reading shell damage:** A sapper analyzing a quiet crater field automatically finds the most stable nearby shelter. Engineering successes reveal connected subsidence, a buried structure, or ground likely to collapse under heavy movement.
+- **Searching secured ground:** After a trench section is cleared, a sapper automatically finds its obvious stores. Awareness, Engineering, or another suitable skill can reveal one additional useful supply, document, concealed compartment, or sign of where the defenders withdrew per success.
+- **Studying a known emplacement:** From outside its trigger and coverage, a sapper automatically identifies the visible obstacle. Successes reveal a tell, probable trigger, blind approach, service route, or tool that could create an opening.
+
+Do not use Resistance 0 when a concealed mine may detonate, a patrol may hear the search, an emplacement is watching the position, time is running out, or failure would consume scarce equipment. That uncertainty has teeth and requires Resistance 1 or higher. If there is no danger and no variable yield, simply describe what happens without rolling.
+
+### Revealing the Shared Map
+
+The referee knows more than the unit, but should help the players turn everything their sappers genuinely learn into a clear, useful map. The map is not a memory test and poor drawing is not a battlefield hazard. Preserve hidden positions and uncertain facts, but never hide information merely because a player did not phrase a question perfectly or draw a symbol precisely.
+
+Reveal a feature in three layers:
+
+1. **Spot it:** Draw or help the players place its visible location, footprint, and obvious effect on the ground.
+2. **Understand it:** Add confirmed coverage, timing, supporting forces, triggers, routes, or relationships as the unit investigates.
+3. **Exploit it:** Mark the cover, blind ground, required equipment, sabotage points, distractions, and other options the sappers discover.
+
+When information is gained, pause long enough to put it on the shared map. The referee may draw it directly or tell a player exactly what to add. Use simple marks that remain readable across runs:
+
+- Solid outlines for confirmed structures and obstacles
+- Arrows or shaded lanes for known fire, movement, wind, or observation
+- Dotted lines and question marks for suspected routes or uncertain positions
+- Short labels for triggers, timings, required tools, and safe cover
+- Crossed-out marks with a new note for changed terrain rather than erasing what the unit once knew
+
+For example, when the unit spots a machine-gun bunker, place the bunker on the map immediately and show any obvious scar it has cut across the battlefield. A Resistance 0 check from safe observation might then add its firing lane, supporting troops, nearby cover, and visible approaches—one useful annotation for each success. Later infiltration might reveal its ammunition trench, reload interval, rear entrance, or a place to set a charge. Each discovery should leave the unit with a more complete diagram and at least one clearer decision.
+
+Different approaches should reveal different truths. Awareness may establish coverage and patrol timing. Engineering may identify construction, power, or weak supports. Stealth may reveal dead ground and concealed approaches. A recovered document may add a route or designation without a roll. When two findings describe the same feature, connect them visibly instead of treating them as isolated clues.
+
+Be exact about what is confirmed, what is inferred, and what remains unknown. If the sappers misinterpret evidence, mark the conclusion as uncertain rather than silently converting it into false fact. When the battlefield changes, show the cause and revise the map openly. The enemy may adapt, but the referee should not invalidate correct annotations simply to restore surprise.
+
+The referee is a cooperative force for the unit even while controlling a hostile world. Help the players translate fictional observations into distances, firing lanes, routes, and actionable choices. Remind them of established map facts their sappers would recognize. Clarify the likely stakes of a plan before dice are rolled. The brutality should come from the battlefield's disclosed dangers and the consequences of chosen risks, not from the referee withholding usable information.
 
 When the players hesitate, first show the pressure: a ranging shell lands closer, a patrol's lamp turns, or a machine gun begins traversing. Ask for a decision. If they continue debating, retaliate.
 

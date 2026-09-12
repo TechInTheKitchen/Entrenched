@@ -26,7 +26,7 @@ Most stationary defenses follow three steps.
 
 ### 1. Read the Killing Ground
 
-Describe at least one Tell before the defense activates. The players may investigate it with Awareness, Stealth, Engineering, or another suitable approach. Success reveals the trigger, the shape of its coverage, or one opening. Failure provokes the emplacement's retaliation if the investigating sapper is exposed to it.
+Describe at least one Tell before the defense activates. From a position outside its trigger and coverage, the players may study visible evidence with a Resistance 0 Awareness, Engineering, or other suitable check: the basic result identifies the obstacle, and each success reveals its probable trigger, the shape of its coverage, or one opening. Investigation performed while exposed to the emplacement is Resistance 1 or higher. Failure then provokes its retaliation when the fiction allows it.
 
 A previously mapped trigger or firing lane remains known on later runs unless the enemy visibly changes it.
 

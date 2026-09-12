@@ -93,6 +93,8 @@ Reveal or invent discoveries as the sappers explore. Useful findings include:
 
 Every run should reveal something worth adding to the players' map, even when the unit gains little ground.
 
+When the unit studies visible ground from safety, use Resistance 0. The basic result identifies the obvious feature; each success adds a useful detail such as a firing angle, recent track, sheltered approach, recoverable supply, or clue connecting two discoveries. Searching exposed ground, probing a suspected mine, or watching while a patrol can detect the unit remains Resistance 1 or higher and may retaliate on failure.
+
 ## Enemy Forces
 
 Use ordinary enemy soldiers from [[Enemies and Monsters]]. Begin with enough defenders to make a frontal attack suicidal rather than impossible:

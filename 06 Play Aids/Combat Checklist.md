@@ -30,10 +30,11 @@ Keep this page beside the local combat map. Consult [[Skill Checks and Combat]] 
 2. Build the pool: skill + one relevant item + modifiers.
 3. For cooperation, add only each trained helper's skill ranks; leading and helping each consume an action.
 4. Roll d6s; every 6 is one success.
-5. Allow Borrowed Reflex before resolving failure.
-6. On success, complete the declared action.
-7. During combat, failure does not add immediate retaliation unless a specific rule says otherwise.
-8. Resolve Flesh, Dying or killing, a triggered scar-memory intrusion, equipment, Humanity, thresholds, then map changes.
+5. Resistance 0 automatically succeeds; give the basic result and one additional finding per success, with no retaliation.
+6. For Resistance 1+ failure, allow Borrowed Reflex before resolving it.
+7. On success, complete the declared action.
+8. During combat, failure does not add immediate retaliation unless a specific rule says otherwise.
+9. Resolve Flesh, Dying or killing, a triggered scar-memory intrusion, equipment, Humanity, thresholds, then map changes.
 
 ## Lethal Hits
 

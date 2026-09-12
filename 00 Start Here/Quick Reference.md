@@ -14,12 +14,15 @@
 2. An untrained sapper starts with 1 die before equipment.
 3. Count every 6 as one success.
 4. Meet or exceed Resistance to succeed.
-5. Failure does not complete the action and triggers retaliation.
+5. Failure at Resistance 1 or higher does not complete the action and triggers retaliation.
+
+Resistance 0 checks automatically succeed and never retaliate. Give the basic result, then add one useful detail, option, or resource for each success rolled.
 
 During combat, failure does not create an extra immediate retaliation unless a specific action, item, hazard, or operation says it does. The enemy turn is the retaliation.
 
 | Resistance | Meaning |
 | ---: | --- |
+| 0 | Minor and safe; automatically succeeds, with extra yield per rolled success |
 | 1 | Dangerous; suited to a trained sapper |
 | 2 | Severe; requires a strong, well-equipped sapper |
 | 3 | Extreme; normally requires equipment and cooperation |

@@ -24,8 +24,10 @@ A movement action crosses `2 + Mobility` squares, maximum 12. Dangerous ground m
 ## Calling for Checks
 
 - State the Resistance and visible danger before commitment.
-- Roll only when failure can change the situation.
-- On failure, create one immediate retaliation rather than a dead end.
+- Use Resistance 0 for safe analysis or searching when successes can reveal additional information, options, or resources.
+- Give the basic Resistance 0 result automatically, then add one useful finding per success rolled. It never causes retaliation.
+- Use Resistance 1 or higher only when failure can change the situation.
+- On a Resistance 1+ failure, create one immediate retaliation rather than a dead end.
 - On success, honor the route, shelter, information, or position gained.
 
 ## Returning Across Known Ground

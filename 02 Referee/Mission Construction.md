@@ -155,7 +155,7 @@ A run should take about thirty minutes of real time. Keep attention on immediate
 - Who risks a check?
 - Does the unit press forward, revive the dead, or retreat?
 
-Call for checks only when failure can provoke meaningful retaliation. Once the players understand a safe route, let them cross familiar ground quickly until something has changed.
+Use Resistance 1 or higher only when failure can provoke meaningful retaliation. Offer Resistance 0 when a sapper safely studies visible ground, searches a secured position, or analyzes known evidence and the roll determines how many additional options or resources they uncover. Once the players understand a safe route, let them cross familiar ground quickly until something has changed.
 
 If discussion stalls, signal an approaching patrol, descending shell, engine noise, or other immediate danger. Ask for a decision. If the unit still hesitates, retaliate as described in [[Skill Checks and Combat]].
 
