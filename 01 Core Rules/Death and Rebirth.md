@@ -101,7 +101,7 @@ The sapper has forgotten their life before the battlefield. They remain under th
 
 Every Battleborn has three Burn boxes: `○ ○ ○`.
 
-Whenever a Battleborn dies, mark one Burn box. The enemy has learned to answer these bodies with phosphorus, flame, and cremation charges; even an Allied recovery leaves more of the body irretrievably charred. The Battleborn may revive normally after the first and second boxes are marked. When the third box is marked, the remains are reduced beyond reconstruction and the sapper dies permanently.
+Whenever a Battleborn dies, mark one Burn box. The enemy has learned to answer these bodies with phosphorus, flame, and cremation charges; even an Allied recovery leaves more of the body irretrievably charred. The Battleborn may revive normally after the first and second boxes are marked. When the third box is marked, the remains are hunted by enemy agents with the goal to incinerate them beyond reconstruction. A Battleborn left unable to reform on the battlefield will be lost in time either do to enemy action, or other agents.
 
 The death whose revival reduces a sapper to 0 Humanity does not mark a Burn box. The sapper died before they became Battleborn. Burn begins with deaths suffered after they awaken at 0 Humanity.
 
