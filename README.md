@@ -57,9 +57,9 @@ The operation ends when the objective is completed or the entire unit is permane
 | `04 Setting`    | The war, the Allied trench, reconstruction, faith, and the enemy         |
 | `05 Bestiary`   | Soldiers, formations, battlefield creatures, and reconstructed horrors   |
 | `06 Play Aids`  | Checklists, example sappers, and the printable character sheet           |
-| Assets          | Public styles, scripts, libraries, and web-ready images                  |
+| `assets`        | Site configuration, editable palette, viewer code, and web-ready images |
 
-`Entrenched.md` is the main table of contents. `content-manifest.json` supplies the web reader's navigation.
+`Entrenched.md` is the opening document. `assets/content-manifest.json` supplies the web reader's navigation.
 
 ## Content and Safety
 
@@ -93,6 +93,17 @@ Please submit feedback through the repository's [Issues](https://github.com/Tech
 
 The source rules are ordinary Markdown files and can be edited in Obsidian or any text editor. 
 The public reader is hosted with GitHub Pages from the repository root.
+
+The web reader now uses the reusable Obsidian GitHub Web Hosting structure:
+
+- Edit `assets/site-config.json` to change the title, subtitle, home document, icon, sidebar note, exclusions, or attribution lines.
+- Edit `assets/css/palette.css` to change dark- and light-theme colors or the background image treatment.
+- Leave `assets/css/viewer.css` and `assets/js/app.js` unchanged for ordinary content and theme updates.
+- Run `tools/Update Content Index.cmd` after adding, deleting, moving, renaming, or retitling Markdown and PDF files.
+- Run `tools/Open Local Site.cmd` to test the reader locally. Opening `index.html` directly will not load Markdown because of browser file-access restrictions.
+- Run `tools/Push to GitHub.cmd` to refresh the index, request a commit note, and publish the repository.
+
+The `tools` directory remains excluded from Git because these launchers are local maintenance aids.
 
 ## License
 

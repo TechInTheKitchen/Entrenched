@@ -1,0 +1,24 @@
+{
+  "siteTitle": "Entrenched",
+  "siteSubtitle": "187th Sapper Regiment",
+  "homeDocument": "Entrenched.md",
+  "loadingText": "Opening field manual…",
+  "sidebarNote": "The battlefield changes. The record remembers.",
+  "icon": "assets/images/entrenched-icon.svg",
+  "themeStorageKey": "entrenched-theme",
+  "excludedFiles": ["README.md", "LICENSE.md"],
+  "excludedFolders": [".git", ".github", ".obsidian", "assets", "source", "tools"],
+  "attributions": [
+    {
+      "label": "Battle of the Somme trench map, The National Archives — Open Government Licence v3.0",
+      "url": "https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/battle-of-the-somme-trench-map/"
+    },
+    {
+      "text": "Contains public sector information licensed under the ",
+      "label": "Open Government Licence v3.0",
+      "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "suffix": ".",
+      "rel": "license noopener"
+    }
+  ]
+}

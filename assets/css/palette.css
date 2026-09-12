@@ -1,0 +1,58 @@
+/*
+  ENTRENCHED COLOR PALETTE
+  Edit the values here to re-theme the reader. Layout and typography remain in
+  viewer.css, so ordinary color changes do not require editing the site code.
+*/
+:root {
+  color-scheme: dark;
+  --bg: #171816;
+  --surface: #20211f;
+  --surface-2: #282a27;
+  --ink: #e7e3d8;
+  --muted: #aaa69c;
+  --faint: #716e67;
+  --line: #3d3f3a;
+  --accent: #b59662;
+  --accent-soft: #352f25;
+  --danger: #b66d62;
+  --success: #7f9b75;
+  --important: #8d83ad;
+  --warning: #bd8b52;
+  --shadow-color: rgba(0, 0, 0, .30);
+  --reader-shadow: rgba(0, 0, 0, .20);
+  --scrim-color: rgba(0, 0, 0, .55);
+  --reader-panel: rgba(23, 24, 22, .94);
+  --reader-edge: rgba(181, 150, 98, .16);
+  --page-background-image: url("../images/reader-background.webp");
+  --page-background-wash: rgba(14, 15, 13, .78);
+  --pdf-background: #ffffff;
+  --print-background: #ffffff;
+  --print-ink: #000000;
+}
+
+:root[data-theme="light"] {
+  color-scheme: light;
+  --bg: #e6e1d4;
+  --surface: #f6f2e8;
+  --surface-2: #ece6d8;
+  --ink: #252620;
+  --muted: #66655e;
+  --faint: #8b887e;
+  --line: #c9c2b3;
+  --accent: #755a31;
+  --accent-soft: #e7dcc5;
+  --danger: #85483f;
+  --success: #58734f;
+  --important: #675d8e;
+  --warning: #93642e;
+  --shadow-color: rgba(43, 38, 28, .16);
+  --reader-shadow: rgba(43, 38, 28, .12);
+  --scrim-color: rgba(20, 18, 14, .40);
+  --reader-panel: rgba(246, 242, 232, .95);
+  --reader-edge: rgba(117, 90, 49, .18);
+  --page-background-image: url("../images/reader-background.webp");
+  --page-background-wash: rgba(230, 225, 212, .84);
+  --pdf-background: #ffffff;
+  --print-background: #ffffff;
+  --print-ink: #000000;
+}

@@ -3,20 +3,21 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Entrenched - a brutal body-horror tabletop roleplaying game.">
+  <meta name="description" content="Entrenched — a brutal body-horror tabletop roleplaying game.">
   <meta name="theme-color" content="#171816">
   <title>Entrenched</title>
-  <link rel="icon" href="assets/images/entrenched-icon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" id="site-icon" href="assets/images/entrenched-icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/palette.css">
+  <link rel="stylesheet" href="assets/css/viewer.css">
   <script src="assets/js/marked.js" defer></script>
   <script src="assets/js/app.js" defer></script>
 </head>
 <body>
   <header class="site-header">
     <button class="icon-button nav-toggle" id="nav-toggle" type="button" aria-label="Open table of contents" aria-controls="site-nav" aria-expanded="false">☰</button>
-    <a class="brand" href="./" data-page="Entrenched.md">
-      <img class="brand-mark" src="assets/images/entrenched-icon.svg" alt="" width="32" height="32">
-      <span><strong>Entrenched</strong><small>187th Sappers Regiment</small></span>
+    <a class="brand" href="./" data-home-link>
+      <img class="brand-mark" id="brand-mark" src="assets/images/entrenched-icon.svg" alt="" width="32" height="32">
+      <span><strong id="site-title">Entrenched</strong><small id="site-subtitle">187th Sapper Regiment</small></span>
     </a>
     <div class="header-actions">
       <button class="text-button" id="expand-all" type="button">Collapse all</button>
@@ -29,10 +30,10 @@
       <div class="loading" id="loading" role="status">Opening field manual…</div>
       <article class="markdown-body" id="content" hidden></article>
       <section class="error-panel" id="error" hidden>
-        <p class="eyebrow">DOCUMENT UNRECOVERABLE</p>
-        <h1>The requested record could not be opened.</h1>
-        <p id="error-detail">Return to the main field manual and try again.</p>
-        <a class="return-link" href="./" data-page="Entrenched.md">Return to Entrenched</a>
+        <p class="eyebrow" id="error-label">DOCUMENT UNRECOVERABLE</p>
+        <h1 id="error-title">The requested record could not be opened.</h1>
+        <p id="error-detail">Return to the field manual and try again.</p>
+        <a class="return-link" href="./" data-home-link>Return to Entrenched</a>
       </section>
     </main>
 
@@ -44,10 +45,8 @@
       <label class="search-label" for="nav-search">Find a document</label>
       <input class="nav-search" id="nav-search" type="search" placeholder="Search titles…" autocomplete="off">
       <nav class="tree" id="tree"></nav>
-      <p class="sidebar-note">The battlefield changes. The record remembers.</p>
-      <p class="source-credit">
-        Background adapted from <a href="https://www.nationalarchives.gov.uk/education/resources/medicine-on-the-western-front-part-two/battle-of-the-somme-trench-map/" target="_blank" rel="noopener">Battle of the Somme trench map</a> (WO 95/2019), The National Archives. Contains public sector information licensed under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" target="_blank" rel="license noopener">Open Government Licence v3.0</a>.
-      </p>
+      <p class="sidebar-note" id="sidebar-note"></p>
+      <div class="source-credits" id="source-credits" hidden></div>
     </aside>
   </div>
   <div class="scrim" id="scrim" hidden></div>
