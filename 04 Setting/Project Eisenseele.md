@@ -21,8 +21,8 @@ Black Matter resembles wet soot suspended in clear oil. It gathers into branchin
 
 It cannot be reliably manufactured. It is harvested from old reconstruction sites, deep corpse pits, failed living weapons, and seams beneath no-man's-land. The more it is used in one location, the more frequently that location produces spontaneous movement in dead material.
 
-Do not define Black Matter as magic, organism, mineral, or machine. Evidence should support all four interpretations.
-
+>[!note] **Black Matter being harvested from [[No-Man's-Land]]**
+> ![[Black Matter Collection.webp]]
 ## The Other Side
 
 Revived sappers report an interval between death and return. Most remember only darkness, pressure, and distant artillery. Repeatedly revived sappers describe an endless trench network beneath a lightless sky.
@@ -40,7 +40,8 @@ Chaplains call this place the Final Trench. Engineers call it residual cognition
 
 ## Three Explanations
 
-The referee may favor one explanation without confirming it.
+> [!NOTE] Keep the Answer Unstable
+> The referee may favor one explanation without confirming it. Evidence should support several readings even when one is privately treated as true.
 
 ### Resonance Theory
 

@@ -48,6 +48,14 @@ If a Resistance 1 or higher roll fails, the enemy or battlefield immediately ret
 
 Retaliation may threaten the acting sapper, another exposed sapper, or the entire unit. The fiction determines who is in danger.
 
+### Bought Knowledge
+
+Every failed Resistance 1 or higher check outside combat leaves the unit one useful truth about the battlefield. Resolve the retaliation first, then reveal something the failure exposed: a danger's position, trigger, coverage, timing, supporting force, vulnerable part, safer route, needed tool, or another possible approach. Mark it on the shared map.
+
+Bought Knowledge does not make the attempted action succeed and never cancels its retaliation. It reveals the next decision rather than the complete solution. A mine may detonate and expose the edge of its field; a machine gun may fire and reveal its lane; a failed breach may show hollow earth beneath the bunker without opening it.
+
+After resolving the consequence, the referee may ask the acting player, **“What did your sapper understand a moment too late?”** The player proposes an observation and the referee turns it into one concrete fact consistent with the prepared battlefield. The referee may supply the fact directly when the answer is already established or when a player would prefer not to invent it.
+
 During combat, a failed attack or check does not create an extra immediate retaliation unless the action, item, hazard, or operation explicitly says it does. The action still fails, and the enemy acts on its normal turn. This prevents one failed action from giving the enemy both an interruption and its full turn.
 
 ## Working Together
@@ -89,7 +97,8 @@ Rules use two distinct terms:
 - A **lethal hit** marks an empty Flesh box; when none remains, it leaves the sapper Dying.
 - An effect that says a sapper is **killed** bypasses Flesh boxes. It represents complete destruction, crushing, drowning, direct shell impact, or another consequence reconstructed toughness cannot soften.
 
-The referee should make an obvious killing danger clear before it is resolved. Do not replace ordinary attacks with automatic killing effects.
+> [!IMPORTANT] Telegraph Certain Death
+> The referee should make an obvious killing danger clear before it is resolved. Do not replace ordinary attacks with automatic killing effects.
 
 ## Conditions
 
@@ -112,9 +121,9 @@ When several effects follow one roll, resolve them in this order:
 4. Resolve one triggered scar-memory intrusion when applicable.
 5. Damage, destroy, or separate equipment when the consequence calls for it.
 6. Apply Humanity loss and immediately resolve any threshold crossed.
-7. Update positions, bodies, hazards, and discoveries on the map.
+7. Update positions, bodies, hazards, and discoveries on the map, including Bought Knowledge after a failed non-combat check.
 
-One failed check normally creates one primary retaliation. A scar, item, or named hazard may add its stated consequence, but failure is not permission to pile on unrelated punishments. A successful check accomplishes its declared purpose before any stated cost is applied.
+One failed check outside combat normally creates one primary retaliation and one instance of Bought Knowledge. A scar, item, or named hazard may add its stated consequence, but failure is not permission to pile on unrelated punishments. During combat, the enemy turn is the retaliation and Bought Knowledge is granted only when a specific rule says so. A successful check accomplishes its declared purpose before any stated cost is applied.
 
 ## Combat
 

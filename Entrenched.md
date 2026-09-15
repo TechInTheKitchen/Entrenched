@@ -71,10 +71,12 @@ Death makes a sapper more capable. It also consumes Humanity. Battleborn bodies 
 - [[The Butchers]] — The surgeons who return the dead to duty
 - [[Faith of the Final Trench]] — State religion, rites, and heresies
 - [[No-Man's-Land]] — The accumulated geography of war and unlife
+- [[The Shifting Front]] — Buried towns, changing ground, and what bombardment uncovers
 - [[The Enemy]] — Propaganda, enemy reconstruction, and the mirror across the wire
 
 ## The Referee's Central Principle
 
-Every death should make a sapper more useful, more visibly inhuman, and meaningfully closer to permanent destruction.
-
-The setting should answer practical questions while leaving its cosmology unstable. The sappers can learn how revival works without ever proving what returns.
+> [!IMPORTANT] Design Test
+> Every death should make a sapper more useful, more visibly inhuman, and meaningfully closer to permanent destruction.
+>
+> The setting should answer practical questions while leaving its cosmology unstable. The sappers can learn how revival works without ever proving what returns.

@@ -1,6 +1,7 @@
 # Referee Guide
 
-The referee presents the battlefield honestly, keeps it moving, and makes every death teach the unit something. They are not trying to defeat the players. They give no-man's-land enough teeth that survival must be earned and enough consistency that knowledge can become a weapon.
+> [!IMPORTANT] Run the Battlefield, Not Against the Players
+> Present the battlefield honestly, keep it moving, and make every death teach the unit something. The referee is not trying to defeat the players. Give no-man's-land enough teeth that survival must be earned and enough consistency that knowledge can become a weapon.
 
 Use [[Referee Lore Guide]] to reveal setting background through objects, repeated motifs, and consequences rather than exposition. The larger setting is indexed in [[Entrenched]].
 
@@ -71,7 +72,27 @@ Different approaches should reveal different truths. Awareness may establish cov
 
 Be exact about what is confirmed, what is inferred, and what remains unknown. If the sappers misinterpret evidence, mark the conclusion as uncertain rather than silently converting it into false fact. When the battlefield changes, show the cause and revise the map openly. The enemy may adapt, but the referee should not invalidate correct annotations simply to restore surprise.
 
-The referee is a cooperative force for the unit even while controlling a hostile world. Help the players translate fictional observations into distances, firing lanes, routes, and actionable choices. Remind them of established map facts their sappers would recognize. Clarify the likely stakes of a plan before dice are rolled. The brutality should come from the battlefield's disclosed dangers and the consequences of chosen risks, not from the referee withholding usable information.
+> [!IMPORTANT] Cooperate Through the Map
+> The referee is a cooperative force for the unit even while controlling a hostile world. Help the players translate fictional observations into distances, firing lanes, routes, and actionable choices. Remind them of established map facts their sappers would recognize. Clarify the likely stakes of a plan before dice are rolled. The brutality should come from the battlefield's disclosed dangers and the consequences of chosen risks, not from the referee withholding usable information.
+
+### Turning Failure into Bought Knowledge
+
+After a failed Resistance 1 or higher check outside combat, resolve one primary retaliation and then reveal one useful truth caused by that failure. This is **Bought Knowledge**. Put the truth on the shared map before play moves on.
+
+Choose a truth that answers one immediate question:
+
+- **Where is it?** Reveal a position, boundary, firing lane, route, or source.
+- **What wakes it?** Reveal a trigger, tell, detection method, or timing.
+- **What supports it?** Reveal nearby troops, ammunition, communication, power, or reinforcement.
+- **What changes it?** Reveal useful cover, a vulnerable component, required tool, distraction, or alternate approach.
+
+Tie the truth to the consequence. Gunfire reveals its direction. A mine blast shows the field's edge. Collapsing earth exposes buried masonry. Lost equipment catches on previously unseen wire. A patrol responding to noise reveals its route. The fiction should make it clear how the sappers learned what they now know.
+
+Ask **“What did your sapper understand a moment too late?”** when the player would enjoy contributing. Accept an answer that fits the established ground, or reshape it into a narrower fact. Do not make the player responsible for inventing their own reward, and do not permit an answer that erases the obstacle, contradicts established facts, or avoids the retaliation already incurred.
+
+Bought Knowledge should expose the next decision, not supply the whole plan. “The gun fires along this lane” is useful. “The gun can be defeated by cutting this exact cable, which is unguarded” is probably several discoveries compressed into one. When no new fact follows naturally, deepen or confirm an uncertain annotation instead: fix a suspected position, establish a timing, or rule out one approach.
+
+Combat failures do not automatically grant Bought Knowledge. Combat already supplies information through visible enemy actions, changing positions, wounds, and the enemy turn. Grant it during combat only when an attack, hazard, emplacement, or operation explicitly says the failed action reveals something.
 
 When the players hesitate, first show the pressure: a ranging shell lands closer, a patrol's lamp turns, or a machine gun begins traversing. Ask for a decision. If they continue debating, retaliate.
 
@@ -91,7 +112,8 @@ Objectives should demand a cohesive unit. A sapper left behind may be stripped f
 
 Leaving a sapper behind is a last resort, not a routine between-run cleanup. If recovery remains possible, mark the body, captive, or enemy route and give the unit a dangerous opportunity to reclaim them during the current or next run. Make recovery compete with time, equipment, or the primary objective. Do not declare permanent death while a concrete rescue remains in reach.
 
-When a sapper dies, keep that player involved in decisions about recovery, the map, and the remaining unit. If anyone survives, field revival can return the dead after the required full round. If everyone dies, move quickly to body recovery and reconstruction in the trench.
+> [!IMPORTANT] Keep the Dead Player Involved
+> When a sapper dies, keep that player involved in decisions about recovery, the map, and the remaining unit. If anyone survives, field revival can return the dead after the required full round. If everyone dies, move quickly to body recovery and reconstruction in the trench.
 
 Skill gained through revival represents a body learning under genuine battlefield pressure. If the unit plainly arranges a safe death only to harvest replacement ranks, apply the revival, Humanity loss, repair, and scar but grant no universal or replacement ranks. Do not use this rule against desperate sacrifices or risky plans; it exists to prevent the war from becoming a training exercise conducted on cooperative corpses.
 
@@ -160,7 +182,7 @@ Afterward:
 
 - Telegraph dangers that explicitly kill before resolving them.
 - Let a successful check accomplish its declared purpose; do not cancel it with an equivalent consequence.
-- One failed check outside combat normally creates one primary retaliation. During combat, the enemy turn is the retaliation. Add another consequence only when an item, creature, hazard, or operation explicitly requires it.
+- One failed check outside combat normally creates one primary retaliation and one Bought Knowledge truth. During combat, the enemy turn is the retaliation. Add another consequence only when an item, creature, hazard, or operation explicitly requires it.
 - When several targets make equal sense, threaten the most exposed rather than automatically selecting the weakest sapper.
 - Let learned routes, destroyed positions, and good preparation make later runs meaningfully safer.
 - Make death reveal information, alter the map, consume a resource, or sharpen the horror. A death that changes nothing is wasted violence.
@@ -172,7 +194,7 @@ Use [[Combat Checklist]], [[Movement and Exploration Checklist]], and [[Run Cycl
 - **Be lethal, not arbitrary.** Foreshadow danger and honor preparation.
 - **Roll openly.** Let the dice indict the war.
 - **Keep the map true.** Change it only when the fiction changes it.
-- **Make failure immediate.** Retaliation creates motion.
+- **Make failure immediate.** Retaliation creates motion; Bought Knowledge creates the next decision.
 - **Let knowledge matter.** A discovered route is progress even when everyone dies.
 - **Keep safety brief.** The trench offers recovery, not relief.
 - **Show the cost.** Every new ability should leave something human behind.

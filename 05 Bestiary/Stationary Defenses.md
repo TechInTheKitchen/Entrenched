@@ -30,6 +30,8 @@ Describe at least one Tell before the defense activates. From a position outside
 
 A previously mapped trigger or firing lane remains known on later runs unless the enemy visibly changes it.
 
+When a dangerous investigation fails, the emplacement retaliates and Bought Knowledge reveals one thing its response exposed. Its shot might establish a firing lane, a moving shutter might reveal the reload interval, or responding troops might expose an access trench. Reveal one next step, not every Opening at once.
+
 ### 2. Create an Opening
 
 The unit must make the defense unable to cover everything at once. Common methods include:
@@ -114,6 +116,9 @@ A steel dome watches several approaches and directs artillery it does not fire i
 ### Retractable Trench Cannon
 
 A heavy gun rises from a protected pit, fires once, and sinks below an armored cover to reload.
+
+>[!note] **An enemy trench cannon as seen from the front**
+>![[Hidden Trench Cannon Emplacement.webp]]
 
 - **Tell:** Parallel rails, hydraulic fluid, a semicircle of blast-cleared mud, shell racks, or a crew trench leading to an apparently empty pit.
 - **Coverage:** One broad Far firing arc shown on the referee's map.

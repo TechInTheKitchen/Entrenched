@@ -54,6 +54,8 @@ The first four claims contain useful pieces of truth. No living officer can prov
 - Nobody commanding the present war remembers a world before it.
 - The front persists partly because reconstruction makes casualties sustainable and partly because institutions built for war cannot imagine surviving peace.
 
-Do not explain these truths in a lecture. Reveal them through an enemy identification disc stamped **ALLIED**, a captured prayer identical to one spoken in the players' trench, or a map on which the unit's homeland is labeled occupied territory.
+> [!TIP] Reveal, Do Not Lecture
+> Reveal these truths through an enemy identification disc stamped **ALLIED**, a captured prayer identical to one spoken in the players' trench, or a map on which the unit's homeland is labeled occupied territory.
+
 > [!NOTE] Related Records
-> [[The Allied Trench]] · [[No-Man's-Land]] · [[The Enemy]]
+> [[The Allied Trench]] · [[No-Man's-Land]] · [[The Shifting Front]] · [[The Enemy]]

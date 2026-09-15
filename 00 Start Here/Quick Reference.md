@@ -18,6 +18,8 @@
 
 Resistance 0 checks automatically succeed and never retaliate. Give the basic result, then add one useful detail, option, or resource for each success rolled.
 
+**Bought Knowledge:** After a failed Resistance 1+ check outside combat, resolve one retaliation and reveal one useful truth exposed by the failure. Mark it on the map. The action still fails, and the truth points toward another decision rather than solving the obstacle.
+
 During combat, failure does not create an extra immediate retaliation unless a specific action, item, hazard, or operation says it does. The enemy turn is the retaliation.
 
 | Resistance | Meaning |

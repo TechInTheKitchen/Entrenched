@@ -2,7 +2,7 @@
 
 Allied doctrine refers to opposing soldiers only as **the enemy**. National names are absent from briefings. Captured maps are translated before sappers see them. Prisoners are numbered, masked, and removed quickly.
 
-This is presented as operational security. Its true purpose is to prevent recognition.
+This is presented as operational security.
 
 ## What Sappers See
 

@@ -32,11 +32,13 @@ Any player may say **Pause** or make an agreed hand signal. Stop the description
 
 Anyone may step away and return when ready. The game does not require a character explanation for a player's absence.
 
-The referee can keep every mechanical consequence while veiling imagery. A reconstruction may still cost Humanity, alter the body record, and damage identity without describing a particular procedure.
+> [!TIP] Veil the Image, Keep the Consequence
+> The referee can keep every mechanical consequence while veiling imagery. A reconstruction may still cost Humanity, alter the body record, and damage identity without describing a particular procedure.
 
 ## Character Control
 
-Borrowed memories, donor impulses, and scar-memory intrusions create pressure but do not give the referee unlimited control of a player character. State the trigger and ask the player how the brief reaction appears. The player decides how their sapper yields or resists; an intrusion never dictates a lethal action, consumes an entire turn, or decides the character's loyalties.
+> [!IMPORTANT] The Player Retains Control
+> Borrowed memories, donor impulses, and scar-memory intrusions create pressure but do not give the referee unlimited control of a player character. State the trigger and ask the player how the brief reaction appears. The player decides how their sapper yields or resists; an intrusion never dictates a lethal action, consumes an entire turn, or decides the character's loyalties.
 
 Identity fields are physically obscured because Humanity is being lost. A player may choose how to mark the sheet and may use removable overlays, sticky notes, or a photocopy if permanent alteration of the original sheet would be uncomfortable.
 

@@ -10,6 +10,8 @@ An established trench has grown downward over decades.
 
 The surface contains firing steps, observation slits, machine-gun nests, duckboards, ammunition lockers, and shallow shelters. Everything is wet, exposed, and repaired with whatever was available. Sandbags may contain earth, ash, hair, or rendered remains.
 
+>[!note] **Sappers are seen planning an attack on an enemy bunker in the distance**
+>![[Sappers planning attack on machinegun bunker in the distance.webp]]
 ### Living Level
 
 Below the firing line are bunks, kitchens, chapels, stores, signal offices, and command rooms. Privacy is created with blankets and rank. Lamps burn animal fat mixed with industrial oil. The trench smells of wet wool, disinfectant, cooked grain, cordite, and a sweeter odor coming from below.
@@ -40,7 +42,7 @@ Use recurring figures sparingly. Familiar faces make later alteration matter.
 
 - **The Map Clerk:** Copies player markings onto command maps and quietly preserves annotations that officers order erased.
 - **The Quartermaster:** Knows which equipment returned without its bearer and which living weapons dislike particular sappers.
-- **The Corpse-Hound Keeper:** Recognizes people by regimental scent after their faces cease to match.
+- **The Corpse-Hound Keeper:** Recognizes people by regimental scent after their faces cease to match. See [[Corpse Hounds and Handlers]].
 - **The Chaplain:** Records original names in gold ink and battlefield names in black.
 - **The Butcher's Assistant:** Is young enough to have been born after revival became ordinary.
 - **The Replacement Officer:** Arrives with the same orders and voice as the previous officer but different hands.

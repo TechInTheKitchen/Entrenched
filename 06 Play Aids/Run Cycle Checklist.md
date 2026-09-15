@@ -16,7 +16,7 @@ Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the 
 2. **Outfitting:** Assign each item to one bearer.
 3. **Deployment:** Begin at the Allied trench and cross known safe ground quickly.
 4. **Discovery:** Reveal essential facts freely; use Resistance 0 when a safe check measures additional findings.
-5. **Retaliation:** Make Resistance 1+ failure immediate, dangerous, and consequential. Resistance 0 never retaliates.
+5. **Retaliation:** Make Resistance 1+ failure immediate, dangerous, and consequential, then mark one Bought Knowledge truth. Resistance 0 never retaliates.
 6. **Recovery:** Field-revive fallen sappers or decide what bodies must be abandoned.
 7. **Retreat or Objective:** Return to the trench or complete the operation.
 

@@ -4,11 +4,14 @@ No-man's-land is not empty ground between two armies. It is thirty-seven years o
 
 Villages, forests, farms, roads, cemeteries, and earlier trenches lie beneath its surface. Shelling repeatedly buries and exposes them. A crater may cut through a kitchen, a medieval grave, three uniforms from different decades, and a living cable grown around all of them.
 
+The battlefield's larger movements and the places it excavates are detailed in [[The Shifting Front]].
+
 ## The Ground
 
 The upper soil is ash, powdered masonry, rust, bone, chemical residue, and human fat. Rain turns it adhesive. Heat seals it into black plates. In cold weather, fingers and faces emerge from frozen walls as though the earth is trying to remember its contents.
 
-Nothing remains dead reliably. This does not mean every corpse rises. It means the referee may never treat a pile of remains as inert scenery.
+> [!TIP] Nothing Is Merely Scenery
+> Nothing remains dead reliably. This does not mean every corpse rises. It means the referee should never treat a pile of remains as inert scenery.
 
 ## Regions
 
@@ -24,10 +27,17 @@ Drainage has failed. Bodies descend slowly and return in pieces after rain. Move
 
 Buildings survive as cellars, walls, pipes, and domestic objects stripped of context. A teacup or child's shoe can make the battlefield more horrifying than another mound of bodies because it proves ordinary life occupied the same ground.
 
+>[!info] **Unrecognizable ruins beyond trench 19**
+>![[Ruins - No mans land.webp]]
+
+Burnt foundations also leave [[The Shifting Front#The Hollows Beneath the Ruins|hollows]] beneath the soil: connected cellars, drains, sewers, and gaps between collapsed floors. These routes can carry a unit beneath wire and observed ground, but also collect gas, floodwater, buried mines, unremoved bodies, and things that learned to live beyond the reach of shellfire.
+
 ### Flesh Wastes
 
 Repeated reconstruction, mass death, and Black Matter have made the earth assemble whatever it contains. Hair grows across puddles. Teeth form in wooden beams. Telephone wire develops a pulse. Monsters arise here as battlefield processes rather than species.
 
+>[!note] **Black Matter being harvested from a hastely errected shelter in No-Man's-Land**
+>![[Black Matter Collection.webp]]
 ### Quiet Ground
 
 Some areas receive no artillery and contain no patrols. Animals avoid them. Compasses turn toward their centers. The silence is more dangerous than shelling because both armies have independently decided tread lightly.
@@ -70,4 +80,4 @@ Avoid constant escalation. Alternate explicit bodily horror with absences, domes
 9. Red thread tied around bones too old to belong to the 187th
 10. A route marker that turns to face the unit after they pass
 > [!NOTE] Related Records
-> [[Retaliation Tables]] · [[Enemies and Monsters]] · [[Stationary Defenses]]
+> [[The Shifting Front]] · [[Retaliation Tables]] · [[Enemies and Monsters]] · [[Stationary Defenses]]

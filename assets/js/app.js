@@ -8,6 +8,7 @@
   const pageFromUrl = () => normalize(new URL(location.href).searchParams.get("page") || state.config.homeDocument);
   const hrefFor = path => `?page=${encodeURIComponent(path)}`;
   const encodedPath = path => normalize(path).split("/").map(encodeURIComponent).join("/");
+  const mediaPattern = /\.(?:avif|gif|jpe?g|png|svg|webp)$/i;
   const escapeHtml = value => String(value).replace(/[&<>'"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c]));
   const slugify = value => value.toLowerCase().trim().replace(/<[^>]+>/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
@@ -20,7 +21,12 @@
 
   function prepareMarkdown(markdown) {
     const callouts = markdown.replace(/^(\s*>\s*)\[!([a-z][a-z0-9_-]*)\][+-]?\s*(.*)$/gim, (_, quote, type, title) => `${quote}[!${type.toUpperCase()}] ${title.trim()}\n${quote.trimEnd()}`);
-    return callouts.replace(/!?\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g, (_, target, heading, label) => {
+    const embeds = callouts.replace(/!\[\[([^\]|#]+)(?:\|([^\]]+))?\]\]/g, (_, target, label) => {
+      const source=target.trim();
+      if(!mediaPattern.test(source))return label?.trim()||source;
+      return `![${label?.trim()||source.split("/").pop()}](<${source}>)`;
+    });
+    return embeds.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g, (_, target, heading, label) => {
       const title = target.trim(); const found = findPage(title);
       if (!found) return label?.trim() || title;
       return `[${label?.trim() || title.replace(/\.(?:md|pdf)$/i, "")}](${hrefFor(found.path)}${heading ? `#${slugify(heading)}` : ""})`;
@@ -36,8 +42,41 @@
       const external=/^https?:/i.test(safe); const page=safe.startsWith("?page=") ? ` data-page="${escapeHtml(decodeURIComponent(safe.slice(6).split("#")[0]))}"` : "";
       return `<a href="${escapeHtml(safe)}"${page}${title?` title="${escapeHtml(title)}"`:""}${external?' target="_blank" rel="noopener noreferrer"':""}>${body}</a>`;
     };
+    renderer.image = ({href,title,text}) => `<img src="${escapeHtml(href||"")}" data-media-source="${escapeHtml(href||"")}" alt="${escapeHtml(text||"")}"${title?` title="${escapeHtml(title)}"`:""} loading="lazy" decoding="async">`;
     renderer.html = ({text}) => escapeHtml(text);
     return marked.parse(prepareMarkdown(markdown), {gfm:true,breaks:false,renderer});
+  }
+
+  function mediaCandidates(source) {
+    const clean=normalize(source).replace(/^\//,"");
+    if(/^(?:https?:|data:|blob:)/i.test(source))return [source];
+    const name=clean.split("/").pop();
+    const folder=state.current.split("/").slice(0,-1).join("/");
+    return [...new Set([clean,folder&&`${folder}/${clean}`,`assets/images/${clean}`,`assets/images/Art/${name}`].filter(Boolean).map(encodedPath))];
+  }
+
+  function closeImagePreview() {
+    const preview=document.querySelector(".image-preview");
+    if(!preview)return;
+    preview.remove();document.body.classList.remove("preview-open");
+  }
+
+  function openImagePreview(image) {
+    closeImagePreview();
+    const preview=document.createElement("div");preview.className="image-preview";preview.setAttribute("role","dialog");preview.setAttribute("aria-modal","true");preview.setAttribute("aria-label",image.alt?`Full-size preview: ${image.alt}`:"Full-size image preview");preview.tabIndex=-1;
+    const full=document.createElement("img");full.src=image.currentSrc||image.src;full.alt=image.alt;full.title="Click or tap to return to the reader";
+    preview.append(full);document.body.append(preview);document.body.classList.add("preview-open");preview.focus();
+    full.addEventListener("click",closeImagePreview);preview.addEventListener("click",event=>{if(event.target===preview)closeImagePreview();});
+  }
+
+  function enhanceImages(root) {
+    root.querySelectorAll("img[data-media-source]").forEach(image=>{
+      const choices=mediaCandidates(image.dataset.mediaSource);let index=0;
+      const tryNext=()=>{if(index<choices.length)image.src=choices[index++];};
+      image.addEventListener("error",tryNext);tryNext();
+      image.tabIndex=0;image.setAttribute("role","button");image.setAttribute("aria-label",`${image.alt||"Image"}. Open full-size preview.`);
+      image.addEventListener("click",()=>openImagePreview(image));image.addEventListener("keydown",event=>{if(event.key==="Enter"||event.key===" "){event.preventDefault();openImagePreview(image);}});
+    });
   }
 
   function enhanceCallouts(root) {
@@ -75,7 +114,7 @@
     try {
       const item=state.manifest.find(entry=>normalize(entry.path)===path);if(!item)throw new Error("Document is not listed in the content index");const fileUrl=encodedPath(path);
       if(item.type==="pdf"||path.toLowerCase().endsWith(".pdf")){const response=await fetch(fileUrl,{method:"HEAD",cache:"no-store"});if(!response.ok)throw new Error(`${response.status} ${response.statusText}`);els.content.innerHTML=`<section class="pdf-viewer"><div class="pdf-heading"><div><p class="eyebrow">PDF DOCUMENT</p><h1>${escapeHtml(item.title)}</h1></div><div class="pdf-actions"><a class="pdf-button" href="${escapeHtml(fileUrl)}" target="_blank" rel="noopener">Open PDF</a><a class="pdf-button secondary" href="${escapeHtml(fileUrl)}" download>Download</a></div></div><object data="${escapeHtml(fileUrl)}" type="application/pdf"><p>This browser cannot display the PDF here. <a href="${escapeHtml(fileUrl)}" target="_blank" rel="noopener">Open it in a new tab.</a></p></object></section>`;}
-      else {const response=await fetch(fileUrl,{cache:"no-store"});if(!response.ok)throw new Error(`${response.status} ${response.statusText}`);els.content.innerHTML=safeRenderedHtml(await response.text());enhanceCallouts(els.content);}
+      else {const response=await fetch(fileUrl,{cache:"no-store"});if(!response.ok)throw new Error(`${response.status} ${response.statusText}`);els.content.innerHTML=safeRenderedHtml(await response.text());enhanceCallouts(els.content);enhanceImages(els.content);}
       els.content.hidden=false;els.loading.hidden=true;const h1=els.content.querySelector("h1");document.title=`${h1?.textContent||item.title} — ${state.config.siteTitle}`;if(push)history.pushState({page:path},"",`${hrefFor(path)}${anchor}`);const target=anchor?document.getElementById(decodeURIComponent(anchor.replace(/^#/,""))):null;if(target)target.scrollIntoView();else window.scrollTo({top:0,behavior:"instant"});if(focus)els.reader.focus({preventScroll:true});closeMenu();
     } catch(error){els.loading.hidden=true;els.error.hidden=false;els.errorDetail.textContent=`${path} could not be loaded (${error.message}).`;}
   }
@@ -85,6 +124,7 @@
 
   document.addEventListener("click",event=>{const link=event.target.closest("a[data-page]");if(!link)return;event.preventDefault();openPage(link.dataset.page,{anchor:new URL(link.href,location.href).hash});});
   window.addEventListener("popstate",()=>openPage(pageFromUrl(),{push:false,anchor:location.hash}));
+  document.addEventListener("keydown",event=>{if(event.key==="Escape")closeImagePreview();});
   els.navToggle.addEventListener("click",()=>{els.sidebar.classList.add("open");els.scrim.hidden=false;els.navToggle.setAttribute("aria-expanded","true");});els.closeNav.addEventListener("click",closeMenu);els.scrim.addEventListener("click",closeMenu);
   els.theme.addEventListener("click",()=>applyTheme(document.documentElement.dataset.theme==="light"?"dark":"light"));
   els.expand.addEventListener("click",()=>{const details=[...document.querySelectorAll(".tree details")];const open=details.some(d=>!d.open);details.forEach(d=>d.open=open);els.expand.textContent=open?"Collapse all":"Expand all";});

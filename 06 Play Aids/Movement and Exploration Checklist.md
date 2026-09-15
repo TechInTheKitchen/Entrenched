@@ -27,7 +27,8 @@ A movement action crosses `2 + Mobility` squares, maximum 12. Dangerous ground m
 - Use Resistance 0 for safe analysis or searching when successes can reveal additional information, options, or resources.
 - Give the basic Resistance 0 result automatically, then add one useful finding per success rolled. It never causes retaliation.
 - Use Resistance 1 or higher only when failure can change the situation.
-- On a Resistance 1+ failure, create one immediate retaliation rather than a dead end.
+- On a Resistance 1+ failure outside combat, create one immediate retaliation and reveal one Bought Knowledge truth.
+- Tie the truth to the consequence, mark it on the shared map, and make it point toward a new decision without solving the obstacle.
 - On success, honor the route, shelter, information, or position gained.
 
 ## Returning Across Known Ground

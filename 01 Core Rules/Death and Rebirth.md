@@ -38,7 +38,10 @@ Each scar combines a permanent physical alteration with a borrowed echo. No more
 
 ## Recovery by the Butchers
 
-If nobody remains to recover and revive the unit, corpse hounds or another sapper detail eventually drag the bodies back to the Allied trench. There, the [[The Butchers]] reconstruct the fallen with proper tools and the best available parts.
+If nobody remains to recover and revive the unit, [[Corpse Hounds and Handlers|corpse hounds]] or another sapper detail eventually bring the bodies back to the Allied trench. There, the [[The Butchers]] reconstruct the fallen with proper tools and the best available parts.
+
+>[!note] **A Corpse Hound and it's handler ready for a recovery mission**
+>![[corpse hound and handler.webp]]
 
 A sapper revived by the Butchers:
 
@@ -75,7 +78,8 @@ As a sapper crosses the following thresholds, they gain the listed changes. Huma
 
 The body learns only from a death suffered while pursuing the operation under genuine threat. A death deliberately arranged to obtain replacement material or skill ranks grants **no universal revival rank and no ranks from the replacement**. Execution by an ally, controlled self-destruction, and a revival staged safely behind the line are not training.
 
-The revival, Humanity loss, replacement, scar, and every other consequence still occur. The Referee should invoke this rule only when advancement was plainly the purpose of the death. Desperate sacrifices, failed plans, and calculated battlefield risks remain legitimate service.
+> [!NOTE] Referee Judgment: Staged Death
+> The revival, Humanity loss, replacement, scar, and every other consequence still occur. Invoke this rule only when advancement was plainly the purpose of the death. Desperate sacrifices, failed plans, and calculated battlefield risks remain legitimate service.
 
 ### 75 Humanity: Pain-Dead
 
@@ -103,6 +107,8 @@ The sapper has forgotten their life before the battlefield. They remain under th
 2. The Battleborn retains both Flesh boxes, but can never clear its three Burn boxes.
 3. Using a dark marker, obscure the sapper's name, date of birth, height, and weight. The other players give the Battleborn a battlefield name and write it over the old record.
 
+>[!note] **An unknown Battleborn officer, taken before he was lost to the enemy.**
+>![[Battleborn.webp]]
 ### Burn Boxes
 
 Every Battleborn has three Burn boxes: `○ ○ ○`.

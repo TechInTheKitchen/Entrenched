@@ -24,6 +24,8 @@ A typical workshop contains:
 
 The workshop never becomes quiet. Pumps breathe. Teeth chatter in trays. Telephones ring without being answered. Something heavy moves in the donor wall when artillery lands.
 
+>[!info] **A Butcher seen in the shrouded trenches behind friendly lines**
+>![[Rear Trench - Butcher in the distance.webp]]
 ## The Butcher's Work
 
 Butchers do not restore a body to its original state. They make it capable of returning to duty. Their priorities are:

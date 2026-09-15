@@ -47,6 +47,9 @@ The regiment does not promise that you will survive. It promises that your servi
 
 You leave the truck beneath a corrugated roof. A clerk takes your papers without looking at your face. Behind the desk, six boards list the work for which recruits are still required.
 
+>[!note] **The entrance to the buried regiment**
+>![[Buried Regiment.webp]]
+
 Choose one **Specialty**:
 
 - **Scout:** You notice routes, movement, hidden positions, and danger before it reaches the section. Begin with Awareness 2.

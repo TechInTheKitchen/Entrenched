@@ -41,6 +41,8 @@ Before play, draw or place the features that will remain stable throughout the o
 - Enemy trench lines and permanent fortifications
 - Several possible approaches to the objective
 
+At least one operation in a ruined settlement should offer a hollow route through connected cellars, drains, buried alleys, or gaps beneath burnt foundations. Put its confirmed entrances on the referee's map and decide what surface obstacle it bypasses, what signs reveal it, what danger occupies or destabilizes it, and how another exit might be uncovered. Use [[The Shifting Front#The Hollows Beneath the Ruins|The Hollows Beneath the Ruins]] for travel and revelation guidance.
+
 Build pillboxes, projectors, and other fixed weapons using [[Stationary Defenses]]. Their coverage and triggers belong on the referee's map. Give every emplacement visible evidence, blind ground, and several ways to create an opening rather than treating it as an enemy with a larger Defense.
 
 Then prepare mobile or reactive elements:
@@ -114,6 +116,8 @@ The following may change between runs:
 
 Do not erase useful information arbitrarily. Changes should follow from enemy knowledge, visible battlefield events, or the operation's established threats. When a known feature changes, let the players cross out, revise, or annotate their own map. Its accumulated corrections are part of play.
 
+Use [[The Shifting Front]] when bombardment, weather, excavation, or an advance reveals buried streets and burnt structures. A major change should remove or complicate one known feature while exposing another route, shelter, resource, danger, or piece of history. Show the cause and help the players revise the map before the new ground demands a decision.
+
 ## Enemy Reinforcement
 
 Killing a patrol matters during the current run, but enemy manpower is vast. Unless the unit cuts off reserves, replacements may occupy the same route before the next run.
@@ -129,6 +133,8 @@ The players usually know the objective's approximate location from their briefin
 Some missions begin with no reliable location. In those operations, early runs are reconnaissance. Clues, captured documents, patrol movements, sound, and terrain gradually narrow the search.
 
 An objective should require several discoveries or changes to the map before it becomes reasonably achievable. Avoid locking the operation behind one indispensable check. Failed checks bring retaliation, but another route, another run, or a more violent solution should remain possible.
+
+For every dangerous obstacle, prepare at least two truths that failure could expose through [[Skill Checks and Combat#Bought Knowledge|Bought Knowledge]]. These should reveal its operation or another approach without defeating it outright: a firing lane rather than a silenced gun, the edge of a minefield rather than a cleared path, or the sound of a buried chamber rather than an open entrance. This keeps failure productive without making preparation irrelevant.
 
 Treat Resistance 4 or higher as an operation problem rather than a larger single roll. Prepared discoveries and sub-objectives reduce its Resistance or remove prerequisites. A bunker might begin at Resistance 4 and be impossible to breach directly; cutting its reinforcement tunnel reduces it to 3, and detonating its ammunition cache reduces it to 2.
 

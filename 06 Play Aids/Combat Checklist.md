@@ -36,6 +36,8 @@ Keep this page beside the local combat map. Consult [[Skill Checks and Combat]] 
 8. During combat, failure does not add immediate retaliation unless a specific rule says otherwise.
 9. Resolve Flesh, Dying or killing, a triggered scar-memory intrusion, equipment, Humanity, thresholds, then map changes.
 
+**Bought Knowledge applies automatically only outside combat.** A failed combat action grants it only when an attack, hazard, emplacement, or operation explicitly says that failure reveals something. Visible enemy actions still reveal their ordinary positions and behavior.
+
 ## Lethal Hits
 
 - Empty Flesh box: mark it; the sapper is Wounded.

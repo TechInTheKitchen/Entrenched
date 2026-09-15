@@ -21,11 +21,16 @@ Once per run, before the unit enters a visible area, the Scout may study it and 
 - What here has changed since the map was made?
 - Where could one sapper remain unseen?
 
-The referee answers honestly with what the Scout can reasonably infer from their position. The answer may reveal a danger, firing lane, sign, or opportunity without explaining everything concealed there or how it must be defeated. Asking the question requires enough time and visibility to examine the area; it cannot interrupt an attack or other retaliation already being resolved.
+> [!NOTE] Referee Answer
+> Answer honestly with what the Scout can reasonably infer from their position. The answer may reveal a danger, firing lane, sign, or opportunity without explaining everything concealed there or how it must be defeated. Asking the question requires enough time and visibility to examine the area; it cannot interrupt an attack or other retaliation already being resolved.
 
 ## Demolitionist: Leave the Right Ruin
 
 Once per run, after succeeding on a Demolitions check, the Demolitionist chooses one additional benefit that follows from the blast:
+
+>[!note] **A Demolitionist and partner are seen setting breaching charges on an enemy bunker**
+>![[Sappers breaching a bunker.webp]]
+
 
 - One named nearby person, route, or object is spared.
 - The wreckage creates useful cover.

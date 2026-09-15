@@ -30,8 +30,8 @@
         "type":  "markdown"
     },
     {
-        "title":  "187th Sapper Regiment",
-        "path":  "04 Setting/187th Sappers Regiment.md",
+        "title":  "Corpse Hounds and Their Handlers",
+        "path":  "04 Setting/Corpse Hounds and Handlers.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -44,6 +44,12 @@
     {
         "title":  "No-Man\u0027s-Land",
         "path":  "04 Setting/No-Man\u0027s-Land.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "The Long War",
+        "path":  "04 Setting/The Long War.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -78,8 +84,8 @@
         "type":  "markdown"
     },
     {
-        "title":  "The Long War",
-        "path":  "04 Setting/The Long War.md",
+        "title":  "The Shifting Front",
+        "path":  "04 Setting/The Shifting Front.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -96,9 +102,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Introductory Operation: Raise the Red Flag",
-        "path":  "03 Operations/Raise the Red Flag.md",
-        "folder":  "03 Operations",
+        "title":  "187th Sapper Regiment",
+        "path":  "04 Setting/187th Sappers Regiment.md",
+        "folder":  "04 Setting",
         "type":  "markdown"
     },
     {
@@ -150,21 +156,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Referee Guide",
-        "path":  "02 Referee/Referee Guide.md",
-        "folder":  "02 Referee",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Mission Construction",
-        "path":  "02 Referee/Mission Construction.md",
-        "folder":  "02 Referee",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Retaliation Tables",
-        "path":  "02 Referee/Retaliation Tables.md",
-        "folder":  "02 Referee",
+        "title":  "Repair Table",
+        "path":  "01 Core Rules/Repair Table.md",
+        "folder":  "01 Core Rules",
         "type":  "markdown"
     },
     {
@@ -174,26 +168,44 @@
         "type":  "markdown"
     },
     {
+        "title":  "Referee Guide",
+        "path":  "02 Referee/Referee Guide.md",
+        "folder":  "02 Referee",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Introductory Operation: Raise the Red Flag",
+        "path":  "03 Operations/Raise the Red Flag.md",
+        "folder":  "03 Operations",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Retaliation Tables",
+        "path":  "02 Referee/Retaliation Tables.md",
+        "folder":  "02 Referee",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Skill Checks and Combat",
+        "path":  "01 Core Rules/Skill Checks and Combat.md",
+        "folder":  "01 Core Rules",
+        "type":  "markdown"
+    },
+    {
         "title":  "Scar Table",
         "path":  "01 Core Rules/Scar Table.md",
         "folder":  "01 Core Rules",
         "type":  "markdown"
     },
     {
-        "title":  "Repair Table",
-        "path":  "01 Core Rules/Repair Table.md",
-        "folder":  "01 Core Rules",
+        "title":  "Mission Construction",
+        "path":  "02 Referee/Mission Construction.md",
+        "folder":  "02 Referee",
         "type":  "markdown"
     },
     {
         "title":  "Specialties and Field Doctrines",
         "path":  "01 Core Rules/Specialties and Field Doctrines.md",
-        "folder":  "01 Core Rules",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Skill Checks and Combat",
-        "path":  "01 Core Rules/Skill Checks and Combat.md",
         "folder":  "01 Core Rules",
         "type":  "markdown"
     }

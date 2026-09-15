@@ -4,11 +4,14 @@ The **187th Allied Sapper Regiment** is formally titled the *Royal 187th Regimen
 
 The regiment specializes in operations too unstable for ordinary infantry: crossing no-man's-land, clearing mines, destroying underground works, recovering bodies and intelligence, and occupying enemy trenches long enough for line units to advance.
 
+>[!info] **The 187th Allied Sapper Regiment** after capturing the ruins of  ██████
+>![[Ruins - Sappers.webp]]
+
 ## Regimental Reputation
 
 Other soldiers respect the 187th because its sappers walk knowingly into places everyone else is ordered to avoid. They also distrust it. The regiment returns from total losses. Its veterans carry enemy reflexes, animal features, and knowledge they could not have learned while alive.
 
-Line soldiers say a sapper is not truly part of the 187th until the corpse hounds have brought them home.
+Line soldiers say a sapper is not truly part of the 187th until the [[Corpse Hounds and Handlers|corpse hounds]] have brought them home.
 
 ## The Red Flag
 
@@ -30,6 +33,10 @@ Promotion follows degradation openly. Ceremonies are brief. The officer reads th
 ## Regimental Customs
 
 - **The First Mark:** After a sapper's first revival, the rest of the section marks the place of death on the shared map, even if it has no tactical value.
+
+>[!note] **A recruit of the 187th after his first revival, note the slightly longer left arm**
+>![[Recruit sapper.webp]]
+
 - **Counting Back:** Before deployment, each sapper says the last thing they remember before their previous death. Anyone who cannot answer is watched closely.
 - **The Empty Bunk:** A permanently dead sapper's bunk remains unused until the operation ends.
 - **Borrowed Salute:** A sapper whose right arm has been replaced may salute with the left so nobody mistakes the gesture for a donor reflex.
@@ -43,8 +50,9 @@ Section officers are replaceable. Orders are not. If an officer dies, a successo
 
 ## Referee Use
 
-The 187th should feel like both a family and an institution consuming that family. Let trench personnel remember the sappers' habits, mourn their disappearing identities, and still hand them the next set of orders.
-
-When the players need motivation, connect the objective to recognizable people in the trench. When they need horror, show that command values the route, equipment, and accumulated skill more than the people who carry them.
+> [!TIP] Presenting the 187th
+> The regiment should feel like both a family and an institution consuming that family. Let trench personnel remember the sappers' habits, mourn their disappearing identities, and still hand them the next set of orders.
+>
+> When the players need motivation, connect the objective to recognizable people in the trench. When they need horror, show that command values the route, equipment, and accumulated skill more than the people who carry them.
 > [!NOTE] Related Records
 > [[The Allied Trench]] · [[The First Sappers]] · [[Specialties and Field Doctrines]]

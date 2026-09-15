@@ -33,6 +33,8 @@ Number Four also greeted three corpses by name. Those names appear nowhere in th
 
 Within months, small reconstruction workshops operated along the front. Within a year, recovery doctrine treated bodies as strategic material. The surviving First Sappers became instructors, research subjects, saints, or sealed records depending on which archive is consulted.
 
+>[!note] **Sapper number Four, as seen moving out into No-Man's-Land shortly after returning**
+>![[Battleborn - No mans land.webp]]
 ## Contradictory Fates
 
 Choose one account as true for an operation or let several remain possible:

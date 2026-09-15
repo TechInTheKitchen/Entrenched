@@ -4,6 +4,8 @@ These results extend the failure procedure in [[Skill Checks and Combat]]. Prese
 
 Outside combat, when a Resistance 1 or higher check fails or the unit hesitates, the battlefield retaliates. Resistance 0 checks automatically succeed and never use these tables. During combat, use these tables only when an action, hazard, or operation explicitly calls for an additional retaliation.
 
+After resolving a failed non-combat check, also apply [[Skill Checks and Combat#Bought Knowledge|Bought Knowledge]]. Reveal one useful truth through the result and mark it on the shared map. The truth may be part of the rolled retaliation or a separate fact it exposes, but it does not cancel the consequence or complete the failed action. Hesitation without a check does not automatically grant Bought Knowledge.
+
 The referee may choose a fitting result or roll **three six-sided dice, add them together, and read the total** on the most relevant table. This produces results from 3 to 18.
 
 The middle of each table is common: exposure, displacement, damaged equipment, approaching enemies, and survivable wounds. Results near 3 and 18 are increasingly rare and strange. A low extreme often reveals something useful through a dangerous accident; a high extreme permanently changes the map, destroys bodies, or brings overwhelming force.
