@@ -19,6 +19,13 @@
       "url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
       "suffix": ".",
       "rel": "license noopener"
+    },
+    {
+      "text": "Contains public sector photos as provided by the National Archives ",
+      "label": "British Photographs of World War I (165-BO) ",
+      "url": "https://catalog.archives.gov/id/533104",
+      "suffix": ".",
+      "rel": "license noopener"
     }
   ]
 }
