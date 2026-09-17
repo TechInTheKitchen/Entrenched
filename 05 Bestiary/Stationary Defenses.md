@@ -1,6 +1,6 @@
 # Fixed Defenses and Killing Works
 
-Stationary defenses are not ordinary enemies waiting to exchange attacks. They are sections of the battlefield built to make a direct approach impossible: pillboxes, buried projectors, sealed gun rooms, observation cupolas, and living fortifications whose operators may never be visible. Use the normal checks, cooperation, attacks, and visibility rules from [[Skill Checks and Combat]] except where a profile below replaces them. [[Specialties and Field Doctrines|Field Doctrines]] can reveal or exploit an opening but never erase a defense's Protection.
+Stationary defenses are not ordinary enemies waiting to exchange attacks. They are sections of the battlefield built to make a direct approach impossible: pillboxes, buried projectors, sealed gun rooms, observation cupolas, and living fortifications whose operators may never be visible. Use the normal checks, cooperation, attacks, and visibility rules from [[Skill Checks and Exploration]] and [[Combat and Movement]] except where a profile below replaces them. [[Character Creation#Field Doctrines|Field Doctrines]] can reveal or exploit an opening but never erase a defense's Protection.
 
 Run an emplacement like a **trap with a crew**, not a combatant with another turn. It threatens a known piece of ground, reacts when its trigger is met, and becomes vulnerable only when the sappers learn how it works or force it to look the wrong way.
 
@@ -151,7 +151,7 @@ A sealed bunker pumps gas through buried pipes and low vents. Its true weapon is
 - **Tell:** Dead insects, tarnished metal, low vapor, masks nailed near safe passages, buried ceramic pipe, or wind flags watched by a sealed crew.
 - **Coverage:** One depression, trench network, tunnel, or connected group of marked squares. Wind or ventilation determines where gas moves.
 - **Trigger:** A trip line, opened hatch, detected movement, or a remote observer's signal.
-- **Retaliation:** Fill the first covered area with gas and move it 2 squares with the wind at the end of each sapper turn. A sapper entering or beginning a turn in it must pass a Resistance 1 Mobility check using a working respirator or mark a Flesh box. This explicitly applies during combat.
+- **Retaliation:** Fill the first covered area with gas and move it 2 squares with the wind at the end of each sapper turn. A sapper entering or beginning a turn in it must pass a Resistance 1 Mobility check using a working respirator or mark a Wound box. This explicitly applies during combat.
 - **Protection:** The sealed pumping room cannot be attacked through the cloud. Its external valves and vents can be reached.
 - **Openings:** Move upwind; block or reverse a vent; follow a clean-air pipe; create a false trigger while the unit waits outside the spread; enter through a maintenance line; turn the gas toward enemy works.
 - **Defeat:** Shut the master valve at Resistance 2 Engineering, destroy the pump after reaching its service room, collapse the feed tunnel, or ignite an identified gas that the referee has clearly established as flammable.

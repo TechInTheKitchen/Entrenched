@@ -1,6 +1,6 @@
 # Enemy Forces and Battlefield Horrors
 
-Resolve these profiles using [[Skill Checks and Combat]]. Use [[Stationary Defenses]] for protected emplacements and fixed living weapons.
+Resolve these profiles using [[Combat and Movement]]. Use [[Stationary Defenses]] for protected emplacements and fixed living weapons.
 
 No-man's-land contains enemy soldiers, reconstructed veterans, living weapons, and things assembled by accident from everything the war left unburied.
 

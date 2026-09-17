@@ -161,3 +161,7 @@ Once the flag rises, Allied troops advance past whatever remains of the unit. As
 - Do they still recognize the red flag as a sign of victory?
 
 The war continues. This operation does not.
+
+---
+
+**Next at the table:** [[Run Cycle Checklist]] tracks the return and next run. For setting clues, read [[Referee Lore Guide]].

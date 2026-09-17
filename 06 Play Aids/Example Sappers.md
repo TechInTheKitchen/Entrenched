@@ -1,6 +1,6 @@
 # Example Sappers
 
-These recruits demonstrate the six starting specialties and their [[Specialties and Field Doctrines|Field Doctrines]]. Each has 2 ranks from a specialty and 5 ranks from recruit training, no starting skill above 3, Defense 1, Humanity 100, and three level 1 equipment slots.
+These recruits demonstrate the six starting specialties and their [[Character Creation#Field Doctrines|Field Doctrines]]. Each has 2 ranks from a specialty and 5 ranks from recruit training, no starting skill above 3, Defense 1, Humanity 100, and three level 1 equipment slots.
 
 They may be used as ready-made characters or as guides when creating new sappers. Names, memories, appearance, and equipment can be changed without altering the starting package.
 
@@ -146,4 +146,4 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 These packages are deliberately uneven outside their specialties. Cooperation and equipment selection should matter, and no recruit can cover every danger.
 
-After the first death, spend the universal revival rank wherever the sapper's experience suggests. Then apply replacement ranks from the [[Repair Table]]. A few revivals should pull each example away from this clean starting identity and toward the strange collection of skills, scars, and donor instincts created during play.
+After the first death, check one box for the universal revival rank in a skill that fits the sapper's experience. Then check boxes for replacement ranks in the skills allowed by the [[Repairs and Scars#Repair Table|Repair Table]]. The number of checked boxes is always the skill's current rank; a few revivals should pull each example away from this clean starting identity and toward the strange collection of skills, scars, and donor instincts created during play.

@@ -81,3 +81,7 @@ Avoid constant escalation. Alternate explicit bodily horror with absences, domes
 10. A route marker that turns to face the unit after they pass
 > [!NOTE] Related Records
 > [[The Shifting Front]] · [[Retaliation Tables]] · [[Enemies and Monsters]] · [[Stationary Defenses]]
+
+---
+
+**Next setting record:** [[The Shifting Front]].

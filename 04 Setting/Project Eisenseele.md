@@ -71,3 +71,7 @@ Eisenseele facilities may appear as:
 The project is not a secret. Its details are compartmentalized because no institution wants its soldiers asking questions.
 > [!NOTE] Related Records
 > [[The First Sappers]] · [[The Butchers]] · [[Faith of the Final Trench]]
+
+---
+
+**Next setting record:** [[The Butchers]].

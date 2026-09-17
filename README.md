@@ -41,7 +41,7 @@ The operation ends when the objective is completed or the entire unit is permane
 - Simple rules with lethal consequences
 - Fast, dangerous combat
 - Exploration that produces persistent knowledge
-- Death as advancement rather than a reset
+- Death as a source of skill ranks rather than a reset
 - Permanent physical changes to the character record
 - Body horror built through accumulation, memory loss, and institutional cruelty
 - Enemy soldiers, battlefield hazards, and monsters operating as one combined threat

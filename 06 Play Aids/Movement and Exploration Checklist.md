@@ -1,6 +1,6 @@
 # Movement and Exploration Checklist
 
-Use the shared map to preserve knowledge, not to count every quiet footstep. Consult [[Core Game Loop]] for map procedure, [[Skill Checks and Combat]] for dangerous movement, and [[Retaliation Tables]] when failure changes the battlefield.
+Use the shared map to preserve knowledge, not to count every quiet footstep. Consult [[Core Game Loop]] for map procedure, [[Combat and Movement]] for dangerous movement, and [[Retaliation Tables]] when failure changes the battlefield.
 
 ## Outside Immediate Danger
 
@@ -19,7 +19,7 @@ Count squares during:
 - Timed artillery, fire, gas, collapse, or flooding
 - A dangerous crossing where every position changes exposure
 
-A movement action crosses `2 + Mobility` squares, maximum 12. Dangerous ground may require a check. Solid barriers, smoke, and darkness may prevent attacks by blocking sight.
+A movement action crosses `2 + checked Mobility ranks` squares, maximum 12. Dangerous ground may require a check. Solid barriers, smoke, and darkness may prevent attacks by blocking sight.
 
 ## Calling for Checks
 

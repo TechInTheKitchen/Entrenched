@@ -1,6 +1,6 @@
 # Equipment
 
-Choose starting gear during [[Character Creation]]. Equipment contributes to the dice pools and attacks described in [[Skill Checks and Combat]].
+Choose starting gear during [[Character Creation]]. Equipment contributes to the dice pools and attacks described in [[Skill Checks and Exploration]] and [[Combat and Movement]].
 
 Equipment is issued between runs according to rank. Privates may choose level 1 equipment, Corporals may choose levels 1–2, and Sergeants may choose levels 1–3.
 
@@ -15,7 +15,7 @@ Level 1 equipment resembles the weapons and tools carried during the early years
 - Tools are reusable unless retaliation destroys or takes them.
 - One slot of grenades or other small consumables contains three uses. Mark off one circle after each use: `○ ○ ○`.
 - Armor replaces issued armor rather than stacking with it.
-- Unless an item says otherwise, it follows the normal rules in [[Skill Checks and Combat]].
+- Unless an item says otherwise, it follows the normal rules in [[Skill Checks and Exploration]] and [[Combat and Movement]].
 
 ### Issuing and Handling Items
 
@@ -63,7 +63,7 @@ Level 1 equipment is dependable, replaceable, and recognizable to soldiers from 
 | Camouflage sheet             | Stealth     | Adds 1 die when hiding a stationary sapper, body, or small cache.                                                                                       |
 | Rope and climbing hooks      | Strength    | Adds 1 die when climbing, hauling, or lowering bodies and equipment.                                                                                    |
 | Trapmaker's roll             | Engineering | Adds 1 die when constructing or concealing a trap.                                                                                                      |
-| Butcher's field roll         | Special     | When its bearer performs a field revival, reroll the Source Die on the [[Repair Table]] and choose either source result. The sapper still gains a scar. |
+| Butcher's field roll         | Special     | When its bearer performs a field revival, reroll the Source Die on the [[Repairs and Scars#Repair Table|Repair Table]] and choose either source result. The sapper still gains a scar. |
 | Backpack                     | Special     | Allows a Sapper to carry up to two extra equipment back from [[No-Man's-Land]], these can be swapped with equipped equipment at the cost of a turn.     |
 
 ## Level 1 Explosives and Supplies
@@ -75,7 +75,7 @@ Level 1 equipment is dependable, replaceable, and recognizable to soldiers from 
 | Satchel charges        | Demolitions       | Melee            |    3 | Adds 1 die when destroying structures, equipment, or fortifications. Must be placed by hand.                                           |
 | Bangalore section      | Demolitions       | Melee            |    1 | Adds 1 die when clearing wire, mines, or a narrow path through an obstacle. On success, the cleared path remains marked on the map.    |
 | Tripwire mines         | Engineering       | Placed           |    3 | Adds 1 die when placing or concealing a mine. Once placed, it makes a 4-dice attack against the first suitable target to trigger it.   |
-| Field dressings        | Mobility          | Self or adjacent |    3 | Spend an action and pass a Resistance 1 Mobility check to clear one marked Flesh box. Failure consumes a use and triggers retaliation. |
+| Field dressings        | Mobility          | Self or adjacent |    3 | Spend an action and pass a Resistance 1 Mobility check to clear one marked Wound box. Failure consumes a use and triggers retaliation. |
 | Dog Food               | Ranged or Stealth | Placed or Close  |    3 | Can be hidden or thrown to attract animals that would be drawn to the foul stench within.                                              |
 
 # Level 2 Equipment
@@ -102,7 +102,7 @@ Level 2 equipment is expensive machinery produced by a civilization that has for
 | Sound-ranging headset      | Awareness                | Adds 2 dice when locating artillery, engines, tunneling, or movement through obscured ground.                                                                                                                                                                           |
 | Reactive camouflage mantle | Stealth                  | Adds 2 dice while moving slowly or remaining still.                                                                                                                                                                                                                     |
 | Powered breaching frame    | Strength                 | Adds 2 dice when lifting, breaking, or forcing. The wearer cannot be moved by ordinary environmental retaliation while braced.                                                                                                                                          |
-| Mechanical revival frame   | Special                  | Its bearer may begin field revival from an adjacent square and cannot be forced away by anything short of being moved or killed. Roll two Body Dice on the [[Repair Table]] and choose one result; roll one Source Die normally. The revived sapper still gains a scar. |
+| Mechanical revival frame   | Special                  | Its bearer may begin field revival from an adjacent square and cannot be forced away by anything short of being moved or killed. Roll two Body Dice on the [[Repairs and Scars#Repair Table|Repair Table]] and choose one result; roll one Source Die normally. The revived sapper still gains a scar. |
 
 
 ## Level 2 Explosives and Armor
@@ -135,11 +135,11 @@ Level 3 equipment is never truly issued. It is introduced to its new bearer by a
 | Item                   | Skill       | Effect                                                                                                                                                                                                                                                                                                         |
 | ---------------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Seer's cluster         | Awareness   | Adds 3 dice. A jar of linked eyes can look around corners and through smoke, but it also shows the sapper brief images of the other side. After a failed check, lose 1 additional Humanity.                                                                                                                    |
-| Parasite shroud        | Stealth     | Adds 3 dice. Once per run, when a Stealth check fails, the shroud may tear away a layer of the wearer's skin to turn the failure into a success; mark an empty Flesh box; if none is empty, the wearer becomes Dying.                                                                                          |
+| Parasite shroud        | Stealth     | Adds 3 dice. Once per run, when a Stealth check fails, the shroud may tear away a layer of the wearer's skin to turn the failure into a success; mark an empty Wound box; if none is empty, the wearer becomes Dying.                                                                                          |
 | Tendon winch           | Strength    | Adds 3 dice. The grafted cable may pull a sapper or body up to the user's full movement instead of the user moving.                                                                                                                                                                                            |
 | Listening root         | Awareness   | Adds 3 dice when pressed into earth, wood, or flesh. On a success, it also reveals whether something living has crossed or touched the surface recently.                                                                                                                                                       |
 | Black-vein infiltrator | Engineering | Adds 3 dice. The organism crawls inside a machine and learns its shape; after a successful sabotage, it can restore the machine to working order once for Allied use.                                                                                                                                          |
-| Lazarus satchel        | Special     | When its bearer performs a field revival, roll two Body Dice and two Source Dice on the [[Repair Table]], choosing one result from each pair. The revived sapper rolls twice on the scar table and chooses which scar to keep. The satchel whispers with the voices of every sapper previously repaired by it. |
+| Lazarus satchel        | Special     | When its bearer performs a field revival, roll two Body Dice and two Source Dice on the [[Repairs and Scars#Repair Table|Repair Table]], choosing one result from each pair. The revived sapper rolls twice on the scar table and chooses which scar to keep. The satchel whispers with the voices of every sapper previously repaired by it. |
 
 
 ## Level 3 Explosives and Armor
@@ -149,7 +149,7 @@ Level 3 equipment is never truly issued. It is introduced to its new bearer by a
 | Blackblood charges | Demolitions | Melee  |    3 | Adds 3 dice. The charge grows tendrils through cracks before detonating, allowing it to attack internal supports or machinery without first breaching the exterior.                                                                 |
 | Boneburst grenades | Ranged      | Close  |    3 | Adds 3 dice to attacks. On a success, the blast leaves a field of growing splinters that becomes dangerous ground.                                                                                                                  |
 | Crawling mines     | Engineering | Placed |    3 | Adds 3 dice when deployed and make a 10-dice attack when detonated. After being placed, one may move 2 squares at the beginning of each sapper turn until ordered to wait or detonate. Crawling Mines have defense 1 when targeted. |
-| Ossuary harness    | —           | Worn   |    — | Sets the wearer's Defense to at least 3. Once per run, it may prevent one non-combat Flesh box from being marked; afterward its bone plates remain open and loudly grind until the unit returns to the trench. Replaces issued armor. |
+| Ossuary harness    | —           | Worn   |    — | Sets the wearer's Defense to at least 3. Once per run, it may prevent one non-combat Wound box from being marked; afterward its bone plates remain open and loudly grind until the unit returns to the trench. Replaces issued armor. |
 
 ## Losing Equipment
 
@@ -158,3 +158,7 @@ Retaliation may damage, destroy, bury, or separate a sapper from equipment when 
 The Allied trench replaces level 1 equipment freely between runs. Level 2 items are scarce and may not be immediately replaced. A lost level 3 item outranks personnel recovery: command demands its return, and the enemy treats its capture as a major victory. Mark every lost item on the shared map.
 
 Recovered equipment returns to its assigned bearer if that sapper is present. Another sapper may carry it, but gains no mechanical benefit until it is formally reissued during outfitting. Recovery does not refill spent consumable uses unless the appropriate supply is available.
+
+---
+
+**Continue:** [[Death and Revival]] explains recovery when those tools are not enough; [[Humanity and Battleborn]] tracks its lasting cost.

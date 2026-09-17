@@ -1,10 +1,10 @@
 # Retaliation Tables
 
-These results extend the failure procedure in [[Skill Checks and Combat]]. Preserve lasting discoveries and changes using the map procedure in [[Core Game Loop]].
+These results extend the failure procedure in [[Skill Checks and Exploration]]. Preserve lasting discoveries and changes using the map procedure in [[Core Game Loop]].
 
 Outside combat, when a Resistance 1 or higher check fails or the unit hesitates, the battlefield retaliates. Resistance 0 checks automatically succeed and never use these tables. During combat, use these tables only when an action, hazard, or operation explicitly calls for an additional retaliation.
 
-After resolving a failed non-combat check, also apply [[Skill Checks and Combat#Bought Knowledge|Bought Knowledge]]. Reveal one useful truth through the result and mark it on the shared map. The truth may be part of the rolled retaliation or a separate fact it exposes, but it does not cancel the consequence or complete the failed action. Hesitation without a check does not automatically grant Bought Knowledge.
+After resolving a failed non-combat check, also apply [[Skill Checks and Exploration#Bought Knowledge|Bought Knowledge]]. Reveal one useful truth through the result and mark it on the shared map. The truth may be part of the rolled retaliation or a separate fact it exposes, but it does not cancel the consequence or complete the failed action. Hesitation without a check does not automatically grant Bought Knowledge.
 
 The referee may choose a fitting result or roll **three six-sided dice, add them together, and read the total** on the most relevant table. This produces results from 3 to 18.
 
@@ -37,8 +37,8 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 | 8 | One carried consumable loses a use, or one exposed item is torn loose and lands in an adjacent square. |
 | 9 | A ranging shell lands beside the acting sapper. Mark the square; the next artillery retaliation centers there unless the unit changes position. |
 | 10 | Shrapnel makes a 6-dice attack against the most exposed sapper. Its path reveals the direction of the firing battery. |
-| 11 | Flying metal marks one exposed sapper's Flesh box; if none is empty, they become Dying. |
-| 12 | Walking fire crosses the route. Every exposed sapper must immediately move 2 squares toward shelter or mark a Flesh box, becoming Dying if none is empty. |
+| 11 | Flying metal marks one exposed sapper's Wound box; if none is empty, they become Dying. |
+| 12 | Walking fire crosses the route. Every exposed sapper must immediately move 2 squares toward shelter or mark a Wound box, becoming Dying if none is empty. |
 | 13 | A shelter entrance collapses. Anyone inside remains protected but trapped; clearing the entrance is Resistance 2 Strength or Engineering. |
 | 14 | The closest fallen body is thrown 6 squares and badly pulped. Its next field revival rolls twice on the Scar Table and keeps both scars. |
 | 15 | A mortar crew brackets the area. Mark its center; until the unit escapes or silences the observers, hesitation produces two linked threats instead of one. |
@@ -50,14 +50,14 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 
 | 3d6 | Retaliation |
 | ---: | --- |
-| 3 | A chain detonation tears a crooked permanent route through the minefield and reveals what was buried beneath it. The acting sapper is thrown to the far end of the new lane and marks a Flesh box, becoming Dying if none is empty. |
+| 3 | A chain detonation tears a crooked permanent route through the minefield and reveals what was buried beneath it. The acting sapper is thrown to the far end of the new lane and marks a Wound box, becoming Dying if none is empty. |
 | 4 | The apparent mine is built around a speaking corpse. It wakes, grabs the nearest sapper, and repeats directions toward a route omitted from the Allied map. |
 | 5 | The wire contains an old identification line. Its tags name a missing Allied unit and point toward a concealed recovery cache, but touching it raises a flare. |
 | 6 | A marking flag, map coordinate, or known safe square disappears into shifting mud. One section of the route becomes uncertain until checked again. |
 | 7 | Wire catches one carried item and tears it loose into an adjacent square. Recover it now or leave its position marked. |
 | 8 | The acting sapper becomes pinned and cannot move until they spend an action and pass Resistance 1 Strength or Engineering. |
-| 9 | A gas charge bursts. Every nearby sapper without a working respirator marks a Flesh box; protected sappers must move or test Mobility at Resistance 1. |
-| 10 | A shallow mine marks the acting sapper's Flesh box; if none is empty, they become Dying. |
+| 9 | A gas charge bursts. Every nearby sapper without a working respirator marks a Wound box; protected sappers must move or test Mobility at Resistance 1. |
+| 10 | A shallow mine marks the acting sapper's Wound box; if none is empty, they become Dying. |
 | 11 | The device is attached to signal wire. An enemy position learns the unit's location and begins moving toward the marked route. |
 | 12 | The blast scatters live mines into two adjacent unmarked squares. Mark the original lane as changed. |
 | 13 | A hidden marksman uses the detonation as a signal and makes a 6-dice Far attack against the sapper carrying the most visible tool. |
@@ -65,7 +65,7 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 | 15 | The mine kills the acting sapper and throws the body 3 squares deeper into the field, beyond the nearest cover. |
 | 16 | Connected charges raise impassable wire between the front and rear of the unit. The section is split until it finds a route or creates an opening. |
 | 17 | The explosion awakens a Skinless Burrower beneath the marked safe lane. It knows the vibration of everyone who crossed it. |
-| 18 | The field chain-detonates. Kill one exposed sapper, mark a Flesh box on every other sapper in the field, and permanently replace the minefield with burning craters and one narrow passable route. |
+| 18 | The field chain-detonates. Kill one exposed sapper, mark a Wound box on every other sapper in the field, and permanently replace the minefield with burning craters and one narrow passable route. |
 
 ## Patrols and Enemy Fire
 
@@ -92,19 +92,19 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 
 | 3d6 | Retaliation |
 | ---: | --- |
-| 3 | The floor collapses into a sealed room containing a useful cache and evidence of why nobody retrieved it. The acting sapper falls inside, marks a Flesh box, and is separated from the unit. |
+| 3 | The floor collapses into a sealed room containing a useful cache and evidence of why nobody retrieved it. The acting sapper falls inside, marks a Wound box, and is separated from the unit. |
 | 4 | A wall opens around an intact civilian room untouched by time. One object answers a sapper's borrowed memory while something behind the room begins moving. |
 | 5 | A dead engine turns once and moves the entire wreck 2 squares, revealing an entrance or crushed body beneath it. |
 | 6 | Rotten flooring drops the acting sapper into a lower room outside the unit's sight. |
 | 7 | Falling masonry blocks the route behind the unit and creates hard shelter on the opposite side. |
 | 8 | Broken glass, metal, or bone tears one carried item loose or destroys one consumable use. |
 | 9 | A wall shifts and exposes the unit to a known firing lane or observation point. |
-| 10 | Jagged debris marks the acting sapper's Flesh box; if none is empty, they become Dying. |
+| 10 | Jagged debris marks the acting sapper's Wound box; if none is empty, they become Dying. |
 | 11 | The structure catches fire and will become unusable after the next sapper turn. Everyone inside must choose what to recover before leaving. |
 | 12 | A concealed Line Soldier makes a 5-dice Close attack, then retreats toward a hidden exit if able. |
-| 13 | Stagnant gas fills the lowest room. Every sapper inside must leave or pass a Resistance 1 Mobility check using a respirator; failure marks Flesh. |
+| 13 | Stagnant gas fills the lowest room. Every sapper inside must leave or pass a Resistance 1 Mobility check using a respirator; failure marks a Wound box. |
 | 14 | A cellar door seals behind the unit. Reopening it is Resistance 2 Strength or Engineering while sound approaches from the other side. |
-| 15 | The ruin collapses, marking one Flesh box for everyone inside and permanently changing its passages and shelter. |
+| 15 | The ruin collapses, marking one Wound box for everyone inside and permanently changing its passages and shelter. |
 | 16 | A direct shell enters through the roof, killing the most exposed sapper and opening the structure to the sky. |
 | 17 | A Patchwork Heap rises from the bodies beneath the floor and immediately incorporates the nearest unattended remains. |
 | 18 | Black Matter floods the foundation. It pulls every loose body and item 3 squares toward its center, wakes one unfinished horror, and permanently makes the ruin living terrain. |
@@ -121,7 +121,7 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 | 8 | A narrow section forces one bulky item to be left at the entrance or carried only by spending the bearer's full action to move. |
 | 9 | The ceiling groans. Moving slowly avoids collapse but allows an approaching threat to advance one step. |
 | 10 | A cave-in separates the first or last sapper from the rest of the unit. |
-| 11 | Stagnant gas marks one sapper's Flesh box, leaving them Dying if none is empty, and extinguishes open flame. |
+| 11 | Stagnant gas marks one sapper's Wound box, leaving them Dying if none is empty, and extinguishes open flame. |
 | 12 | An enemy listening post learns the unit's location and begins sealing or occupying the nearest exit. |
 | 13 | A trap seals both ends of the passage and begins filling it with smoke or water. One exit is Resistance 2 to reopen. |
 | 14 | An Enemy Sapper attacks from a concealed side shaft, then attempts to close it behind them. |
@@ -136,13 +136,13 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 | ---: | --- |
 | 3 | The battlefield briefly aligns with the other side. Reveal a route, structure, or objective that exists in both places; every sapper who looks at it loses 1 Humanity. |
 | 4 | The mud identifies a buried Allied body by using the voice of someone still alive. Digging toward it also wakes what is wrapped around the remains. |
-| 5 | One replacement part pulls toward a useful cache, body, or Black Matter seam while trying to tear itself free of its owner. Mark Flesh or let it guide the unit. |
+| 5 | One replacement part pulls toward a useful cache, body, or Black Matter seam while trying to tear itself free of its owner. Mark a Wound box or let it guide the unit. |
 | 6 | The mud repeats the acting sapper's last words in the voice of their donor. Nearby creatures hear the reply. |
 | 7 | Hair, teeth, or fingernails grow across one square and make it dangerous ground. |
 | 8 | A familiar memory proves to belong to a corpse beneath the unit. Resolve a scar-memory intrusion for one sapper if they have not already paid its cost this run. |
 | 9 | Black rain marks every exposed sapper with a scent that grants nearby monsters 2 additional Awareness dice. |
 | 10 | The ground drinks spilled blood and moves the nearest body 2 squares beneath the surface. Its location remains visible as breathing mud. |
-| 11 | A replacement part rejects its owner. Mark a Flesh box; if none is empty, the sapper becomes Dying. |
+| 11 | A replacement part rejects its owner. Mark a Wound box; if none is empty, the sapper becomes Dying. |
 | 12 | Feral Corpse Hounds arrive from two directions, following the most recently revived sapper. |
 | 13 | A Choir in the Mud begins calling the unit by name. If not silenced before the next enemy turn, it calls artillery. |
 | 14 | The nearest unattended body is incorporated into a forming Patchwork Heap. Recover it before the next enemy turn or fight the completed Heap. |

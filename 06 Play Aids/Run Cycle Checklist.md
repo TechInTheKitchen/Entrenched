@@ -1,13 +1,13 @@
 # Run Cycle Checklist
 
-Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the operation, [[Equipment]] during outfitting, and [[Death and Rebirth]] when resolving recovery and reconstruction.
+Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the operation, [[Equipment]] during outfitting, and [[Death and Revival]] when resolving recovery and reconstruction.
 
 ## Before the First Run
 
 - Confirm safety boundaries and desired horror intensity.
 - Give the unit its objective and incomplete map.
 - Issue three level 1 items to each Private.
-- Mark Humanity, Defense, Flesh, Borrowed Reflex, Burn, consumables, scars, and borrowed-echo triggers.
+- Mark Humanity, Defense, Wound capacity, Borrowed Reflex, Burn, consumables, scars, and borrowed-echo triggers. Put red paper clips by the sheet's Wound spots only when wounds occur.
 - Establish the Allied trench and the first visible landmark.
 
 ## During Every Run
@@ -25,10 +25,10 @@ Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the 
 - Preserve discoveries, cleared obstacles, destroyed positions, caches, and lost equipment.
 - Remove temporary smoke, fire, and other short-lived effects.
 - Resolve abandoned bodies and Butcher reconstruction.
-- Clear marked Flesh boxes for every revived sapper; never add boxes beyond Humanity thresholds.
+- Remove Wound clips for every revived sapper; never add capacity beyond Humanity thresholds.
 - Apply Humanity loss and identity erasure.
-- Record replacement parts, scars, skill gains, rank, Flesh, and Burn.
-- If a death was staged solely for advancement, grant no universal or replacement skill ranks.
+- Record replacement parts, scars, newly checked skill ranks, military rank, Wounds, and Burn.
+- If a death was staged solely to gain ranks, grant no universal or replacement ranks.
 - Decide what the enemy observed and choose one or two logical reactions.
 - If a third Burn box was marked, place and telegraph an approaching anti-Battleborn section.
 - Replace and refill level 1 gear; account separately for scarce level 2 and priority level 3 items and consumables.

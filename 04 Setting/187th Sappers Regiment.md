@@ -55,4 +55,8 @@ Section officers are replaceable. Orders are not. If an officer dies, a successo
 >
 > When the players need motivation, connect the objective to recognizable people in the trench. When they need horror, show that command values the route, equipment, and accumulated skill more than the people who carry them.
 > [!NOTE] Related Records
-> [[The Allied Trench]] · [[The First Sappers]] · [[Specialties and Field Doctrines]]
+> [[The Allied Trench]] · [[The First Sappers]] · [[Character Creation#Field Doctrines|Field Doctrines]]
+
+---
+
+**Next setting record:** [[No-Man's-Land]].

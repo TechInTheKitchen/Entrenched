@@ -63,3 +63,7 @@ Players may learn personal names, unit numbers, and local words. The larger coal
 If the players demand a proper name, give them several mutually incompatible names from maps, prisoners, sermons, and old documents. Every faction believes its own name means the Allied Defense.
 > [!NOTE] Related Records
 > [[The Long War]] · [[Enemies and Monsters]] · [[Stationary Defenses]] · [[Project Eisenseele]]
+
+---
+
+**End of the setting route.** [[Entrenched|Return to the reading routes]] or use [[Referee Lore Guide]] to put these revelations into play.

@@ -5,13 +5,13 @@
 - Three to six players create sappers using [[Character Creation]].
 - The referee prepares an objective and persistent map using [[Mission Construction]].
 - Agree on boundaries using [[Safety and Tone]].
-- Each sapper begins at 100 Humanity, Defense 1, no Flesh boxes, and three level 1 equipment slots.
-- Each sapper has one [[Specialties and Field Doctrines|Field Doctrine]]. All except **Wait for the Opening** may be used once per run.
+- Each sapper begins at 100 Humanity, Defense 1, no Wound boxes, and three level 1 equipment slots.
+- Each sapper has one [[Character Creation#Field Doctrines|Field Doctrine]]. All except **Wait for the Opening** may be used once per run.
 
 ## Checks
 
-1. Roll relevant **skill + equipment + modifiers** in d6s.
-2. An untrained sapper starts with 1 die before equipment.
+1. Roll **checked skill ranks + equipment + modifiers** in d6s. A skill has at most 12 checked ranks.
+2. A sapper with no checked ranks in that skill starts with 1 die before equipment.
 3. Count every 6 as one success.
 4. Meet or exceed Resistance to succeed.
 5. Failure at Resistance 1 or higher does not complete the action and triggers retaliation.
@@ -30,7 +30,7 @@ During combat, failure does not create an extra immediate retaliation unless a s
 | 3 | Extreme; normally requires equipment and cooperation |
 | 4+ | Operation-level; requires preparation or progress across runs |
 
-For cooperation, the leader rolls their normal pool. Every trained helper adds only their skill ranks. Everyone involved is exposed if the check fails. During combat, leading or helping consumes that sapper's action.
+For cooperation, the leader rolls their normal pool. Every trained helper adds only their checked skill ranks, not the untrained fallback or equipment. Everyone involved is exposed if the check fails. During combat, leading or helping consumes that sapper's action.
 
 Resistance 4+ is reduced through discoveries, sabotage, supplies, and completed sub-objectives rather than repeated rolls that accumulate successes.
 
@@ -41,7 +41,7 @@ Resistance 4+ is reduced through discoveries, sabotage, supplies, and completed 
 
 An action can attack, move, use equipment, attempt a task, cooperate, begin revival, or retreat.
 
-During danger, movement is **2 + Mobility**, maximum 12 squares. Outside danger, move between meaningful locations without counting every square.
+During danger, movement is **2 + checked Mobility ranks**, maximum 12 squares. Outside danger, move between meaningful locations without counting every square.
 
 - Melee: adjacent
 - Close: 2–6 squares
@@ -51,16 +51,18 @@ A weapon adds its level only at its listed range. A target that cannot be seen c
 
 If one side is undetected when combat begins, it is Surprised for the first round: −1 Defense, minimum 1. The Choir Gun protects its bearer from this penalty against a visible Far enemy.
 
-## Attacks, Defense, and Flesh
+## Attacks, Defense, and Wounds
 
 Roll combat skill + weapon. If successes meet Defense, inflict a **lethal hit**.
 
-- If the target has an empty Flesh box, mark it.
-- If no Flesh box is empty, a sapper becomes **Dying**. On their next turn they take one Last Action, then die.
-- Every marked Flesh box imposes −1 die to all checks and attacks.
-- An effect that explicitly says **killed** bypasses Flesh.
+- If the target has an empty Wound box, mark it.
+- If no Wound box is empty, a sapper becomes **Dying**. On their next turn they take one Last Action, then die.
+- Every marked Wound box imposes −1 die to all checks and attacks.
+- An effect that explicitly says **killed** bypasses Wound boxes.
 
-Ordinary enemies have no Flesh boxes.
+**At the table:** Each red paper clip on the sheet edge is one marked Wound box and a −1 die wound. Use only the boxes granted by Humanity (none above 75, one at 75, two at 25). Remove clips when treatment or revival clears wounds; leave the printed Wound spaces unerased. See [[Death and Revival#Tracking Wounds at the Table|Tracking Wounds at the Table]].
+
+Ordinary enemies have no Wound boxes.
 
 Attacks normally select one target. When a rule lets one attack threaten several targets, roll once and compare the successes separately with each target's Defense.
 
@@ -76,7 +78,7 @@ Field revival:
 - Roll one replacement
 - Gain one passive physical scar and one triggered borrowed echo
 - Gain one universal skill rank plus replacement ranks
-- Clear every marked Flesh box and return able to act on that sapper turn
+- Clear every marked Wound box and return able to act on that sapper turn
 
 A death staged solely to gain ranks grants no universal or replacement ranks. Humanity loss, repair, scars, and all other consequences still apply.
 
@@ -88,17 +90,17 @@ Butcher revival after trench recovery:
 - Gain one universal skill rank plus replacement ranks
 - Complete the Butcher's identity procedure
 
-Every completed revival clears all marked Flesh boxes. Assign universal and replacement skill ranks during the next between-runs step.
+Every completed revival clears all marked Wound boxes. Check the boxes for universal and replacement skill ranks in the appropriate rows during the next between-runs step.
 
 ## Humanity
 
-| Humanity | Condition |
+| Humanity | Condition                                                         |
 | ---: | --- |
-| 100–76 | Human; Private; level 1 gear; 3 slots |
-| 75–51 | Pain-Dead; Corporal; 1 Flesh box; level 2 gear; 4 slots |
-| 50–26 | Borrowed Reflex; three half-pool rerolls each run |
-| 25–1 | Redundant Anatomy; Sergeant; 2 Flesh boxes; level 3 gear; 6 slots |
-| 0 | Battleborn; Burn boxes; Burn-Listed after the third later death |
+| 100–76 | Human; Private; level 1 gear; 3 slots                             |
+| 75–51 | Pain-Dead; Corporal; 1 Wound box; level 2 gear; 4 slots           |
+| 50–26 | Borrowed Reflex; one half-pool reroll each run                    |
+| 25–1 | Redundant Anatomy; Sergeant; 2 Wound boxes; level 3 gear; 6 slots |
+| 0 | Battleborn; Burn boxes; Burn-Listed after the third later death   |
 
 Apply identity erasure immediately when crossing a threshold. At 0 Humanity, replace the original name with a battlefield name.
 

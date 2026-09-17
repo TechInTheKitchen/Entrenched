@@ -9,7 +9,7 @@ Use [[Referee Lore Guide]] to reveal setting background through objects, repeate
 
 **Entrenched** is designed for **three to six sappers**. Three sappers create a desperate, fragile unit in which every death leaves the survivors exposed. Six give the unit more specialties and more hands for recovery, but allow the referee to use larger patrols, divided threats, and harder choices about who acts first.
 
-Do not scale every danger directly to unit size. The Western Front is not a balanced contest. Instead, adjust how many problems overlap. A small unit might meet one patrol near a minefield; a large unit might face the patrol while artillery begins walking toward them. Run ordinary soldiers as formations from [[Skill Checks and Combat]] so the larger fight remains quick.
+Do not scale every danger directly to unit size. The Western Front is not a balanced contest. Instead, adjust how many problems overlap. A small unit might meet one patrol near a minefield; a large unit might face the patrol while artillery begins walking toward them. Run ordinary soldiers as formations from [[Combat and Movement]] so the larger fight remains quick.
 
 ## Roll in the Open
 
@@ -115,11 +115,11 @@ Leaving a sapper behind is a last resort, not a routine between-run cleanup. If 
 > [!IMPORTANT] Keep the Dead Player Involved
 > When a sapper dies, keep that player involved in decisions about recovery, the map, and the remaining unit. If anyone survives, field revival can return the dead after the required full round. If everyone dies, move quickly to body recovery and reconstruction in the trench.
 
-Skill gained through revival represents a body learning under genuine battlefield pressure. If the unit plainly arranges a safe death only to harvest replacement ranks, apply the revival, Humanity loss, repair, and scar but grant no universal or replacement ranks. Do not use this rule against desperate sacrifices or risky plans; it exists to prevent the war from becoming a training exercise conducted on cooperative corpses.
+Skill ranks gained through revival represent a body learning under genuine battlefield pressure. If the unit plainly arranges a safe death only to harvest replacement ranks, apply the revival, Humanity loss, repair, and scar but grant no universal or replacement ranks. Do not use this rule against desperate sacrifices or risky plans; it exists to prevent the war from becoming a training exercise conducted on cooperative corpses.
 
 When a third Burn box is marked, announce that the body is Burn-Listed and show the anti-Battleborn response approaching. Give it a route, equipment, and enough time for the unit to attempt recovery. The hunters secure the corpse, prepare it, and then incinerate it; they do not erase it between sentences. Every death after the third draws the same response until the Battleborn is permanently destroyed.
 
-If a sapper is permanently lost while the operation continues, their player may create a new Private at the next trench return. The recruit receives the normal starting profile and the unit's map knowledge, but inherits none of the lost sapper's personal advancement. Until then, invite the player to portray a temporary recruit, an Allied corpse hound, or another willing player's intrusive donor memory.
+If a sapper is permanently lost while the operation continues, their player may create a new Private at the next trench return. The recruit receives the normal starting profile and the unit's map knowledge, but inherits none of the lost sapper's earned ranks. Until then, invite the player to portray a temporary recruit, an Allied corpse hound, or another willing player's intrusive donor memory.
 
 ## Trench Interludes
 
@@ -170,7 +170,7 @@ A run ends when the objective is complete, the entire unit is dead, or the survi
 Afterward:
 
 1. Resolve Butcher revival and Humanity loss.
-2. Record repairs, scars, skill gains, and promotions.
+2. Record repairs, scars, newly checked skill ranks, and promotions.
 3. Let the players update their map.
 4. Decide what the enemy learned and how it reacts.
 5. Present one brief trench detail.
@@ -198,3 +198,7 @@ Use [[Combat Checklist]], [[Movement and Exploration Checklist]], and [[Run Cycl
 - **Let knowledge matter.** A discovered route is progress even when everyone dies.
 - **Keep safety brief.** The trench offers recovery, not relief.
 - **Show the cost.** Every new ability should leave something human behind.
+
+---
+
+**Continue:** [[Mission Construction]] turns these principles into a playable operation.

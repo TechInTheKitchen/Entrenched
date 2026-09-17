@@ -44,3 +44,7 @@ The dead sapper's remaining name is written on flash paper and burned. Sometimes
 Any of these beliefs can motivate an NPC without being objectively correct.
 > [!NOTE] Related Records
 > [[Project Eisenseele]] · [[The First Sappers]] · [[The Butchers]]
+
+---
+
+**Next setting record:** [[The Enemy]].

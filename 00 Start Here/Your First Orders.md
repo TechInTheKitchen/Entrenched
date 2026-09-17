@@ -59,15 +59,15 @@ Choose one **Specialty**:
 - **Runner:** You cross exposed ground, carry orders, and reach bodies while recovery is still possible. Begin with Mobility 2.
 - **Rifleman:** You wait for a visible opening and kill at distance. Begin with Ranged 2.
 
-Your Specialty grants its Field Doctrine from [[Specialties and Field Doctrines]]. It is the work command assigns you first, not the limit of what your body may eventually learn.
+Your Specialty grants its Field Doctrine from [[Character Creation#Field Doctrines|Field Doctrines]]. It is the work command assigns you first, not the limit of what your body may eventually learn.
 
 The clerk directs you to three testing stations. Nobody asks what you enjoy. They ask what you can already do while frightened, exhausted, and observed.
 
-Assign **five additional skill ranks** among Ranged, Close Quarters, Awareness, Stealth, Engineering, Demolitions, Strength, and Mobility. Your Specialty already provides two ranks, giving you seven total. No skill may begin above rank 3.
+Assign **five additional skill ranks** among Ranged, Close Quarters, Awareness, Stealth, Engineering, Demolitions, Strength, and Mobility. Your Specialty already provides two ranks, giving you seven total. No skill may begin above rank 3. Check one box for each starting rank; later ranks fill more boxes on the same rows.
 
 When you finish, the clerk stamps the page:
 
-> PRIVATE — HUMANITY 100 — DEFENSE 1 — FLESH 0
+> PRIVATE — HUMANITY 100 — DEFENSE 1 — WOUNDS 0
 
 You are still entirely human. The regiment therefore expects a bullet to kill you quickly.
 
@@ -99,7 +99,7 @@ The revived sapper opens unmatching eyes and asks whether the red flag has risen
 
 The Butcher answers, "Not yet."
 
-This is what command means by recovery. When you die and enough of you remains, another sapper may perform a field revival under fire, or the Butchers may reconstruct you after the corpse hounds bring you home. You will return with every Flesh box cleared. You will also lose Humanity, replace parts of your body, gain skill from what was fitted to you, and perhaps carry a memory filled scar belonging to the donor.
+This is what command means by recovery. When you die and enough of you remains, another sapper may perform a field revival under fire, or the Butchers may reconstruct you after the corpse hounds bring you home. You will return with every Wound box cleared. You will also lose Humanity, replace parts of your body, gain skill from what was fitted to you, and perhaps carry a memory filled scar belonging to the donor.
 
 > [!NOTE] Loss on the battlefield
 > Nothing is erased neatly. Your sheet will be crossed out, overwritten, and drawn upon as your sapper changes. The body diagram is not decoration. It is the service record command trusts most.
@@ -117,7 +117,7 @@ Together, confirm that every sheet has:
 - One person, place, or belief that must not be forgotten
 - One Specialty and its Field Doctrine
 - Exactly seven starting skill ranks, with no skill above 3
-- Humanity 100, Defense 1, and no Flesh boxes
+- Humanity 100, Defense 1, and no Wound boxes
 - Three level 1 items, plus issued helmet and armor
 - An untouched body diagram and empty replacement record
 
@@ -142,3 +142,7 @@ Read [[Quick Reference]] or begin the briefing for [[Raise the Red Flag]]. When 
 You are no longer riding toward the Front.
 
 You are part of it.
+
+---
+
+**Continue:** [[Core Game Loop]] explains what happens after deployment. The referee can open [[Raise the Red Flag]] for the first operation.

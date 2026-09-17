@@ -60,3 +60,7 @@ First Sapper relics make useful operation hooks:
 Never settle every contradiction. The horror lies in the fact that revival works reliably while its origin remains fundamentally untrustworthy.
 > [!NOTE] Related Records
 > [[Project Eisenseele]] · [[187th Sappers Regiment]] · [[The Butchers]]
+
+---
+
+**Next setting record:** [[Project Eisenseele]].

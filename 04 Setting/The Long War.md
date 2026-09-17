@@ -59,3 +59,7 @@ The first four claims contain useful pieces of truth. No living officer can prov
 
 > [!NOTE] Related Records
 > [[The Allied Trench]] · [[No-Man's-Land]] · [[The Shifting Front]] · [[The Enemy]]
+
+---
+
+**Next setting record:** [[The Allied Trench]].

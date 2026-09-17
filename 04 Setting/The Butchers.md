@@ -79,6 +79,10 @@ Possible boundaries:
 9. The replacement part grips the table hard enough to crack it.
 10. The Butcher says, “This has rejected you before,” though the sapper has never seen it.
 
-The mechanical procedure for reconstruction is in [[Death and Rebirth]].
+The mechanical procedure for reconstruction is in [[Death and Revival]].
 > [!NOTE] Related Records
-> [[Death and Rebirth]] · [[Repair Table]] · [[Scar Table]] · [[Project Eisenseele]]
+> [[Death and Revival]] · [[Repairs and Scars#Repair Table|Repair Table]] · [[Repairs and Scars#Scar Table|Scar Table]] · [[Project Eisenseele]]
+
+---
+
+**Next setting record:** [[Corpse Hounds and Handlers]].

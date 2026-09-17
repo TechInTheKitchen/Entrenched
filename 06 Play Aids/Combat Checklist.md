@@ -1,6 +1,6 @@
 # Combat Checklist
 
-Keep this page beside the local combat map. Consult [[Skill Checks and Combat]] for the complete rules, [[Death and Rebirth]] for recovery, and [[Specialties and Field Doctrines]] for each sapper's doctrine.
+Keep this page beside the local combat map. Consult [[Combat and Movement]] for the complete rules, [[Death and Revival]] for recovery, and [[Character Creation#Field Doctrines|Field Doctrines]] for each sapper's doctrine.
 
 ## Start Combat
 
@@ -28,23 +28,24 @@ Keep this page beside the local combat map. Consult [[Skill Checks and Combat]] 
 
 1. State the action, target, danger, and Resistance or Defense.
 2. Build the pool: skill + one relevant item + modifiers.
-3. For cooperation, add only each trained helper's skill ranks; leading and helping each consume an action.
+3. For cooperation, add only each trained helper's checked skill ranks; leading and helping each consume an action.
 4. Roll d6s; every 6 is one success.
 5. Resistance 0 automatically succeeds; give the basic result and one additional finding per success, with no retaliation.
 6. For Resistance 1+ failure, allow Borrowed Reflex before resolving it.
 7. On success, complete the declared action.
 8. During combat, failure does not add immediate retaliation unless a specific rule says otherwise.
-9. Resolve Flesh, Dying or killing, a triggered scar-memory intrusion, equipment, Humanity, thresholds, then map changes.
+9. Resolve Wounds, Dying or killing, a triggered scar-memory intrusion, equipment, Humanity, thresholds, then map changes.
 
 **Bought Knowledge applies automatically only outside combat.** A failed combat action grants it only when an attack, hazard, emplacement, or operation explicitly says that failure reveals something. Visible enemy actions still reveal their ordinary positions and behavior.
 
 ## Lethal Hits
 
-- Empty Flesh box: mark it; the sapper is Wounded.
-- No empty Flesh box: the sapper is Dying.
+- Empty Wound box: mark it; the sapper is Wounded.
+- No empty Wound box: the sapper is Dying.
 - Dying: one Last Action on their next sapper turn, then death.
 - Another lethal hit or an explicit **killed** effect ends a Dying sapper immediately.
-- Each marked Flesh box removes 1 die; pools never fall below one die from wounds.
+- Each marked Wound box removes 1 die; pools never fall below one die from wounds.
+- Place one red paper clip at a gained Wound spot for each marked box; remove it when that wound clears. Ungained spots cannot absorb hits.
 
 ## Multiple Targets
 
@@ -59,7 +60,7 @@ Keep this page beside the local combat map. Consult [[Skill Checks and Combat]] 
 - No roll is required. The reviver spends their full turn and remains through the enemy turn.
 - Death or forced movement interrupts the attempt.
 - The revived sapper returns at the beginning of the next sapper turn.
-- Clear every marked Flesh box; the revived sapper may act normally that turn.
+- Remove every Wound clip to clear the boxes; the revived sapper may act normally that turn.
 
 ## Retreat
 

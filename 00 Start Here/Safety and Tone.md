@@ -57,3 +57,7 @@ Take a few minutes to leave the trench behind. Ask:
 - Does anyone want a boundary changed?
 
 Boundaries may change between or during sessions. Agreement at the beginning is not permanent consent.
+
+---
+
+**Continue:** [[Your First Orders]] introduces the unit in play. [[Entrenched|Return to the reading routes]].

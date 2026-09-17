@@ -75,3 +75,7 @@ Choose one between runs:
 
 > [!NOTE] Related Records
 > [[187th Sappers Regiment]] · [[The Butchers]] · [[Faith of the Final Trench]]
+
+---
+
+**Next setting record:** [[187th Sappers Regiment]].

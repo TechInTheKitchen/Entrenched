@@ -1,6 +1,6 @@
 # Core Game Loop
 
-Use [[Skill Checks and Combat]] when danger requires exact actions or a safe analysis check measures what the unit learns, [[Retaliation Tables]] when dangerous failure changes the battlefield, and [[Death and Rebirth]] when a sapper falls.
+Use [[Skill Checks and Exploration]] and [[Combat and Movement]] when danger requires exact actions or a safe analysis check measures what the unit learns, [[Retaliation Tables]] when dangerous failure changes the battlefield, and [[Death and Revival]] when a sapper falls.
 
 ## The Shape of a Run
 
@@ -46,7 +46,7 @@ Information survives even when the sappers who discovered it do not. The marked 
 
 The operation map records position and discovery; it is not a board on which every quiet step must be counted. Outside immediate danger, move the unit between meaningful locations, obstacles, and decisions. Crossing a known safe route needs no roll and may cover many squares at once.
 
-Count exact squares only when position matters: during combat, pursuit, a timed hazard, or movement across dangerous ground. In those moments, use the movement rules in [[Skill Checks and Combat]]. When immediate danger ends, return to location-to-location movement.
+Count exact squares only when position matters: during combat, pursuit, a timed hazard, or movement across dangerous ground. In those moments, use the movement rules in [[Combat and Movement]]. When immediate danger ends, return to location-to-location movement.
 
 This distinction keeps a long paper map useful without turning every crossing into dozens of movement actions.
 
@@ -58,7 +58,7 @@ Most discoveries remain reliable for the entire operation. Cleared mines, destro
 
 No-man's-land never waits quietly. When a sapper fails a Resistance 1 or higher check, the enemy retaliates or the battlefield turns against the unit. A failed dangerous check should create immediate danger rather than halt progress. Resistance 0 checks automatically succeed and do not retaliate; they measure how much useful information or material a sapper extracts from a safe opportunity.
 
-Failure also buys knowledge. After resolving non-combat retaliation, reveal one concrete truth exposed by the mistake and add it to the shared map. The unit pays in blood, position, or equipment, but the battlefield becomes more legible. See [[Skill Checks and Combat#Bought Knowledge|Bought Knowledge]] for the complete procedure.
+Failure also buys knowledge. After resolving non-combat retaliation, reveal one concrete truth exposed by the mistake and add it to the shared map. The unit pays in blood, position, or equipment, but the battlefield becomes more legible. See [[Skill Checks and Exploration#Bought Knowledge|Bought Knowledge]] for the complete procedure.
 
 Retaliation may include:
 
@@ -72,15 +72,15 @@ Retaliation may include:
 
 Retaliation may threaten the sapper who failed, another exposed sapper, or the whole unit, depending on what is happening in the fiction.
 
-Retaliation is intentionally lethal. Combat attacks that meet Defense inflict lethal hits, marking available Flesh boxes before leaving a sapper Dying. Non-combat dangers may mark Flesh or explicitly kill when the consequence is overwhelming. Careful choices, equipment, and accumulated knowledge improve the sappers' chances, but no route through no-man's-land is safe.
+Retaliation is intentionally lethal. Combat attacks that meet Defense inflict lethal hits, marking available Wound boxes before leaving a sapper Dying. Non-combat dangers may mark a Wound box or explicitly kill when the consequence is overwhelming. Careful choices, equipment, and accumulated knowledge improve the sappers' chances, but no route through no-man's-land is safe.
 
 ## Death in the Field
 
-If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper to play during the same run with every Flesh box cleared, but leaves permanent scars. Scars accumulate on the record; before each run, no more than three are Active and able to provide their adaptations. Every scar retains a donor memory that can overwrite what remains of the sapper's former life.
+If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper to play during the same run with every Wound box cleared, but leaves permanent scars. Scars accumulate on the record; before each run, no more than three are Active and able to provide their adaptations. Every scar retains a donor memory that can overwrite what remains of the sapper's former life.
 
 The unit succeeds and fails together. A body is not dragged during play. Survivors must field-revive a fallen sapper before retreating with them. Any body left behind is abandoned to corpse hounds, enemy recovery, or the battlefield and is resolved after the run. When a fallen or captured sapper can still be recovered, their location or route remains on the map and the unit receives a dangerous opportunity to bring them back. No sapper is left in no-man's-land lightly.
 
-If the entire unit dies, corpse hounds or recovery details eventually return the bodies to the Allied trench. The Butchers rebuild them there, and the next run begins after their revival.
+If the entire unit dies, corpse hounds or recovery details eventually return the bodies to the Allied trench. The Butchers rebuild them there, and the next run begins after their revival. See [[Death and Revival]] for both recovery paths.
 
 ## Humanity in War
 
@@ -88,7 +88,7 @@ Every sapper tracks Humanity separately, beginning at 100. Revival costs Humanit
 
 As Humanity falls, the sapper becomes more capable and less recognizably human. Their replacements, scars, instincts, and altered behavior record the price of every run. This transformation is useful to the mission: the sappers most suited to the worst dangers are those closest to losing themselves.
 
-At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every death suffered after awakening at 0 Humanity marks one of three Burn boxes. The death whose revival first reduces them to 0 marks none. At three marked boxes the body is Burn-Listed: every subsequent death draws an anti-Battleborn section carrying restraints, phosphorus, and orders to leave no recoverable tissue.
+At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every death suffered after awakening at 0 Humanity marks one of three Burn boxes. The death whose revival first reduces them to 0 marks none. At three marked boxes the body is Burn-Listed: every subsequent death draws an anti-Battleborn section carrying restraints, phosphorus, and orders to leave no recoverable tissue. See [[Humanity and Battleborn]] for the thresholds and full Burn procedure.
 
 The operation has no arbitrary deadline. Its pressure is visible instead: Allied assault troops gather behind the parapet, guns register their targets, stretchers are stacked, and officers wait for the unit's signal. The Referee shows that readiness after every cycle. The soldiers may wait for the red flag, but the waiting must feel expensive.
 
@@ -123,7 +123,7 @@ Readiness creates obligation, not a timer. Do not punish deliberate reconnaissan
 1. Preserve discoveries, cleared obstacles, destroyed positions, and abandoned equipment on the map.
 2. Remove temporary smoke, fire, and other short-lived effects.
 3. Resolve abandoned bodies and every Butcher reconstruction.
-4. Record Humanity loss, repairs, scars, skill gains, promotions, Flesh, and Burn.
+4. Record Humanity loss, repairs, scars, newly checked skill ranks, promotions, Wounds, and Burn.
 5. Decide what the enemy observed and choose one or two logical responses.
 6. Replace and refill level 1 gear, account for scarce level 2 and priority level 3 supplies, and outfit every sapper.
 7. Refresh per-run abilities, choose up to three Active scars for each sapper, and note scar-memory triggers that may matter on the next route.
@@ -137,5 +137,9 @@ The cycle ends only in mission success or the permanent destruction of the unit.
 - **Failure changes the situation.** It never produces a harmless dead end.
 - **Knowledge outlives the body.** Exploration and mapmaking make later runs possible.
 - **Nobody is disposable.** Recovery keeps the unit together and preserves its accumulated experience.
-- **Death under orders is advancement.** A genuine battlefield death may teach the reconstructed body. A staged death grants no skill ranks and still costs Humanity.
+- **Death under orders changes the body.** A genuine battlefield death may teach the reconstructed body new skill ranks. A staged death grants no ranks and still costs Humanity.
 - **Power brings final death closer.** The most capable sapper is often the one with the fewest lives left.
+
+---
+
+**Continue:** [[Skill Checks and Exploration]] explains the dice and dangerous choices; [[Combat and Movement]] follows with position, wounds, and fighting.

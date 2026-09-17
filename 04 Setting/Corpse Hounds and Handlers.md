@@ -124,4 +124,8 @@ See [[Enemies and Monsters#Feral Corpse Hound|Feral Corpse Hound]] for its battl
 >Speak plainly and use names. A handler has seen too much anatomy to be impressed by gore. What unsettles them is uncertainty: a scent that divides, a body that remembers the wrong kennel, or a hound wagging its tail for someone officially dead.
 
 >[!note] **Related Records**
->[[Death and Rebirth]] · [[The Allied Trench]] · [[The Butchers]] · [[187th Sappers Regiment]]
+>[[Death and Revival]] · [[The Allied Trench]] · [[The Butchers]] · [[187th Sappers Regiment]]
+
+---
+
+**Next setting record:** [[Faith of the Final Trench]].

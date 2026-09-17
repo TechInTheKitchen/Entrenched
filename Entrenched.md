@@ -6,73 +6,39 @@ The players are fresh recruits assigned to the [[187th Sappers Regiment]]. They 
 
 Death makes a sapper more capable. It also consumes Humanity. Battleborn bodies eventually become Burn-Listed, drawing specialist enemy sections whose orders are to pin the remains and erase every recoverable trace.
 
-## Start Here
+## Choose a Route
 
-### Players
+The links in these routes are the main way through the manual. The alphabetical table of contents is a shelf for finding a specific record, not a required reading order.
 
-1. Read [[Safety and Tone]].
-2. Enter the regiment through [[Your First Orders]], which guides the group through the setting and character creation in play.
-3. Use [[Character Creation]] for the complete creation rules, including a [[Specialties and Field Doctrines|Field Doctrine]], or choose one from [[Example Sappers]].
-4. Learn the full operation cycle in [[Core Game Loop]].
-5. Keep [[Quick Reference]] open during play.
+### First Session: Read and Play
 
-### Referees
+1. Agree on boundaries in [[Safety and Tone]].
+2. Read [[Your First Orders]] aloud and create the unit as the recruits arrive. Open [[Character Creation]] when a choice needs its full rule, or use [[Example Sappers]].
+3. The referee briefs [[Raise the Red Flag]]. Keep [[Quick Reference]] and the [[Run Cycle Checklist]] beside the map.
 
-1. Read [[Safety and Tone]], [[Core Game Loop]], and [[Referee Guide]].
-2. Use [[Mission Construction]] to prepare an operation, or begin with [[Raise the Red Flag]].
-3. Keep [[Retaliation Tables]], [[Enemies and Monsters]], and [[Stationary Defenses]] available during play.
-4. Keep [[Combat Checklist]], [[Movement and Exploration Checklist]], and [[Run Cycle Checklist]] beside the map.
-5. Use [[Referee Lore Guide]] and the setting notes for flavor and gradual revelations.
+You can begin play here. Follow the rules links when a situation calls for them.
+
+### Complete Player Rules
+
+Read [[Character Creation]] (including [[Character Creation#Field Doctrines|Field Doctrines]]) → [[Core Game Loop]] → [[Skill Checks and Exploration]] → [[Combat and Movement]] → [[Equipment]] → [[Death and Revival]] → [[Humanity and Battleborn]] → [[Repairs and Scars]]. Finish with [[Quick Reference]] as a table aid, not another chapter.
+
+### Referee Preparation
+
+Read [[Referee Guide]] → [[Mission Construction]] → [[Raise the Red Flag]]. Use [[Referee Lore Guide]] to seed discoveries and [[Changing Ground]] when the map changes. Keep [[Retaliation Tables]], [[Enemies and Monsters]], [[Stationary Defenses]], [[Combat Checklist]], and [[Movement and Exploration Checklist]] available for live play.
+
+### Setting Dossiers
+
+The setting records are for referee preparation and for players who enjoy browsing revealed lore. They are not prerequisites for the first operation. A natural route is [[The Long War]] → [[The Allied Trench]] → [[187th Sappers Regiment]] → [[No-Man's-Land]] → [[The Shifting Front]] → [[The First Sappers]] → [[Project Eisenseele]] → [[The Butchers]] → [[Corpse Hounds and Handlers]] → [[Faith of the Final Trench]] → [[The Enemy]].
 
 ## Vault Structure
 
-- **00 Start Here:** Quick-reference and table-safety material
+- **00 Start Here:** Safety, induction, and quick-reference material
 - **01 Core Rules:** Player rules, character rules, death, repair, scars, and equipment
 - **02 Referee:** Procedures for running operations, retaliation, and horror
 - **03 Operations:** Ready-to-run operations
 - **04 Setting:** The Long War, factions, institutions, and battlefield lore
 - **05 Bestiary:** Enemy profiles and monsters
 - **06 Play Aids:** Pregenerated characters and printable checklists for live play
-
-## Core Rules
-
-- [[Quick Reference]]
-- [[Core Game Loop]]
-- [[Character Creation]]
-- [[Specialties and Field Doctrines]]
-- [[Skill Checks and Combat]]
-- [[Death and Rebirth]]
-- [[Repair Table]]
-- [[Scar Table]]
-- [[Equipment]]
-- [[Enemies and Monsters]]
-- [[Stationary Defenses]]
-
-## Running the Game
-
-- [[Safety and Tone]]
-- [[Referee Guide]]
-- [[Referee Lore Guide]]
-- [[Mission Construction]]
-- [[Retaliation Tables]]
-- [[Raise the Red Flag]]
-- [[Example Sappers]]
-- [[Combat Checklist]]
-- [[Movement and Exploration Checklist]]
-- [[Run Cycle Checklist]]
-
-## Setting and Lore
-
-- [[The Long War]] — Thirty-seven years of permanent mobilization
-- [[The Allied Trench]] — Daily life, discipline, and the society beneath the firing step
-- [[187th Sappers Regiment]] — The players' unit, customs, and command
-- [[The First Sappers]] — The contradictory origin of Allied reconstruction
-- [[Project Eisenseele]] — Revival, Black Matter, and the other side
-- [[The Butchers]] — The surgeons who return the dead to duty
-- [[Faith of the Final Trench]] — State religion, rites, and heresies
-- [[No-Man's-Land]] — The accumulated geography of war and unlife
-- [[The Shifting Front]] — Buried towns, changing ground, and what bombardment uncovers
-- [[The Enemy]] — Propaganda, enemy reconstruction, and the mirror across the wire
 
 ## The Referee's Central Principle
 
