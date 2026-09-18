@@ -26,7 +26,9 @@
       if(!mediaPattern.test(source))return label?.trim()||source;
       return `![${label?.trim()||source.split("/").pop()}](<${source}>)`;
     });
-    return embeds.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g, (_, target, heading, label) => {
+    const localHeadings = embeds.replace(/\[\[#([^\]|]+)(?:\|([^\]]+))?\]\]/g, (_, heading, label) =>
+      `[${label?.trim() || heading.trim()}](#${slugify(heading)})`);
+    return localHeadings.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?(?:\|([^\]]+))?\]\]/g, (_, target, heading, label) => {
       const title = target.trim(); const found = findPage(title);
       if (!found) return label?.trim() || title;
       return `[${label?.trim() || title.replace(/\.(?:md|pdf)$/i, "")}](${hrefFor(found.path)}${heading ? `#${slugify(heading)}` : ""})`;
