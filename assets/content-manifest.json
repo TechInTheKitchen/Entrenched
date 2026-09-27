@@ -1,13 +1,19 @@
 [
     {
+        "title":  "The Enemy",
+        "path":  "04 Setting/The Enemy.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
         "title":  "The Butchers",
         "path":  "04 Setting/The Butchers.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
     {
-        "title":  "The Allied Trench",
-        "path":  "04 Setting/The Allied Trench.md",
+        "title":  "The Long War",
+        "path":  "04 Setting/The Long War.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -18,32 +24,8 @@
         "type":  "markdown"
     },
     {
-        "title":  "The Enemy",
-        "path":  "04 Setting/The Enemy.md",
-        "folder":  "04 Setting",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Project Eisenseele",
-        "path":  "04 Setting/Project Eisenseele.md",
-        "folder":  "04 Setting",
-        "type":  "markdown"
-    },
-    {
-        "title":  "Corpse Hounds and Their Handlers",
-        "path":  "04 Setting/Corpse Hounds and Handlers.md",
-        "folder":  "04 Setting",
-        "type":  "markdown"
-    },
-    {
-        "title":  "187th Sapper Regiment",
-        "path":  "04 Setting/187th Sappers Regiment.md",
-        "folder":  "04 Setting",
-        "type":  "markdown"
-    },
-    {
-        "title":  "No-Man\u0027s-Land",
-        "path":  "04 Setting/No-Man\u0027s-Land.md",
+        "title":  "The Allied Trench",
+        "path":  "04 Setting/The Allied Trench.md",
         "folder":  "04 Setting",
         "type":  "markdown"
     },
@@ -54,14 +36,32 @@
         "type":  "markdown"
     },
     {
+        "title":  "Corpse Hounds and Their Handlers",
+        "path":  "04 Setting/Corpse Hounds and Handlers.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "Project Eisenseele",
+        "path":  "04 Setting/Project Eisenseele.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
+        "title":  "No-Man\u0027s-Land",
+        "path":  "04 Setting/No-Man\u0027s-Land.md",
+        "folder":  "04 Setting",
+        "type":  "markdown"
+    },
+    {
         "title":  "Example Sappers",
         "path":  "06 Play Aids/Example Sappers.md",
         "folder":  "06 Play Aids",
         "type":  "markdown"
     },
     {
-        "title":  "Entrenched Character Sheet",
-        "path":  "06 Play Aids/Entrenched Character Sheet.pdf",
+        "title":  "Entrenched Complete Rulebook",
+        "path":  "06 Play Aids/Entrenched Complete Rulebook.pdf",
         "folder":  "06 Play Aids",
         "type":  "pdf"
     },
@@ -78,9 +78,15 @@
         "type":  "markdown"
     },
     {
-        "title":  "Combat Checklist",
-        "path":  "06 Play Aids/Combat Checklist.md",
+        "title":  "Entrenched Character Sheet",
+        "path":  "06 Play Aids/Entrenched Character Sheet.pdf",
         "folder":  "06 Play Aids",
+        "type":  "pdf"
+    },
+    {
+        "title":  "Enemy Forces and Battlefield Horrors",
+        "path":  "05 Bestiary/Enemies and Monsters.md",
+        "folder":  "05 Bestiary",
         "type":  "markdown"
     },
     {
@@ -90,9 +96,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "The Long War",
-        "path":  "04 Setting/The Long War.md",
-        "folder":  "04 Setting",
+        "title":  "Combat Checklist",
+        "path":  "06 Play Aids/Combat Checklist.md",
+        "folder":  "06 Play Aids",
         "type":  "markdown"
     },
     {
@@ -102,9 +108,9 @@
         "type":  "markdown"
     },
     {
-        "title":  "Enemy Forces and Battlefield Horrors",
-        "path":  "05 Bestiary/Enemies and Monsters.md",
-        "folder":  "05 Bestiary",
+        "title":  "187th Sapper Regiment",
+        "path":  "04 Setting/187th Sappers Regiment.md",
+        "folder":  "04 Setting",
         "type":  "markdown"
     },
     {
