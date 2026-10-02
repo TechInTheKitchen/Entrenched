@@ -41,7 +41,7 @@ Before play, draw or place the features that will remain stable throughout the o
 - Enemy trench lines and permanent fortifications
 - Several possible approaches to the objective
 
-At least one operation in a ruined settlement should offer a hollow route through connected cellars, drains, buried alleys, or gaps beneath burnt foundations. Put its confirmed entrances on the referee's map and decide what surface obstacle it bypasses, what signs reveal it, what danger occupies or destabilizes it, and how another exit might be uncovered. Use [[Changing Ground]] for travel and revelation guidance, and [[The Shifting Front#The Hollows Beneath the Ruins|The Hollows Beneath the Ruins]] for the setting detail.
+For an operation set in a ruined settlement, include at least one hollow route through connected cellars, drains, buried alleys, or gaps beneath burnt foundations. Put its confirmed entrances on the referee's map and decide what surface obstacle it bypasses, what signs reveal it, what danger occupies or destabilizes it, and how another exit might be uncovered. Use [[Changing Ground]] for travel and revelation guidance, and [[The Shifting Front#The Hollows Beneath the Ruins|The Hollows Beneath the Ruins]] for the setting detail.
 
 Build pillboxes, projectors, and other fixed weapons using [[Stationary Defenses]]. Their coverage and triggers belong on the referee's map. Give every emplacement visible evidence, blind ground, and several ways to create an opening rather than treating it as an enemy with a larger Defense.
 

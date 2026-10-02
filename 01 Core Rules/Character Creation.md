@@ -27,7 +27,7 @@ Record the person who entered service:
 - A memory of life before the war
 - A person, place, or belief they must not forget
 
-Use ink. During play, Humanity rules will require the player to obscure and overwrite this information with a dark marker. Never erase it cleanly.
+Use ink, or the overlays, sticky notes, or photocopies described in [[Safety and Tone#Character Control|Safety and Tone]]. During play, Humanity rules require the player to obscure and overwrite this information. Preserve traces of the earlier record rather than erasing it cleanly.
 
 ## 2. Choose a Specialty
 
@@ -107,7 +107,7 @@ Every square crossed must bring the Runner closer by a viable route, and the mov
 
 ### Rifleman: Wait for the Opening
 
-The Rifleman may spend an action aiming at one visible position, route, or opening. Mark the Rifleman as **Aimed**. Their next Ranged attack against a target in that position reduces that target's Defense by 1, to a minimum of 1.
+The Rifleman may spend an action aiming at one visible position, route, or opening. Mark the Rifleman as **Aimed**. Their next Ranged attack against a target in that position reduces that target's Defense by 1, to a minimum of 1. After resolving that attack, remove Aimed whether it succeeds or fails.
 
 Unlike other doctrines, Wait for the Opening has no per-run limit because aiming costs an action. The Rifleman ceases to be Aimed if they move, attack another target, lose sight of the chosen position, or become Dying. The doctrine cannot attack an unseen target, ignore range, or bypass the Protection of a stationary defense. It may exploit an Opening that the unit has already created.
 
@@ -169,7 +169,7 @@ Use the sheet's Wound spaces to show how many boxes the sapper has gained, and r
 
 ## 6. Choose Equipment
 
-Choose equipment from the [[Equipment]]. A sapper may choose items up to their rank's equipment level and may carry no more items than their available slots.
+Choose items from [[Equipment]]. A sapper may choose items up to their rank's equipment level and may carry no more items than their available slots.
 
 Armor, weapons, tools, explosives, and specialized supplies normally consume one slot each unless their description says otherwise. The issued helmet and basic armor do not consume slots.
 
@@ -193,8 +193,8 @@ Before play, confirm that the sheet shows:
 - One specialty and exactly seven total skill ranks
 - Private rank, 100 Humanity, and Defense 1
 - Three level 1 equipment choices
-- Issued helmet and basic armor, which use no equipment slots
-- No Wounds, or Burn marked yet
+- Issued helmet, basic armor, respirator, map case, and grease pencil, which use no equipment slots
+- No Wound or Burn boxes marked
 
 Leave all ten zones of the body diagram and the replacement record untouched. They belong to the sapper's deaths, not their creation.
 

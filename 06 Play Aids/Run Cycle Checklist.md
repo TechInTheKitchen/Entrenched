@@ -16,7 +16,7 @@ Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the 
 2. **Outfitting:** Assign each item to one bearer.
 3. **Deployment:** Begin at the Allied trench and cross known safe ground quickly.
 4. **Discovery:** Reveal essential facts freely; use Resistance 0 when a safe check measures additional findings.
-5. **Retaliation:** Make Resistance 1+ failure immediate, dangerous, and consequential, then mark one Bought Knowledge truth. Resistance 0 never retaliates.
+5. **Retaliation:** Outside combat, resolve one immediate consequence for Resistance 1+ failure, then mark one Bought Knowledge truth. During combat, the enemy turn is the retaliation unless a specific rule says otherwise. Resistance 0 never retaliates.
 6. **Recovery:** Field-revive fallen sappers or decide what bodies must be abandoned.
 7. **Retreat or Objective:** Return to the trench or complete the operation.
 
@@ -30,7 +30,7 @@ Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the 
 - Record replacement parts, scars, newly checked skill ranks, military rank, Wounds, and Burn.
 - If a death was staged solely to gain ranks, grant no universal or replacement ranks.
 - Decide what the enemy observed and choose one or two logical reactions.
-- If a third Burn box was marked, place and telegraph an approaching anti-Battleborn section.
+- Track any anti-Battleborn section already dispatched when the third Burn box was marked or a later death occurred; do not delay its dispatch until between runs.
 - Replace and refill level 1 gear; account separately for scarce level 2 and priority level 3 items and consumables.
 - Assign items to bearers, refresh per-run abilities, and mark no more than three scars Active for each sapper. Do not refill scarce consumables unless supply is available.
 - Mark recoverable bodies, captives, enemy routes, and the next opportunity to bring them home.

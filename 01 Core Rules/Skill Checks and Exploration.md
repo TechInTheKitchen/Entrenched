@@ -44,7 +44,7 @@ The referee tells the players the Resistance before they commit to an action whe
 
 If the roll meets or exceeds the Resistance, the sapper accomplishes what they attempted. Extra successes do not normally create a greater effect unless a rule or piece of equipment says otherwise.
 
-If a Resistance 1 or higher roll fails, the enemy or battlefield immediately retaliates. The action does not succeed, and the referee introduces a consequence that follows from the danger: incoming fire, a mine detonation, an alerted patrol, lost equipment, collapsing cover, or another lethal development. Resistance 0 checks cannot fail and never retaliate.
+Outside combat, if a Resistance 1 or higher roll fails, the enemy or battlefield immediately retaliates. During combat, the enemy acts on its normal turn unless a specific rule calls for an additional retaliation. The action does not succeed, and the referee introduces a consequence that follows from the danger: incoming fire, a mine detonation, an alerted patrol, lost equipment, collapsing cover, or another lethal development. Resistance 0 checks cannot fail and never retaliate.
 
 Retaliation may threaten the acting sapper, another exposed sapper, or the entire unit. The fiction determines who is in danger.
 

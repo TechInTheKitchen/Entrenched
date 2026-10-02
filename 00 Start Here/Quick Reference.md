@@ -14,7 +14,7 @@
 2. A sapper with no checked ranks in that skill starts with 1 die before equipment.
 3. Count every 6 as one success.
 4. Meet or exceed Resistance to succeed.
-5. Failure at Resistance 1 or higher does not complete the action and triggers retaliation.
+5. Failure at Resistance 1 or higher does not complete the action. Outside combat it triggers immediate retaliation; during combat the enemy turn is the retaliation unless a specific rule says otherwise.
 
 Resistance 0 checks automatically succeed and never retaliate. Give the basic result, then add one useful detail, option, or resource for each success rolled.
 
@@ -49,11 +49,11 @@ During danger, movement is **2 + checked Mobility ranks**, maximum 12 squares. O
 
 A weapon adds its level only at its listed range. A target that cannot be seen cannot be attacked.
 
-If one side is undetected when combat begins, it is Surprised for the first round: −1 Defense, minimum 1. The Choir Gun protects its bearer from this penalty against a visible Far enemy.
+If one side has not detected the other when combat begins, the unaware side is Surprised for the first round: −1 Defense, minimum 1. The Choir Gun protects its bearer from this penalty against a visible Far enemy.
 
 ## Attacks, Defense, and Wounds
 
-Roll combat skill + weapon. If successes meet Defense, inflict a **lethal hit**.
+Roll combat skill + weapon. If successes meet Defense, inflict a **lethal hit**. Base Defense is 1 at 100–75 Humanity and 2 at 74–0; improved armor sets a minimum Defense.
 
 - If the target has an empty Wound box, mark it.
 - If no Wound box is empty, a sapper becomes **Dying**. On their next turn they take one Last Action, then die.
@@ -106,11 +106,11 @@ Apply identity erasure immediately when crossing a threshold. At 0 Humanity, rep
 
 ## Scars and Battleborn
 
-Scars accumulate permanently. Before each run, mark no more than three as Active; only those three grant passive adaptations. All scars may still intrude through borrowed memories. Identical adaptations do not stack, and only the single best scar can affect one roll or attack.
+Scars accumulate permanently. Before each run, mark no more than three as Active; only Active scars grant passive adaptations. A newly gained scar fills an empty Active slot immediately; existing choices change only between runs. All scars may still intrude through borrowed memories. Identical adaptations do not stack, and only the single best scar can affect one roll or attack.
 
-When a borrowed echo's trigger becomes immediate, the player may yield by briefly showing the reaction and overwriting one written memory detail, or resist and lose 1 Humanity. Only one intrusion exacts a cost from that sapper each run.
+When a borrowed echo's trigger becomes immediate, the player may yield by briefly showing the reaction and overwriting one written memory detail, or resist and lose 1 Humanity. Only one intrusion exacts a cost from that sapper each run, and none can exact a cost after that sapper has suffered an incidental Humanity loss.
 
-Every death suffered after awakening at 0 Humanity marks one Burn box. The death whose revival first reaches 0 marks none. At three marked boxes the body becomes Burn-Listed and every later death draws an anti-Battleborn extermination section. A Battleborn may revive unaided over three complete turns, but must do so before the hunters pin and incinerate the remains. Capture or complete incineration is permanent destruction.
+Every death suffered after awakening at 0 Humanity marks one Burn box. The death whose revival first reaches 0 marks none. The death that marks the third Burn box makes the body Burn-Listed and draws an anti-Battleborn extermination section. Every death afterward draws another section. A Battleborn may revive unaided over three complete turns, but must do so before the hunters pin and incinerate the remains. Capture fills all remaining Burn boxes and draws an extermination section. The sapper remains recoverable until completely incinerated or otherwise made permanently unrecoverable.
 
 The enemy normally attempts capture for study only when a sapper has 25 Humanity or less, extensive visible reconstruction, or level 3 equipment. Mark captives and likely routes on the map and provide a rescue opportunity whenever possible. A permanently lost sapper may be replaced by a new Private at the next trench return.
 

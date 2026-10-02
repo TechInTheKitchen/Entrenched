@@ -12,7 +12,7 @@ Every revival replaces something that could not be saved. Roll two ordinary six-
 - The **Source Die** determines where the replacement came from.
 
 > [!TIP] Reading Matching Dice
-> Different-colored dice are convenient, but not required. If the dice match, roll the Body Die first and the Source Die second. Do not add them together. The result is a combination, not a total, so all 36 pairings are equally likely.
+> Different-colored dice are convenient, but not required. If the dice look alike, roll them one at a time: first the Body Die, then the Source Die. Do not add them together. The result is a combination, not a total, so all 36 pairings are equally likely.
 
 Record the body zone, exact donor, and visible alteration on the sapper's replacement record. A legitimate battlefield revival also grants 1 universal skill rank as described in [[Death and Revival]]. The body result grants additional ranks, and Black Matter occasionally grants one more. A qualifying revival therefore grants an average of approximately 2.8 total skill ranks. A death deliberately staged to gain ranks grants none of them; the repair and every other consequence still occur.
 
@@ -107,9 +107,9 @@ If the same scar is rolled again, keep it and describe how the existing alterati
 
 ### Active Scars and Borrowed Memories
 
-Scars accumulate permanently, but a reconstructed body can express only a few adaptations coherently. At the beginning of each run, after outfitting, the player marks up to **three scars as Active**. Only Active scars provide their passive adaptations during that run. A sapper with three or fewer scars treats all of them as Active.
+Scars accumulate permanently, but a reconstructed body can express only a few adaptations coherently. At the beginning of each run, after outfitting, the player marks up to **three scars as Active**. Only Active scars provide their passive adaptations during that run. A sapper with three or fewer scars treats all of them as Active. A newly gained scar becomes Active immediately if fewer than three scars are Active; otherwise it remains inactive until the next run.
 
-Inactive scars remain visible. Their donor memories, sensations, and triggers still exist, and the Referee may call for an intrusion from any scar. The body simply cannot turn every accumulated defect into a useful response at once. Change the three Active scars only between runs, when the body has been rested, opened, and bound into a different working arrangement.
+Inactive scars remain visible. Their donor memories, sensations, and triggers still exist, and the Referee may call for an intrusion from any scar. The body simply cannot turn every accumulated defect into a useful response at once. Apart from filling an empty Active slot with a newly gained scar, change Active scars only between runs, when the body has been rested, opened, and bound into a different working arrangement.
 
 Every scar has two connected parts:
 
@@ -123,7 +123,7 @@ The first time during a run that a scar's trigger becomes immediate and conseque
 - **Yield:** Show a brief involuntary reaction suggested by the scar, then obscure the listed word, name, or concrete detail in the sapper's written memories and replace it with the donor memory.
 - **Resist:** Preserve the written memory and keep control, but lose 1 Humanity unless the scar states a greater cost.
 
-An intrusion may interrupt a gesture, sentence, or moment of attention, but never consumes an entire turn, dictates a lethal action, or decides the sapper's loyalties. The player decides the precise reaction. Only one memory intrusion can exact a written-memory or Humanity cost from a sapper during each run. Later triggers may color narration without imposing another cost. Humanity lost by resisting counts as the sapper's one incidental Humanity-loss event for that run.
+An intrusion may interrupt a gesture, sentence, or moment of attention, but never consumes an entire turn, dictates a lethal action, or decides the sapper's loyalties. The player decides the precise reaction. Only one memory intrusion can exact a written-memory or Humanity cost from a sapper during each run. Later triggers may color narration without imposing another cost. Humanity lost by resisting counts as the sapper's one incidental Humanity-loss event for that run. If that allowance was already used, a later intrusion cannot demand either memory erasure or Humanity; its trigger may only color narration. Yielding uses the intrusion allowance but leaves the incidental Humanity-loss allowance available.
 
 ### Weighted Scar Table
 

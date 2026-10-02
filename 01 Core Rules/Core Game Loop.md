@@ -56,7 +56,7 @@ Most discoveries remain reliable for the entire operation. Cleared mines, destro
 
 ## Failure Draws Fire
 
-No-man's-land never waits quietly. When a sapper fails a Resistance 1 or higher check, the enemy retaliates or the battlefield turns against the unit. A failed dangerous check should create immediate danger rather than halt progress. Resistance 0 checks automatically succeed and do not retaliate; they measure how much useful information or material a sapper extracts from a safe opportunity.
+No-man's-land never waits quietly. Outside combat, when a sapper fails a Resistance 1 or higher check, the enemy retaliates or the battlefield turns against the unit. During combat, the enemy turn is the retaliation unless a specific rule says otherwise. A failed dangerous check should create immediate danger rather than halt progress. Resistance 0 checks automatically succeed and do not retaliate; they measure how much useful information or material a sapper extracts from a safe opportunity.
 
 Failure also buys knowledge. After resolving non-combat retaliation, reveal one concrete truth exposed by the mistake and add it to the shared map. The unit pays in blood, position, or equipment, but the battlefield becomes more legible. See [[Skill Checks and Exploration#Bought Knowledge|Bought Knowledge]] for the complete procedure.
 
@@ -78,9 +78,9 @@ Retaliation is intentionally lethal. Combat attacks that meet Defense inflict le
 
 If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper to play during the same run with every Wound box cleared, but leaves permanent scars. Scars accumulate on the record; before each run, no more than three are Active and able to provide their adaptations. Every scar retains a donor memory that can overwrite what remains of the sapper's former life.
 
-The unit succeeds and fails together. A body is not dragged during play. Survivors must field-revive a fallen sapper before retreating with them. Any body left behind is abandoned to corpse hounds, enemy recovery, or the battlefield and is resolved after the run. When a fallen or captured sapper can still be recovered, their location or route remains on the map and the unit receives a dangerous opportunity to bring them back. No sapper is left in no-man's-land lightly.
+The unit succeeds and fails together. Ordinary retreat does not include carrying fallen sappers back to the trench. Equipment and specific recovery actions may reposition bodies as described. Survivors must field-revive a fallen sapper before retreating with them. Any body left behind is abandoned to corpse hounds, enemy recovery, or the battlefield and is resolved after the run. When a fallen or captured sapper can still be recovered, their location or route remains on the map and the unit receives a dangerous opportunity to bring them back. No sapper is left in no-man's-land lightly.
 
-If the entire unit dies, corpse hounds or recovery details eventually return the bodies to the Allied trench. The Butchers rebuild them there, and the next run begins after their revival. See [[Death and Revival]] for both recovery paths.
+If the entire unit dies and no Battleborn can still attempt unaided revival, corpse hounds or recovery details eventually return the bodies to the Allied trench. The Butchers rebuild them there, and the next run begins after their revival. See [[Death and Revival]] for both recovery paths.
 
 ## Humanity in War
 
@@ -88,7 +88,7 @@ Every sapper tracks Humanity separately, beginning at 100. Revival costs Humanit
 
 As Humanity falls, the sapper becomes more capable and less recognizably human. Their replacements, scars, instincts, and altered behavior record the price of every run. This transformation is useful to the mission: the sappers most suited to the worst dangers are those closest to losing themselves.
 
-At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every death suffered after awakening at 0 Humanity marks one of three Burn boxes. The death whose revival first reduces them to 0 marks none. At three marked boxes the body is Burn-Listed: every subsequent death draws an anti-Battleborn section carrying restraints, phosphorus, and orders to leave no recoverable tissue. See [[Humanity and Battleborn]] for the thresholds and full Burn procedure.
+At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every death suffered after awakening at 0 Humanity marks one of three Burn boxes. The death whose revival first reduces them to 0 marks none. The death that marks the third Burn box makes the body Burn-Listed and draws an anti-Battleborn section carrying restraints, phosphorus, and orders to leave no recoverable tissue. Every death afterward draws another section. See [[Humanity and Battleborn]] for the thresholds and full Burn procedure.
 
 The operation has no arbitrary deadline. Its pressure is visible instead: Allied assault troops gather behind the parapet, guns register their targets, stretchers are stacked, and officers wait for the unit's signal. The Referee shows that readiness after every cycle. The soldiers may wait for the red flag, but the waiting must feel expensive.
 
@@ -100,7 +100,7 @@ Each run repeats the following cycle:
 2. **Outfitting:** The sappers select the limited equipment they will carry.
 3. **Deployment:** The unit leaves the Allied trench and begins a run.
 4. **Discovery:** The sappers explore, mark the map, and learn how the battlefield works.
-5. **Retaliation:** Failed Resistance 1 or higher checks provoke immediate and often lethal consequences, then leave Bought Knowledge; Resistance 0 discoveries do not retaliate.
+5. **Retaliation:** Outside combat, failed Resistance 1 or higher checks provoke immediate and often lethal consequences, then leave Bought Knowledge. During combat, the enemy turn is the retaliation unless a specific rule says otherwise. Resistance 0 discoveries do not retaliate.
 6. **Recovery:** Survivors revive the fallen, retreat without bodies they could not repair, or die beside them.
 7. **Reconstruction:** The Butchers rebuild recovered dead, Humanity is lost, and new parts and scars are recorded.
 8. **Return:** The altered unit chooses equipment using what it has learned and enters no-man's-land again.

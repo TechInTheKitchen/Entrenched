@@ -10,7 +10,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 **Field Doctrine:** Read the Ground<br>
 **Defense:** 1  
 **Humanity:** 100  
-**Movement:** 2 squares
+**Movement:** 4 squares
 
 **Appearance:** Short, narrow-shouldered, with cropped black hair and a pale birthmark covering her left ear.  
 **Memory Before the War:** Falling asleep beneath a kitchen table while adults talked above her.  
@@ -33,7 +33,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 **Field Doctrine:** Leave the Right Ruin<br>
 **Defense:** 1  
 **Humanity:** 100  
-**Movement:** 2 squares
+**Movement:** 4 squares
 
 **Appearance:** Broad hands, missing two natural teeth, old powder burns across the chin.  
 **Memory Before the War:** Splitting stone beside his father on a road above the sea.  
@@ -56,7 +56,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 **Field Doctrine:** Follow My Steps<br>
 **Defense:** 1  
 **Humanity:** 100  
-**Movement:** 2 squares
+**Movement:** 4 squares
 
 **Appearance:** Tall, shaved head, inked measurements running from each fingertip to the wrist.  
 **Memory Before the War:** Snow melting around the first flowers outside a railway station.  
@@ -79,7 +79,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 **Field Doctrine:** Behind Me<br>
 **Defense:** 1  
 **Humanity:** 100  
-**Movement:** 2 squares
+**Movement:** 4 squares
 
 **Appearance:** Heavy jaw, cauliflower ears, and regimental prayers written inside both sleeves.  
 **Memory Before the War:** Dancing badly in a crowded room while someone stood on his boots.  

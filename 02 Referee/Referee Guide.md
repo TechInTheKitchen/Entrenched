@@ -165,7 +165,7 @@ The unit should rarely want to desert. The objective, the people in the trench, 
 
 ## Ending a Run
 
-A run ends when the objective is complete, the entire unit is dead, or the survivors retreat after reviving whom they can and abandoning the remaining bodies. Do not prolong an inevitable retreat with repeated checks over known ground. Focus on any pursuit, unrecovered body, or changed hazard that makes the return meaningfully different.
+A run ends when the objective is complete, the entire unit is dead with no Battleborn still able to attempt unaided revival, or the survivors retreat after reviving whom they can and abandoning the remaining bodies. Do not prolong an inevitable retreat with repeated checks over known ground. Focus on any pursuit, unrecovered body, or changed hazard that makes the return meaningfully different.
 
 Afterward:
 
@@ -196,7 +196,7 @@ Use [[Combat Checklist]], [[Movement and Exploration Checklist]], and [[Run Cycl
 - **Keep the map true.** Change it only when the fiction changes it.
 - **Make failure immediate.** Retaliation creates motion; Bought Knowledge creates the next decision.
 - **Let knowledge matter.** A discovered route is progress even when everyone dies.
-- **Keep safety brief.** The trench offers recovery, not relief.
+- **Keep trench interludes brief.** The trench offers recovery, not relief.
 - **Show the cost.** Every new ability should leave something human behind.
 
 ---

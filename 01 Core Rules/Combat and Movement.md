@@ -17,7 +17,7 @@ Every marked Wound box removes 1 die from every check and attack. Dice pools can
 Rules use two distinct terms:
 
 - A **lethal hit** marks an empty Wound box; when none remains, it leaves the sapper Dying.
-- An effect that says a sapper is **killed** bypasses Wound boxes. It represents complete destruction, crushing, drowning, direct shell impact, or another consequence reconstructed toughness cannot soften.
+- An effect that says a sapper is **killed** causes immediate death, bypassing Wound boxes and the Last Action. Whether the remains can be revived depends on the effect; being killed does not by itself mean permanent destruction.
 
 > [!IMPORTANT] Telegraph Certain Death
 > The referee should make an obvious killing danger clear before it is resolved. Do not replace ordinary attacks with automatic killing effects.
@@ -66,7 +66,7 @@ Concealment, a silent approach, a prepared ambush, or a scenario rule may create
 
 ## Position and Range
 
-Combat uses squares on the operation map or a quickly sketched local map. Distance is divided into three practical ranges:
+Combat uses squares on the operation map or a quickly sketched local map. Count each orthogonal or diagonal step as one square; movement cannot cut diagonally through a solid corner. Occupants of the same square are within Melee range. Distance is divided into three practical ranges:
 
 - **Melee:** An adjacent square.
 - **Close:** From 2 to 6 squares away, suited to pistols, shotguns, thrown weapons, and other short-ranged attacks.
@@ -112,7 +112,7 @@ Roll the pool and count successes. If the number of successes equals or exceeds 
 
 An attack normally selects one target. When a weapon, hazard, or operation explicitly allows one attack to threaten several targets, make one attack roll and compare its successes separately with each target's Defense. Apply one lethal hit to every target whose Defense is met. Effects that automatically mark a Wound box or kill say so explicitly and require no attack roll.
 
-Weapons are designed for a particular range. A weapon adds its equipment rating to the attack only when the target is within that weapon's listed range. At another range, the sapper rolls only their combat skill and other applicable modifiers. A level 2 rifle, for example, adds two dice against a target at Far range but adds no weapon dice against a target at Close range.
+Weapons are designed for a particular range. A weapon adds its equipment rating to the attack only when the target is within that weapon's listed range. At another range, the sapper rolls only their combat skill and other applicable modifiers. A level 2 rifle, for example, adds two dice against a target at Far range but adds no weapon dice against a target at Close range. An attack must still be physically possible: range bonuses do not let a blade strike a distant target or a thrown weapon reach beyond the sapper's throwing distance. Use Ranged to fire a weapon, even at Melee range, and Close Quarters to strike with it.
 
 Defense is the combat counterpart to Resistance. It represents armor, unnatural durability, and the difficulty of landing a lethal blow. An unarmored human has Defense 1.
 
@@ -122,7 +122,7 @@ Every sapper begins at Defense 1 in issued protection. At 75 Humanity they gain 
 
 Field revival takes a sapper's full turn and leaves them exposed. Choose one fallen sapper in the same square or an adjacent square. Enough of the body must remain to identify and rebuild the sapper. Nearby donor material is assumed unless the fiction has explicitly removed or destroyed it. Field revival requires no roll. The reviving sapper can do nothing else that turn. The enemy then receives its full turn, giving it an opportunity to attack the survivor, seize the body, or force the unit away.
 
-If the reviving sapper remains beside the body through the enemy turn, the fallen sapper returns at the beginning of the next sapper turn. If the reviver is killed or forced away, the revival fails and must be started again. Each fallen sapper must be revived separately.
+If the reviving sapper remains beside the body through the enemy turn, the fallen sapper returns at the beginning of the next sapper turn. If the reviver is killed or forced away, the revival fails and must be started again. Becoming Dying does not interrupt a revival already underway: it completes at the beginning of the next sapper turn, before the reviver's Last Action. Each fallen sapper must be revived separately.
 
 A field-revived sapper returns with every Wound box cleared and may act normally on the turn in which they return. Apply Humanity loss and every threshold crossed immediately. Any Wound box gained by crossing a threshold begins empty. Roll and record the repair and scar immediately, but check boxes for all newly gained skill ranks during the next between-runs step. Equipment still present on the body remains with its bearer.
 

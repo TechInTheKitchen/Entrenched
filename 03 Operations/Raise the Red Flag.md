@@ -154,7 +154,7 @@ Do not add complications simply to erase success. Each should create another cho
 
 ## Debrief
 
-Once the flag rises, Allied troops advance past whatever remains of the unit. Ask each surviving player:
+Once the flag has remained standing through the enemy turn, Allied troops advance past whatever remains of the unit. Ask each surviving player:
 
 - What part of the map will future soldiers know by their sapper's name?
 - Which borrowed memory do they now mistake for their own?

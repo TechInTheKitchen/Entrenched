@@ -24,7 +24,7 @@ If at least one member of the unit survives a fight or disaster, the survivors m
 
 Enough of the body must remain to identify and rebuild the sapper. The reviver must be in the same or an adjacent square. Nearby donor material is assumed unless the fiction has explicitly removed or destroyed it. Revival requires no check.
 
-Reviving one body takes the sapper's full turn. The reviver must remain beside the fallen sapper through the following enemy turn and can do nothing else. If the reviver survives and is not forced away, the fallen sapper returns at the beginning of the next sapper turn. Every fallen sapper requires a separate revival.
+Reviving one body takes the sapper's full turn. The reviver must remain beside the fallen sapper through the following enemy turn and can do nothing else. If the reviver survives and is not forced away, the fallen sapper returns at the beginning of the next sapper turn. Becoming Dying does not interrupt a revival already underway: it completes before the reviver's Last Action on the next sapper turn. Every fallen sapper requires a separate revival.
 
 The revived sapper returns with every Wound box cleared. They may act normally during the sapper turn in which they return. Apply Humanity loss and every threshold crossed immediately; a Wound box gained at a new threshold begins empty. Roll and record the repair and scar immediately. Equipment still present on the body remains with its bearer.
 
@@ -44,7 +44,7 @@ Each scar combines a permanent physical alteration with a borrowed echo. No more
 
 If nobody remains to recover and revive the unit, [[Corpse Hounds and Handlers|corpse hounds]] or another sapper detail eventually bring the bodies back to the Allied trench. There, the [[The Butchers]] reconstruct the fallen with proper tools and the best available parts.
 
->[!note] **A Corpse Hound and it's handler ready for a recovery mission**
+>[!note] **A corpse hound and its handler ready for a recovery mission**
 >![[corpse hound and handler.webp]]
 
 A sapper revived by the Butchers:
@@ -60,11 +60,11 @@ The Butchers produce cleaner joins and do not inflict a field scar by default, b
 
 Do not skip from death directly to restored statistics. The player should feel the workshop reclaiming their sapper.
 
-1. The Butcher names the part that cannot be saved. The player marks it permanently on the body record before the replacement is rolled.
-2. Roll the replacement and donor source. Describe the material laid beside the opened body: its temperature, smell, movement, or remaining evidence of its former life.
+1. Roll the Body Die. The Butcher names the part that cannot be saved, following that result, and the player marks it permanently on the body record.
+2. Roll the Source Die to determine the donor source. Describe the material laid beside the opened body: its temperature, smell, movement, or remaining evidence of its former life.
 3. The player describes one moment their sapper remembers from the table: a saw beginning, a hand inside the chest, the sound of bone being tested, or the first sensation carried by the donor part.
 4. Apply Humanity loss and any identity threshold crossed. Use a dark marker to obscure the affected information. It may be crossed out or written over, but never erased cleanly.
-5. The sapper wakes and answers one question: **What no longer feels as though it belongs to you?**
+5. The sapper wakes and answers one question: **What do you still remember?**
 
 Keep this scene short. One sharp sensory detail and one damaged memory are more effective than a long surgical account. Players may draw a veil over specific imagery while still applying every mechanical and character-sheet consequence.
 
@@ -77,7 +77,7 @@ The body learns only from a death suffered while pursuing the operation under ge
 
 ## No Sapper Left Behind
 
-The unit's objectives demand cohesion. Bodies are not dragged during ordinary play. Survivors must field-revive a fallen sapper before retreating together. A body left behind is abandoned and resolved after the run: Allied corpse hounds may recover it for Butcher reconstruction, the enemy may capture it, or an established battlefield threat may destroy or transform it.
+The unit's objectives demand cohesion. Ordinary retreat does not include carrying fallen sappers back to the trench. Equipment and specific recovery actions may reposition bodies as described. Survivors must field-revive a fallen sapper before retreating together. A body left behind is abandoned and resolved after the run: Allied corpse hounds may recover it for Butcher reconstruction, the enemy may capture it, or an established battlefield threat may destroy or transform it.
 
 Abandoning a recoverable Allied body costs Humanity as listed in [[Humanity and Battleborn#Losing Humanity in No-Man's-Land|Losing Humanity in No-Man's-Land]]. The referee states the body's likely fate before the survivors commit to retreat whenever their sappers could judge it.
 

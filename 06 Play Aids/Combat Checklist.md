@@ -8,7 +8,7 @@ Keep this page beside the local combat map. Consult [[Combat and Movement]] for 
 - Group two to six ordinary soldiers into each formation.
 - Identify which sappers and enemies are Exposed.
 - Remind the table of Melee, Close, and Far range.
-- If one side was undetected, mark it Surprised: −1 Defense, minimum 1, through the first round.
+- If one side has not detected the other, mark the unaware side Surprised: −1 Defense, minimum 1, through the first round.
 
 ## Each Round
 
@@ -30,8 +30,8 @@ Keep this page beside the local combat map. Consult [[Combat and Movement]] for 
 2. Build the pool: skill + one relevant item + modifiers.
 3. For cooperation, add only each trained helper's checked skill ranks; leading and helping each consume an action.
 4. Roll d6s; every 6 is one success.
-5. Resistance 0 automatically succeeds; give the basic result and one additional finding per success, with no retaliation.
-6. For Resistance 1+ failure, allow Borrowed Reflex before resolving it.
+5. Allow Borrowed Reflex immediately after any check or attack roll, before resolving its result.
+6. Resistance 0 automatically succeeds; give the basic result and one additional finding per success, with no retaliation.
 7. On success, complete the declared action.
 8. During combat, failure does not add immediate retaliation unless a specific rule says otherwise.
 9. Resolve Wounds, Dying or killing, a triggered scar-memory intrusion, equipment, Humanity, thresholds, then map changes.
@@ -58,7 +58,7 @@ Keep this page beside the local combat map. Consult [[Combat and Movement]] for 
 
 - The sapper must be Fallen, identifiable, and in the same or an adjacent square.
 - No roll is required. The reviver spends their full turn and remains through the enemy turn.
-- Death or forced movement interrupts the attempt.
+- Death or forced movement interrupts the attempt. Becoming Dying does not interrupt an attempt already underway; it completes before the reviver's Last Action.
 - The revived sapper returns at the beginning of the next sapper turn.
 - Remove every Wound clip to clear the boxes; the revived sapper may act normally that turn.
 

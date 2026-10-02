@@ -11,9 +11,9 @@ Death makes a sapper more capable. It also consumes Humanity. Battleborn bodies 
 The links in these routes are the main way through the manual. The alphabetical table of contents is a shelf for finding a specific record, not a required reading order.
 
 >[!NOTE] Printable and searchable PDF
->The below PDF is available to be downloaded for ease of use, however it is strongly recommended that you use the online reader. The PDF is not a fully formatted ready to ship document and as such may have readability issues. 
+>Download the PDF below for offline use. The online reader is recommended; the PDF is a draft export and may have layout or readability issues.
 >[[Entrenched Complete Rulebook.pdf]]
- 
+
 ### First Session: Read and Play
 
 1. Agree on boundaries in [[Safety and Tone]].

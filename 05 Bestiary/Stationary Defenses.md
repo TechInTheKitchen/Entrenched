@@ -92,7 +92,7 @@ A disabled defense remains disabled unless the enemy has a surviving route, crew
 A low concrete bunker covers a road, wire gap, trench approach, or broad firing lane. Its gun fires from a slit too narrow to assault from the front.
 
 - **Tell:** Cut vegetation, rows of old impacts, ammunition links in the mud, a narrow dark slit, or ground conspicuously free of bodies.
-- **Coverage:** One marked lane up to Far range, normally 4–8 squares wide.
+- **Coverage:** One marked lane, normally 4–8 squares wide, extending to the limit of the gun's visible coverage.
 - **Trigger:** Visible movement, muzzle flash, or a loud impact within the lane.
 - **Retaliation:** The gun makes one 7-dice Far attack. If several sappers cross the lane together, the same roll threatens each of them.
 - **Protection:** The concrete shell and recessed slit cannot be attacked head-on. The hidden crew has Defense 1 when exposed.
@@ -106,7 +106,7 @@ The pillbox is the model for a distraction and perfect-shot puzzle. One sapper c
 A steel dome watches several approaches and directs artillery it does not fire itself.
 
 - **Tell:** A turning lens, field telephone wire, ranging flags, fresh shell patterns, or a dome on terrain too exposed for an ordinary sentry.
-- **Coverage:** Every visible area within Far range, divided by solid barriers and terrain.
+- **Coverage:** Every visible square in its marked coverage, divided by solid barriers and terrain.
 - **Trigger:** The cupola observes a sapper remain in one area, use explosives, or cross a previously watched route.
 - **Retaliation:** Mark the observed square. At the end of the next sapper turn, a shell attacks everyone still within 2 squares with 8 dice. The mark remains visible before impact.
 - **Protection:** The armored dome cannot be harmed by ordinary firearms. Its observer has Defense 1 when a vision shutter opens.
@@ -137,7 +137,7 @@ A buried fuel reservoir feeds a projector behind an armored shutter. It denies t
 - **Tell:** Oily condensation, dead ground without intact corpses, heat shimmer, fuel pipes, scorched brick, or the click of a shutter cycling.
 - **Coverage:** A Close cone or one trench section extending 6 squares from the projector.
 - **Trigger:** Warm movement, vibration on a pressure line, or any sapper crossing the marked threshold.
-- **Retaliation:** Everyone in the covered area is attacked once with 7 dice. A sapper killed by the flame cannot be revived unless recoverable material remains. A Battleborn death marks Burn normally; a result that explicitly completely incinerates the remains fills every remaining Burn box.
+- **Retaliation:** Everyone in the covered area is attacked once with 7 dice. A sapper killed by the flame, including one who dies after a Last Action caused by its hit, cannot be revived unless recoverable material remains. A Battleborn death marks Burn normally; an effect that explicitly completely incinerates the remains causes permanent destruction.
 - **Protection:** The projector sits behind a shutter that opens only to fire. The nozzle has Defense 3 while open.
 - **Openings:** Trigger it with a thrown object or moving corpse; cool or mask a sapper's heat; cut the pressure line; flood the trench; approach along the fuel pipe; wait hidden for the shutter.
 - **Defeat:** Shoot or jam the open nozzle, close the fuel valve at Resistance 2 Engineering, rupture the reservoir from a safe route, or redirect the projector into its own position.
@@ -209,7 +209,7 @@ A passage has been sealed with interlocked bodies that tense when approached. Th
 - **Tell:** Hands worn smooth at repeated gestures, uniform fragments from many armies, footprints ending at the wall, or faces turning toward familiar voices.
 - **Coverage:** One doorway, trench throat, tunnel, or narrow route.
 - **Trigger:** Touch, forced entry, an unfamiliar gait, or damage to the outer layer of bodies.
-- **Retaliation:** The gate makes a 7-dice Close attack with grasping limbs. A killed sapper is pulled into the structure at the end of the next sapper turn unless freed.
+- **Retaliation:** The gate makes a 7-dice Close attack with grasping limbs. When its attack makes a sapper Dying or kills them, the gate holds them in place. A Dying sapper still receives their Last Action. Unless freed, the sapper is pulled into the structure at the end of the next sapper turn, after any Last Action.
 - **Protection:** Ordinary attacks remove flesh that immediately regrows from nearby remains. It has no meaningful Defense while the rebuilding supply remains connected.
 - **Openings:** Imitate a donor's remembered movement; present a matching body part; remove nearby remains; follow an enemy through; trigger the grasp elsewhere while a hidden sapper reaches the nerve knot.
 - **Defeat:** Sever its supply of bodies, cut the central nerve knot at Resistance 2 Close Quarters or Engineering during an Opening, burn the established regrowth source, or teach it a new recognized gesture through repeated donor contact.

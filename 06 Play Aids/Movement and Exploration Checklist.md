@@ -35,4 +35,4 @@ A movement action crosses `2 + checked Mobility ranks` squares, maximum 12. Dang
 
 - Let the unit cross unchanged safe sections quickly.
 - Stop only for pursuit, a changed hazard, enemy reaction, or a consequential unrecovered body.
-- A fallen sapper must be revived before retreating with the unit; bodies are not dragged during ordinary play.
+- A fallen sapper must be revived before retreating with the unit. Equipment and specific recovery actions may reposition bodies, but ordinary retreat does not carry them back to the trench.

@@ -6,7 +6,7 @@ Humanity measures what repeated reconstruction removes from a sapper. Use [[Deat
 
 Humanity begins at 100 and is tracked separately for every sapper. It measures their connection to their memories, former identity, and life beyond the battlefield. It is also the clock counting down toward their final deployments.
 
-Humanity cannot rise above 100. When Humanity loss would reduce it below 0, it stops at 0.
+Humanity cannot be restored. When Humanity loss would reduce it below 0, it stops at 0.
 
 If one loss crosses several thresholds, resolve every crossed threshold in descending order and complete every required character-sheet alteration. One universal skill rank means checking one box in any skill. Replacement ranks follow the choices listed on the [[Repairs and Scars#Repair Table|Repair Table]]. No skill can have more than 12 checked boxes. Assign all new ranks during the next between-runs step; unassigned ranks cannot be saved beyond that step.
 
@@ -20,7 +20,7 @@ Using a dark marker, obscure the sapper's original identifying marks. Write or d
 
 ### 50 Humanity: Borrowed Reflex
 
-Once per run, after rolling but before retaliation, the sapper may reroll up to half the dice in one of their checks or attacks, rounding down. 
+Once per run, immediately after rolling their check or attack and before resolving its result, the sapper may reroll up to half the dice, rounding down. The new results replace the old results of those dice. This may be used on a successful roll, including a Resistance 0 check.
 
 Using a dark marker, obscure one important word or name in the sapper's memory before the war. Replace it with a detail from a borrowed echo or donor memory.
 
@@ -50,10 +50,10 @@ A Burn-Listed sapper is not automatically destroyed. From that death onward, rec
 
 Anti-Battleborn sections do not arrive by magic and should not erase a rescue already in progress. They follow known routes, require time, and can be distracted, ambushed, or cut off. Their arrival turns every later death into a race over the body.
 
-> [!NOTE] The Edge of Humanity 
+> [!NOTE] The Edge of Humanity
 > The death whose revival reduces a sapper to 0 Humanity does not mark a Burn box. The sapper died before they became Battleborn. Burn begins with deaths suffered after they awaken at 0 Humanity.
 
-Unaided revival begins on a Battleborn's next sapper turn. Count that turn as the first of three; the Battleborn returns at the beginning of the fourth sapper turn with every Wound box cleared. Each turn should show the corpse rebuilding itself: fingers dragging loose meat closer, ribs levering the torso from the mud, teeth fastening tendons, and borrowed limbs remembering how to stand. The Battleborn cannot act before the revival is complete. Moving, scattering, immobilizing, or burning the remains interrupts the count. An ally may instead perform normal field revival.
+Unaided revival begins on a Battleborn's next sapper turn. Count that turn as the first of three; the Battleborn returns at the beginning of the fourth sapper turn with every Wound box cleared. Each turn should show the corpse rebuilding itself: fingers dragging loose meat closer, ribs levering the torso from the mud, teeth fastening tendons, and borrowed limbs remembering how to stand. The Battleborn cannot act before the revival is complete. Moving, scattering, immobilizing, or burning the remains interrupts the count. An ally may instead perform normal field revival. Unaided revival uses the normal field-revival consequences: roll a replacement and a scar, gain any eligible ranks for assignment between runs, and clear all Wound boxes. Humanity remains at 0. Do not end the run solely because everyone is dead while a Battleborn can still attempt unaided revival.
 
 Ordinary burning does not add Burn beyond the box marked for death unless an effect says it does. An effect that explicitly **completely incinerates** a body causes permanent destruction. If the enemy captures a helpless Battleborn, mark every remaining Burn box and dispatch an anti-Battleborn section. The captive remains recoverable until the section completes its incineration procedure.
 
@@ -74,7 +74,7 @@ Death is the largest loss of Humanity, but it is not the only way the battlefiel
 | Witness an Allied sapper suffer permanent incineration | `1d6` |
 | Be incorporated into, digested by, or revived from a battlefield monstrosity | `1d6 + 2` |
 
-Use these losses when the event truly occurs; do not charge Humanity merely for seeing something unpleasant. A sapper normally suffers only one incidental Humanity-loss event during a run. Scar-memory intrusions count toward this limit. Revival costs and losses explicitly stated to ignore the limit by an item, creature, or operation still apply. Tell the player what slips away, then apply every crossed threshold immediately.
+Use these losses when the event truly occurs; do not charge Humanity merely for seeing something unpleasant. A sapper normally suffers only one incidental Humanity-loss event during a run. Humanity lost by resisting a scar-memory intrusion counts toward this limit. After an incidental Humanity-loss event, later scar triggers during that run may color narration but cannot demand either memory erasure or Humanity. Yielding to an intrusion uses the one intrusion allowed to exact a cost, but does not use the incidental Humanity-loss allowance. Revival costs and losses explicitly stated to ignore the limit by an item, creature, or operation still apply. Tell the player what slips away, then apply every crossed threshold immediately.
 
 ---
 

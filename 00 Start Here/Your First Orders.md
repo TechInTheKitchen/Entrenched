@@ -7,7 +7,7 @@ Read this aloud together before creating sappers. When the text asks you to reco
 
 ## The Transport
 
-You tremble as you share a packed transport truck with a dozen other recruits.
+You share a packed transport truck with a dozen other recruits. The benches tremble beneath you.
 
 The canvas roof traps the smell of damp wool, old tobacco, and the sour antiseptic painted along the benches. Rifles knock together whenever the wheels enter a shell hole. Nobody acknowledges the sickly sweet smell of burnt flesh. Everyone holds their papers inside their coat as though the rain might dissolve their names before command has finished using them.
 
@@ -91,15 +91,15 @@ Before you can leave, an orderly leads the recruits to a tiled room below the tr
 
 A dead sapper lies on the central table. Their tunic has been cut away. One boot is laced loosely around a leg that ends above the knee. A Butcher washes their hands in a metal basin and asks the orderly for a replacement by weight.
 
-Nobody tells you to remain, but as your stomach turns your eyes remain fixed on the scene before you.
+Nobody tells you to remain. The orderly waits beside the open door while the Butcher works.
 
-The Butcher fits the replacement into the body, tests the new joint, and closes the seam with black cord. With a soft utterance the corpse begins breathing, the recruits nearest the table step back. You do not. There is nowhere to step.
+The Butcher fits the replacement into the body, tests the new joint, and closes the seam with black cord. At a soft utterance from the Butcher, the corpse begins breathing. The recruits nearest the table step back into the crowded room.
 
 The revived sapper opens unmatching eyes and asks whether the red flag has risen.
 
 The Butcher answers, "Not yet."
 
-This is what command means by recovery. When you die and enough of you remains, another sapper may perform a field revival under fire, or the Butchers may reconstruct you after the corpse hounds bring you home. You will return with every Wound box cleared. You will also lose Humanity, replace parts of your body, gain skill from what was fitted to you, and perhaps carry a memory filled scar belonging to the donor.
+This is what command means by recovery. When you die and enough of you remains, another sapper may perform a field revival under fire, or the Butchers may reconstruct you after the corpse hounds bring you home. You will return with every Wound box cleared. You will also lose Humanity, replace parts of your body, gain skill from what was fitted to you, and perhaps carry a scar carrying a donor's memory.
 
 > [!NOTE] Loss on the battlefield
 > Nothing is erased neatly. Your sheet will be crossed out, overwritten, and drawn upon as your sapper changes. The body diagram is not decoration. It is the service record command trusts most.
@@ -118,7 +118,7 @@ Together, confirm that every sheet has:
 - One Specialty and its Field Doctrine
 - Exactly seven starting skill ranks, with no skill above 3
 - Humanity 100, Defense 1, and no Wound boxes
-- Three level 1 items, plus issued helmet and armor
+- Three level 1 items, plus issued helmet, armor, respirator, map case, and grease pencil
 - An untouched body diagram and empty replacement record
 
 If anything is missing, the clerk returns the page without comment, a cold look behind their eyes.
@@ -131,7 +131,7 @@ Everything between those marks is your responsibility.
 
 You will cross the parapet, discover what command does not know, and mark it on the shared map. Routes will remain useful. Destroyed positions will remain destroyed. Mines, shelters, patrols, bodies, and mistakes will accumulate in ink. The map may outlive every sapper who contributes to it.
 
-Outside, infantry gather in the communications trenches. Gun crews wait beside loaded rifles and equipment stained brown and stitched together by unseen maintenance teams. Stretcher bearers arrange empty litters against the wall. None of them know when they will advance. They are waiting for your section to make the assault possible.
+Outside, infantry gather in the communications trenches. Gun crews wait beside loaded guns and equipment stained brown and stitched together by unseen maintenance teams. Stretcher bearers arrange empty litters against the wall. None of them know when they will advance. They are waiting for your section to make the assault possible.
 
 The officer folds a plain red flag and places it on the table.
 

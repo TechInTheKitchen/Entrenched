@@ -49,7 +49,7 @@ Enemy sappers lay mines, recover bodies, alter routes, and investigate Allied eq
 **Attack:** Automatic trench gun 7 dice at Close; pile-driver 6 dice at Melee  
 **Skills:** Awareness 5, Mobility 5, Strength 5
 
-An Assault Corporal directs nearby soldiers. While the Corporal lives, enemy soldiers on the same map may act in whichever order best supports one another.
+An Assault Corporal directs nearby soldiers to coordinate fire, flank, and protect recovery efforts. This describes its tactics; enemies still use the normal action and turn-order rules.
 
 ### Enemy Sergeant
 
@@ -80,7 +80,7 @@ A Battleborn should be a mission problem rather than an incidental encounter. Tr
 
 These specialists deploy only against a Burn-Listed body, a captured Battleborn, or a target command has positively identified as capable of unaided revival. A section contains three to six hunters carrying hooked restraint lines, corpse-recognition reagents, fuel, and enough phosphorus to deny the Butchers a specimen.
 
-The hunters do not begin by exchanging fire. They advance toward the marked body, secure it, and spend one uninterrupted action preparing the burn. On their next action they completely incinerate it. Restraint lines, suppressing fire, and ordinary soldiers protect that procedure. Killing the crew, moving the body, severing their route, or forcing them away interrupts it.
+The hunters act as one formation. They advance toward the marked body, then spend one formation action beside it securing the remains and preparing the burn. On their next enemy turn, they may spend the formation's action to completely incinerate it. Preparation and incineration must occur on separate enemy turns; splitting the hunters cannot accelerate this procedure. Restraint lines, suppressing fire, and ordinary soldiers protect that procedure. Killing the crew, moving the body, severing their route, or forcing them away interrupts it.
 
 Their arrival must be telegraphed. Let the unit hear the fuel tins, see white-coated troops enter a communications trench, intercept the cremation order, or watch recognition flares rise over the corpse. They are a closing recovery puzzle, not an invisible punishment.
 
@@ -137,7 +137,7 @@ The Burrower travels through soft ground and corpse-filled mud. Its position can
 **Attack:** Barbed embrace 7 dice at Close  
 **Skills:** Awareness 5, Strength 8
 
-Bodies have grown through a mass of signal wire and barbed coils. A sapper killed by its attack is pulled adjacent to it. At the beginning of its next turn, the Saint knots the body into itself; recovering that sapper then requires killing the Saint or passing a Resistance 3 Engineering check beside it.
+Bodies have grown through a mass of signal wire and barbed coils. A sapper who becomes Dying or is killed by its attack is pulled adjacent to it. A Dying sapper still receives their Last Action. Once the sapper is dead, the Saint knots the body into itself at the beginning of its next turn if it remains adjacent; recovering that sapper then requires killing the Saint or passing a Resistance 3 Engineering check beside it.
 
 ### Trench Mare
 
@@ -146,7 +146,7 @@ Bodies have grown through a mass of signal wire and barbed coils. A sapper kille
 **Attack:** Charge 7 dice at Melee  
 **Skills:** Mobility 7, Awareness 5, Strength 7
 
-A long equine reconstruction burdened with human arms and respirators. If it moves at least 6 squares before attacking, add 2 dice to its charge. After a failed attack, it continues moving in a straight line until blocked.
+A long equine reconstruction burdened with human arms and respirators. As one charge action, it may move in a straight line and make one Melee attack. If it moves at least 6 squares before attacking, add 2 dice. After a failed attack, it continues along that line until blocked or its total movement for the action reaches its Speed. It cannot move farther than its Speed during a charge.
 
 ### Choir in the Mud
 
