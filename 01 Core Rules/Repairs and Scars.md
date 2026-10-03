@@ -24,7 +24,7 @@ Mark the selected zone and draw the repair over it in permanent ink. Use fur, st
 
 Never erase an earlier repair. When the same zone is replaced again, draw the new material over and through the old work. Extend it across one adjacent boundary without marking that neighboring zone as replaced. The changing silhouette is the most accurate portrait of the sapper.
 
-When all ten zones have been marked, the sapper's **Body Record is Exhausted**. Every later replacement must extend onto the written character record as well as the body outline. Draw stitches through a skill, cover part of an equipment box with fur, or let Black Matter run beneath the sapper's name. This is visual and permanent; it does not create another numerical bonus.
+When all zones have been marked, the sapper's **Body Record is Exhausted**. Every later replacement must extend onto the written character record as well as the body outline. Draw stitches through a skill, cover part of an equipment box with fur, or let Black Matter run beneath the sapper's name. This is visual and permanent; it does not create another numerical bonus.
 
 ### Body Die: Replaced Part
 
