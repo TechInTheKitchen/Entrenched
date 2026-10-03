@@ -38,14 +38,3 @@ Read [[Referee Guide]] → [[Mission Construction]] → [[Raise the Red Flag]]. 
 ### Setting Dossiers
 
 The setting records are for referee preparation and for players who enjoy browsing revealed lore. They are not prerequisites for the first operation. A natural route is [[The Long War]] → [[The Allied Trench]] → [[187th Sappers Regiment]] → [[No-Man's-Land]] → [[The Shifting Front]] → [[The First Sappers]] → [[Project Eisenseele]] → [[The Butchers]] → [[Corpse Hounds and Handlers]] → [[Faith of the Final Trench]] → [[The Enemy]].
-
-## Vault Structure
-
-- **00 Start Here:** Safety, induction, and quick-reference material
-- **01 Core Rules:** Player rules, character rules, death, repair, scars, and equipment
-- **02 Referee:** Procedures for running operations, retaliation, and horror
-- **03 Operations:** Ready-to-run operations
-- **04 Setting:** The Long War, factions, institutions, and battlefield lore
-- **05 Bestiary:** Enemy profiles and monsters
-- **06 Play Aids:** Premade characters and printable checklists for live play
-
