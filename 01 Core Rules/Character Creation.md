@@ -119,7 +119,7 @@ The player may rename a specialty to fit the sapper's history while retaining it
 
 Assign 5 additional skill ranks among any skills. Each rank is one checked box on that skill's row. Combined with the 2 ranks from specialty, every recruit begins with 7 checked boxes total. No skill may begin above rank 3; over a sapper's lifetime, no skill may exceed rank 12.
 
-Sappers gain additional **skill ranks** through revival. Check one more box in the chosen skill for each rank gained. The number of checked boxes is the skill's current rank and the number of skill dice it contributes. Broad skills leave room for specialization through equipment, scars, body parts, and the particular actions a sapper becomes known for.
+Sappers gain additional **skill ranks** through revival. Check one more box in the chosen skill for each rank gained. The number of checked boxes is the skill's current rank and the number of skill dice it contributes. Each eligible revival grants 2 ranks, or 3 with Black Matter, divided among any skills. Equipment and chosen skills define the sapper's capabilities; replacement descriptions and donor memories are roleplay aids.
 
 ## Skills
 

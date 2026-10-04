@@ -81,7 +81,7 @@ Possible boundaries:
 
 The mechanical procedure for reconstruction is in [[Death and Revival]].
 > [!NOTE] Related Records
-> [[Death and Revival]] · [[Repairs and Scars#Repair Table|Repair Table]] · [[Repairs and Scars#Scar Table|Scar Table]] · [[Project Eisenseele]]
+> [[Death and Revival]] · [[Replacements and Memories|Replacements and Memories]] · [[Replacements and Memories#Borrowed Memories|Borrowed Memories]] · [[Project Eisenseele]]
 
 ---
 

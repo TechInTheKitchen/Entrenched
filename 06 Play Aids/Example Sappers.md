@@ -117,7 +117,7 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 **Equipment:** Rope and climbing hooks, Butcher's field roll, service revolver
 
-**Role:** Mercer reaches objectives and bodies before the battlefield closes around them. The field roll improves the unit's replacement-source choice, making Mercer especially valuable when the other sappers die far from the trench.
+**Role:** Mercer reaches objectives and bodies before the battlefield closes around them. The field roll reduces the normal Humanity cost of field revival by 1, making Mercer especially valuable when the other sappers die far from the trench.
 
 ## Private Anja Roth, Rifleman
 
@@ -146,4 +146,4 @@ They may be used as ready-made characters or as guides when creating new sappers
 
 These packages are deliberately uneven outside their specialties. Cooperation and equipment selection should matter, and no recruit can cover every danger.
 
-After the first death, check one box for the universal revival rank in a skill that fits the sapper's experience. Then check boxes for replacement ranks in the skills allowed by the [[Repairs and Scars#Repair Table|Repair Table]]. The number of checked boxes is always the skill's current rank; a few revivals should pull each example away from this clean starting identity and toward the strange collection of skills, scars, and donor instincts created during play.
+After each eligible revival, assign 2 skill ranks among any skills during the next between-runs step, or 3 total if Black Matter was used. Black Matter also adds 2 Humanity to that revival's cost. Choose the replacement part from what killed the sapper and its source from available material; use the [[Replacements and Memories#Repair Table|fallback tables]] only when needed. The number of checked boxes is the skill's current rank. Donor memories are optional roleplay details.

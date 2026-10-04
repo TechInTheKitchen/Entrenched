@@ -38,7 +38,7 @@ Anyone may step away and return when ready. The game does not require a characte
 ## Character Control
 
 > [!IMPORTANT] The Player Retains Control
-> Borrowed memories, donor impulses, and scar-memory intrusions create pressure but do not give the referee unlimited control of a player character. State the trigger and ask the player how the brief reaction appears. The player decides how their sapper yields or resists; an intrusion never dictates a lethal action, consumes an entire turn, or decides the character's loyalties.
+> Donor memories and impulses are optional roleplay aids. The player decides whether and how they appear, and may ignore a prompt without cost. They never grant bonuses, impose penalties, force actions, change loyalties, erase written memories, or cost Humanity. Identity changes at Humanity thresholds remain part of the rules, subject to the group's agreed boundaries.
 
 Identity fields are physically obscured because Humanity is being lost. A player may choose how to mark the sheet and may use removable overlays, sticky notes, or a photocopy if permanent alteration of the original sheet would be uncomfortable.
 

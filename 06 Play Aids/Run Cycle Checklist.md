@@ -7,7 +7,7 @@ Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the 
 - Confirm safety boundaries and desired horror intensity.
 - Give the unit its objective and incomplete map.
 - Issue three level 1 items to each Private.
-- Mark Humanity, Defense, Wound capacity, Borrowed Reflex, Burn, consumables, scars, and borrowed-echo triggers. Put red paper clips by the sheet's Wound spots only when wounds occur.
+- Mark Humanity, Defense, Wound capacity, Borrowed Reflex, Burn, and consumables. Put red paper clips by the sheet's Wound spots only when wounds occur.
 - Establish the Allied trench and the first visible landmark.
 
 ## During Every Run
@@ -27,12 +27,12 @@ Use this beside [[Core Game Loop]]. Consult [[Mission Construction]] before the 
 - Resolve abandoned bodies and Butcher reconstruction.
 - Remove Wound clips for every revived sapper; never add capacity beyond Humanity thresholds.
 - Apply Humanity loss and identity erasure.
-- Record replacement parts, scars, newly checked skill ranks, military rank, Wounds, and Burn.
-- If a death was staged solely to gain ranks, grant no universal or replacement ranks.
+- Record replacement parts and donor sources, newly checked skill ranks, military rank, Wounds, and Burn.
+- If a death was staged solely to gain ranks, grant no skill ranks, including no Black Matter bonus.
 - Decide what the enemy observed and choose one or two logical reactions.
 - Track any anti-Battleborn section already dispatched when the third Burn box was marked or a later death occurred; do not delay its dispatch until between runs.
 - Replace and refill level 1 gear; account separately for scarce level 2 and priority level 3 items and consumables.
-- Assign items to bearers, refresh per-run abilities, and mark no more than three scars Active for each sapper. Do not refill scarce consumables unless supply is available.
+- Assign items to bearers and refresh per-run abilities. Players may add an optional donor memory to a replacement. Do not refill scarce consumables unless supply is available.
 - Mark recoverable bodies, captives, enemy routes, and the next opportunity to bring them home.
 - Show one new sign of Allied readiness. This creates obligation, not a hidden deadline.
 - Begin the next run from the Allied trench.

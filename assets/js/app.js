@@ -10,7 +10,7 @@
   const encodedPath = path => normalize(path).split("/").map(encodeURIComponent).join("/");
   const mediaPattern = /\.(?:avif|gif|jpe?g|png|svg|webp)$/i;
   const escapeHtml = value => String(value).replace(/[&<>'"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","'":"&#39;",'"':"&quot;"}[c]));
-  const slugify = value => value.toLowerCase().trim().replace(/<[^>]+>/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
+  const slugify = value => value.toLowerCase().trim().replace(/<[^>]+>/g, "").replace(/&#(?:x[0-9a-f]+|[0-9]+);|&(?:amp|quot|apos|lt|gt);/g, "-").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
   function findPage(target) {
     const cleaned = normalize(target).replace(/^\//, "").trim();

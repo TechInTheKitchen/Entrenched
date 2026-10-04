@@ -99,7 +99,7 @@ The revived sapper opens unmatching eyes and asks whether the red flag has risen
 
 The Butcher answers, "Not yet."
 
-This is what command means by recovery. When you die and enough of you remains, another sapper may perform a field revival under fire, or the Butchers may reconstruct you after the corpse hounds bring you home. You will return with every Wound box cleared. You will also lose Humanity, replace parts of your body, gain skill from what was fitted to you, and perhaps carry a scar carrying a donor's memory.
+This is what command means by recovery. When you die and enough of you remains, another sapper may perform a field revival under fire, or the Butchers may reconstruct you after the corpse hounds bring you home. You will return with every Wound box cleared. You will also lose Humanity, replace parts of your body, gain two skill ranks, and perhaps remember something from the donor's life. Black Matter grants a third rank and costs 2 extra Humanity.
 
 > [!NOTE] Loss on the battlefield
 > Nothing is erased neatly. Your sheet will be crossed out, overwritten, and drawn upon as your sapper changes. The body diagram is not decoration. It is the service record command trusts most.

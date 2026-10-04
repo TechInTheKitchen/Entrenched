@@ -183,7 +183,7 @@ Human throats are mortared into a bunker wall. They listen for speech, repeat it
 - **Trigger:** Speech, shouted orders, gunfire, or a sapper answering an imitated voice.
 - **Retaliation:** The Choir fixes the speaker's location. A concealed gun makes a 6-dice attack that ignores smoke but not solid barriers.
 - **Protection:** The throats are spread throughout the structure. Destroying one does not silence the Choir.
-- **Openings:** Use hand signals; create sound somewhere else; speak through a long pipe; follow which throats answer first; let a borrowed echo recognize and complete the Choir's phrase.
+- **Openings:** Use hand signals; create sound somewhere else; speak through a long pipe; follow which throats answer first; use a donor memory already established in play to recognize and complete the Choir's phrase.
 - **Defeat:** Sever the central vocal cord at Resistance 2 Engineering, drown the chambers, destroy the resonating room, or use its repeated commands to direct enemy defenders into the wrong position.
 
 Hearing the Choir clearly may qualify for Humanity loss from perceiving the other side, but do not charge Humanity merely for hearing one unsettling voice.

@@ -70,27 +70,16 @@ An enemy formation makes one attack using the lead soldier's pool, adding +1 die
 
 ## Revival
 
-Field revival requires no roll and takes one full turn in the same or an adjacent square to an identifiable body. The reviver must remain there through the enemy turn.
+Field revival requires no check and takes one full turn in the same or an adjacent square to an identifiable body. The reviver must remain there through the enemy turn; the sapper returns at the beginning of the next sapper turn.
 
-Field revival:
+1. Choose the part from the fatal injury and the donor from available material. Roll only if the scene and a quick table choice cannot settle a detail.
+2. Lose `1d6 + 2` Humanity in the field or `2d6 + 2` with the Butchers. Black Matter adds **2 Humanity** to that revival's cost, outside the incidental-loss limit.
+3. Clear all Wounds and note the replacement plus **2 ranks owed**, or **3 total with Black Matter**. Assign ranks among any skills between runs, maximum 12 per skill. Drawings and optional donor memories can wait.
 
-- Lose `1d6 + 2` Humanity
-- Roll one replacement
-- Gain one passive physical scar and one triggered borrowed echo
-- Gain one universal skill rank plus replacement ranks
-- Clear every marked Wound box and return able to act on that sapper turn
+One revival grants one package of ranks even if several parts need replacing. Black Matter must be available, and using more of it does not multiply the bonus or cost. Do not also charge incidental Black Matter contact for the same graft.
 
-A death staged solely to gain ranks grants no universal or replacement ranks. Humanity loss, repair, scars, and all other consequences still apply.
+A death staged solely to gain ranks grants none, including no Black Matter bonus; replacement and Humanity loss still apply. See [[Replacements and Memories|Replacements and Memories]].
 
-Butcher revival after trench recovery:
-
-- Lose `2d6 + 2` Humanity
-- Roll one replacement
-- Gain no field scar by default
-- Gain one universal skill rank plus replacement ranks
-- Complete the Butcher's identity procedure
-
-Every completed revival clears all marked Wound boxes. Check the boxes for universal and replacement skill ranks in the appropriate rows during the next between-runs step.
 
 ## Humanity
 
@@ -104,11 +93,9 @@ Every completed revival clears all marked Wound boxes. Check the boxes for unive
 
 Apply identity erasure immediately when crossing a threshold. At 0 Humanity, replace the original name with a battlefield name.
 
-## Scars and Battleborn
+## Memories and Battleborn
 
-Scars accumulate permanently. Before each run, mark no more than three as Active; only Active scars grant passive adaptations. A newly gained scar fills an empty Active slot immediately; existing choices change only between runs. All scars may still intrude through borrowed memories. Identical adaptations do not stack, and only the single best scar can affect one roll or attack.
-
-When a borrowed echo's trigger becomes immediate, the player may yield by briefly showing the reaction and overwriting one written memory detail, or resist and lose 1 Humanity. Only one intrusion exacts a cost from that sapper each run, and none can exact a cost after that sapper has suffered an incidental Humanity loss.
+Donor memories are optional roleplay prompts. They grant no bonuses, impose no penalties or forced actions, and never cost Humanity or erase written memories. Humanity thresholds still alter the identity record.
 
 Every death suffered after awakening at 0 Humanity marks one Burn box. The death whose revival first reaches 0 marks none. The death that marks the third Burn box makes the body Burn-Listed and draws an anti-Battleborn extermination section. Every death afterward draws another section. A Battleborn may revive unaided over three complete turns, but must do so before the hunters pin and incinerate the remains. Capture fills all remaining Burn boxes and draws an extermination section. The sapper remains recoverable until completely incinerated or otherwise made permanently unrecoverable.
 

@@ -30,7 +30,7 @@ Do not make every description wet flesh and screaming. Use contrast:
 - Familiarity followed by incorrect recognition
 - Military efficiency applied to an impossible body
 - Domestic comfort beside industrial death
-- A useful adaptation accompanied by a private loss
+- A useful new skill accompanied by a private loss
 - Silence after prolonged noise
 
 One precise image is stronger than a paragraph of gore.

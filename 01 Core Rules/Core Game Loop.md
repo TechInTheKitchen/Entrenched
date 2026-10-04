@@ -76,7 +76,7 @@ Retaliation is intentionally lethal. Combat attacks that meet Defense inflict le
 
 ## Death in the Field
 
-If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper to play during the same run with every Wound box cleared, but leaves permanent scars. Scars accumulate on the record; before each run, no more than three are Active and able to provide their adaptations. Every scar retains a donor memory that can overwrite what remains of the sapper's former life.
+If at least one sapper remains alive after a fight or disaster, that survivor can rebuild the fallen in the field. Field revival is crude, hurried work performed with nearby remains and whatever tools the unit carried. It returns the fallen sapper during the same run with every Wound box cleared. Choose the replacement part from the fatal injury and its source from nearby remains; roll only if the scene and a quick choice cannot settle a detail. Each revival grants 2 ranks, or 3 with Black Matter at a cost of 2 additional Humanity. Note the part and donor now; drawings, rank allocation, and optional donor memories can wait until between runs.
 
 The unit succeeds and fails together. Ordinary retreat does not include carrying fallen sappers back to the trench. Equipment and specific recovery actions may reposition bodies as described. Survivors must field-revive a fallen sapper before retreating with them. Any body left behind is abandoned to corpse hounds, enemy recovery, or the battlefield and is resolved after the run. When a fallen or captured sapper can still be recovered, their location or route remains on the map and the unit receives a dangerous opportunity to bring them back. No sapper is left in no-man's-land lightly.
 
@@ -86,7 +86,7 @@ If the entire unit dies and no Battleborn can still attempt unaided revival, cor
 
 Every sapper tracks Humanity separately, beginning at 100. Revival costs Humanity. A typical sapper is expected to die and return three to five times during each session.
 
-As Humanity falls, the sapper becomes more capable and less recognizably human. Their replacements, scars, instincts, and altered behavior record the price of every run. This transformation is useful to the mission: the sappers most suited to the worst dangers are those closest to losing themselves.
+As Humanity falls, the sapper becomes more capable and less recognizably human. Their replacements, memories, and altered behavior record the price of every run. This transformation is useful to the mission: the sappers most suited to the worst dangers are those closest to losing themselves.
 
 At 0 Humanity, a sapper becomes **Battleborn**. The player retains control of them. Their durability and accumulated skill make them the natural choice for the operation's most dangerous work, but every death suffered after awakening at 0 Humanity marks one of three Burn boxes. The death whose revival first reduces them to 0 marks none. The death that marks the third Burn box makes the body Burn-Listed and draws an anti-Battleborn section carrying restraints, phosphorus, and orders to leave no recoverable tissue. Every death afterward draws another section. See [[Humanity and Battleborn]] for the thresholds and full Burn procedure.
 
@@ -102,7 +102,7 @@ Each run repeats the following cycle:
 4. **Discovery:** The sappers explore, mark the map, and learn how the battlefield works.
 5. **Retaliation:** Outside combat, failed Resistance 1 or higher checks provoke immediate and often lethal consequences, then leave Bought Knowledge. During combat, the enemy turn is the retaliation unless a specific rule says otherwise. Resistance 0 discoveries do not retaliate.
 6. **Recovery:** Survivors revive the fallen, retreat without bodies they could not repair, or die beside them.
-7. **Reconstruction:** The Butchers rebuild recovered dead, Humanity is lost, and new parts and scars are recorded.
+7. **Reconstruction:** The Butchers rebuild recovered dead, Humanity is lost, and replacement parts and ranks owed are recorded.
 8. **Return:** The altered unit chooses equipment using what it has learned and enters no-man's-land again.
 
 ### Showing Allied Readiness
@@ -123,10 +123,10 @@ Readiness creates obligation, not a timer. Do not punish deliberate reconnaissan
 1. Preserve discoveries, cleared obstacles, destroyed positions, and abandoned equipment on the map.
 2. Remove temporary smoke, fire, and other short-lived effects.
 3. Resolve abandoned bodies and every Butcher reconstruction.
-4. Record Humanity loss, repairs, scars, newly checked skill ranks, promotions, Wounds, and Burn.
+4. Record Humanity loss, repairs, newly checked skill ranks, promotions, Wounds, and Burn.
 5. Decide what the enemy observed and choose one or two logical responses.
 6. Replace and refill level 1 gear, account for scarce level 2 and priority level 3 supplies, and outfit every sapper.
-7. Refresh per-run abilities, choose up to three Active scars for each sapper, and note scar-memory triggers that may matter on the next route.
+7. Refresh per-run abilities. Players may add an optional donor memory to a replacement; no memory bookkeeping is required.
 8. Begin again from the Allied trench, crossing unchanged safe ground quickly.
 
 The cycle ends only in mission success or the permanent destruction of the unit.

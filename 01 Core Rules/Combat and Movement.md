@@ -40,12 +40,11 @@ When several effects follow one roll, resolve them in this order:
 1. Determine success or failure, including any allowed reroll.
 2. Apply the action's effect on a success or the primary retaliation on a failure.
 3. Resolve attacks, marked Wound boxes, Dying, or explicit killing.
-4. Resolve one triggered scar-memory intrusion when applicable.
-5. Damage, destroy, or separate equipment when the consequence calls for it.
-6. Apply Humanity loss and immediately resolve any threshold crossed.
-7. Update positions, bodies, hazards, and discoveries on the map, including Bought Knowledge after a failed non-combat check.
+4. Damage, destroy, or separate equipment when the consequence calls for it.
+5. Apply Humanity loss and immediately resolve any threshold crossed.
+6. Update positions, bodies, hazards, and discoveries on the map, including Bought Knowledge after a failed non-combat check.
 
-One failed check outside combat normally creates one primary retaliation and one instance of Bought Knowledge. A scar, item, or named hazard may add its stated consequence, but failure is not permission to pile on unrelated punishments. During combat, the enemy turn is the retaliation and Bought Knowledge is granted only when a specific rule says so. A successful check accomplishes its declared purpose before any stated cost is applied.
+One failed check outside combat normally creates one primary retaliation and one instance of Bought Knowledge. An item or named hazard may add its stated consequence, but failure is not permission to pile on unrelated punishments. During combat, the enemy turn is the retaliation and Bought Knowledge is granted only when a specific rule says so. A successful check accomplishes its declared purpose before any stated cost is applied.
 
 ## Combat
 
@@ -124,7 +123,7 @@ Field revival takes a sapper's full turn and leaves them exposed. Choose one fal
 
 If the reviving sapper remains beside the body through the enemy turn, the fallen sapper returns at the beginning of the next sapper turn. If the reviver is killed or forced away, the revival fails and must be started again. Becoming Dying does not interrupt a revival already underway: it completes at the beginning of the next sapper turn, before the reviver's Last Action. Each fallen sapper must be revived separately.
 
-A field-revived sapper returns with every Wound box cleared and may act normally on the turn in which they return. Apply Humanity loss and every threshold crossed immediately. Any Wound box gained by crossing a threshold begins empty. Roll and record the repair and scar immediately, but check boxes for all newly gained skill ranks during the next between-runs step. Equipment still present on the body remains with its bearer.
+A field-revived sapper returns with every Wound box cleared and may act normally on the turn in which they return. Choose the replacement from the fatal injury and available donor material. Apply the full Humanity loss, including 2 extra for Black Matter, and every threshold crossed immediately. Any Wound box gained by crossing a threshold begins empty. Record a short note and 2 ranks owed, or 3 if Black Matter is used. Use fallback dice only when the scene and a quick choice cannot settle a detail. Drawings, optional memories, and skill allocation can wait until between runs. Equipment still present on the body remains with its bearer.
 
 The detailed timing and requirements for completing a field revival are covered in [[Death and Revival]].
 

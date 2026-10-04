@@ -115,7 +115,7 @@ Leaving a sapper behind is a last resort, not a routine between-run cleanup. If 
 > [!IMPORTANT] Keep the Dead Player Involved
 > When a sapper dies, keep that player involved in decisions about recovery, the map, and the remaining unit. If anyone survives, field revival can return the dead after the required full round. If everyone dies, move quickly to body recovery and reconstruction in the trench.
 
-Skill ranks gained through revival represent a body learning under genuine battlefield pressure. If the unit plainly arranges a safe death only to harvest replacement ranks, apply the revival, Humanity loss, repair, and scar but grant no universal or replacement ranks. Do not use this rule against desperate sacrifices or risky plans; it exists to prevent the war from becoming a training exercise conducted on cooperative corpses.
+Skill ranks gained through revival represent a body learning under genuine battlefield pressure. If the unit plainly arranges a safe death only to harvest replacement ranks, apply the revival, replacement, and full Humanity loss, including any Black Matter cost, but grant no skill ranks. Do not use this rule against desperate sacrifices or risky plans; it exists to prevent the war from becoming a training exercise conducted on cooperative corpses.
 
 When a third Burn box is marked, announce that the body is Burn-Listed and show the anti-Battleborn response approaching. Give it a route, equipment, and enough time for the unit to attempt recovery. The hunters secure the corpse, prepare it, and then incinerate it; they do not erase it between sentences. Every death after the third draws the same response until the Battleborn is permanently destroyed.
 
@@ -170,12 +170,12 @@ A run ends when the objective is complete, the entire unit is dead with no Battl
 Afterward:
 
 1. Resolve Butcher revival and Humanity loss.
-2. Record repairs, scars, newly checked skill ranks, and promotions.
+2. Record repairs and donor sources, allocate 2 ranks per eligible revival or 3 with Black Matter, and record promotions.
 3. Let the players update their map.
 4. Decide what the enemy learned and how it reacts.
 5. Present one brief trench detail.
 6. Show one sign of Allied readiness or institutional pressure.
-7. Choose up to three Active scars for each sapper.
+7. Offer an optional donor-memory prompt if a player wants one; skip it when the unit is ready to deploy.
 8. Re-equip the unit and begin the next run.
 
 ## Brutal, Not Arbitrary

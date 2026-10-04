@@ -29,7 +29,7 @@ You can begin play here. Follow the rules links when a situation calls for them.
 
 ### Complete Player Rules
 
-Read [[Character Creation]] (including [[Character Creation#Field Doctrines|Field Doctrines]]) → [[Core Game Loop]] → [[Skill Checks and Exploration]] → [[Combat and Movement]] → [[Equipment]] → [[Death and Revival]] → [[Humanity and Battleborn]] → [[Repairs and Scars]]. Finish with [[Quick Reference]] as a table aid, not another chapter.
+Read [[Character Creation]] (including [[Character Creation#Field Doctrines|Field Doctrines]]) → [[Core Game Loop]] → [[Skill Checks and Exploration]] → [[Combat and Movement]] → [[Equipment]] → [[Death and Revival]] → [[Humanity and Battleborn]] → [[Replacements and Memories|Replacements and Memories]]. Finish with [[Quick Reference]] as a table aid, not another chapter.
 
 ### Referee Preparation
 

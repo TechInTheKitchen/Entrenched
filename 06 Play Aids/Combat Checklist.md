@@ -34,7 +34,7 @@ Keep this page beside the local combat map. Consult [[Combat and Movement]] for 
 6. Resistance 0 automatically succeeds; give the basic result and one additional finding per success, with no retaliation.
 7. On success, complete the declared action.
 8. During combat, failure does not add immediate retaliation unless a specific rule says otherwise.
-9. Resolve Wounds, Dying or killing, a triggered scar-memory intrusion, equipment, Humanity, thresholds, then map changes.
+9. Resolve Wounds, Dying or killing, equipment, Humanity, thresholds, then map changes.
 
 **Bought Knowledge applies automatically only outside combat.** A failed combat action grants it only when an attack, hazard, emplacement, or operation explicitly says that failure reveals something. Visible enemy actions still reveal their ordinary positions and behavior.
 

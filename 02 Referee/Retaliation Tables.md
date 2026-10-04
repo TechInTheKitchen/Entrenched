@@ -40,7 +40,7 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 | 11 | Flying metal marks one exposed sapper's Wound box; if none is empty, they become Dying. |
 | 12 | Walking fire crosses the route. Every exposed sapper must immediately move 2 squares toward shelter or mark a Wound box, becoming Dying if none is empty. |
 | 13 | A shelter entrance collapses. Anyone inside remains protected but trapped; clearing the entrance is Resistance 2 Strength or Engineering. |
-| 14 | The closest fallen body is thrown 6 squares and badly pulped. Its next field revival rolls twice on the Scar Table and keeps both scars. |
+| 14 | The closest fallen body is thrown 6 squares and badly pulped. Use that damage when choosing its replacement; it grants the normal revival ranks, not extra ranks for extra damaged parts. |
 | 15 | A mortar crew brackets the area. Mark its center; until the unit escapes or silences the observers, hesitation produces two linked threats instead of one. |
 | 16 | A direct hit destroys one marked piece of shelter. Occupants may flee immediately or be killed beneath it. Change the map permanently. |
 | 17 | A heavy shell attacks every sapper in one chosen square with 10 dice and destroys every loose item and ordinary body there. |
@@ -139,7 +139,7 @@ One result may threaten one sapper or the whole unit as written. If an attack th
 | 5 | One replacement part pulls toward a useful cache, body, or Black Matter seam while trying to tear itself free of its owner. Mark a Wound box or let it guide the unit. |
 | 6 | The mud repeats the acting sapper's last words in the voice of their donor. Nearby creatures hear the reply. |
 | 7 | Hair, teeth, or fingernails grow across one square and make it dangerous ground. |
-| 8 | A familiar memory proves to belong to a corpse beneath the unit. Resolve a scar-memory intrusion for one sapper if they have not already paid its cost this run. |
+| 8 | A corpse beneath the unit repeats a sapper's familiar memory aloud, revealing the unit's position. The player may describe a donor memory in response, without any required reaction or memory cost. |
 | 9 | Black rain marks every exposed sapper with a scent that grants nearby monsters 2 additional Awareness dice. |
 | 10 | The ground drinks spilled blood and moves the nearest body 2 squares beneath the surface. Its location remains visible as breathing mud. |
 | 11 | A replacement part rejects its owner. Mark a Wound box; if none is empty, the sapper becomes Dying. |
